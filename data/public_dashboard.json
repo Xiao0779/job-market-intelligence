@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-04-22T23:49:20-07:00",
+  "refreshed_at": "2026-04-23T09:00:58-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -14,7 +14,7 @@
   "metrics": {
     "tracked_roles": 182,
     "active_roles": 46,
-    "response_rate_pct": 3.1,
+    "response_rate_pct": 1.6,
     "linkedin_sent": 11,
     "pending_pipeline": 121,
     "recommended_pipeline": 25,
@@ -22,9 +22,9 @@
   },
   "status_counts": {
     "interview": 1,
-    "applied": 44,
+    "applied": 45,
     "rejected": 18,
-    "responded": 1
+    "discarded": 1
   },
   "top_companies": [
     {
@@ -69,6 +69,13 @@
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-04-23",
+      "company": "Brex",
+      "role": "Data Analyst II",
+      "location": "New York, NY (hybrid)",
+      "status": "applied"
+    },
     {
       "date_found": "2026-04-22",
       "company": "Airtable",
@@ -129,13 +136,6 @@
       "date_found": "2026-04-20",
       "company": "Handshake",
       "role": "Associate Machine Learning Engineer",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-20",
-      "company": "Tatari",
-      "role": "Data Science Analyst",
       "location": "San Francisco",
       "status": "applied"
     }
