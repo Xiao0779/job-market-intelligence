@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-04-22T19:11:22-07:00",
+  "refreshed_at": "2026-04-22T23:49:20-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,9 +12,9 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 180,
-    "active_roles": 43,
-    "response_rate_pct": 3.4,
+    "tracked_roles": 182,
+    "active_roles": 46,
+    "response_rate_pct": 3.1,
     "linkedin_sent": 11,
     "pending_pipeline": 121,
     "recommended_pipeline": 25,
@@ -22,10 +22,9 @@
   },
   "status_counts": {
     "interview": 1,
-    "applied": 40,
-    "rejected": 17,
-    "responded": 1,
-    "evaluated": 1
+    "applied": 44,
+    "rejected": 18,
+    "responded": 1
   },
   "top_companies": [
     {
@@ -41,12 +40,12 @@
       "count": 11
     },
     {
-      "company": "Robinhood",
+      "company": "Anthropic",
       "count": 10
     },
     {
-      "company": "Anthropic",
-      "count": 9
+      "company": "Robinhood",
+      "count": 10
     },
     {
       "company": "Chime",
@@ -72,10 +71,38 @@
   "recent_roles": [
     {
       "date_found": "2026-04-22",
+      "company": "Airtable",
+      "role": "AI Analytics Engineer (Marketing Analytics)",
+      "location": "San Francisco / New York / Austin",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-22",
+      "company": "Airtable",
+      "role": "AI Analytics Engineer (Business Analytics)",
+      "location": "San Francisco / New York / Austin",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-22",
+      "company": "Torc Robotics",
+      "role": "Data Scientist I - Decision Science",
+      "location": "Ann Arbor, MI",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-22",
+      "company": "Anthropic",
+      "role": "Anthropic Fellows Program",
+      "location": "Remote-Friendly, United States / San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-22",
       "company": "Nextdoor",
       "role": "Machine Learning Engineer - New Grad 2026",
       "location": "San Francisco",
-      "status": "evaluated"
+      "status": "rejected"
     },
     {
       "date_found": "2026-04-21",
@@ -109,34 +136,6 @@
       "date_found": "2026-04-20",
       "company": "Tatari",
       "role": "Data Science Analyst",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-16",
-      "company": "CommonLit",
-      "role": "Data Analyst",
-      "location": "remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-16",
-      "company": "Khan Academy",
-      "role": "Data Analyst I, Analytics Reporting (24 months fixed-term)",
-      "location": "Mountain View",
-      "status": "rejected"
-    },
-    {
-      "date_found": "2026-04-16",
-      "company": "Acorns",
-      "role": "Data Analyst I",
-      "location": "remote",
-      "status": "rejected"
-    },
-    {
-      "date_found": "2026-04-16",
-      "company": "Instawork",
-      "role": "Strategy and Analytics Associate, GTM",
       "location": "San Francisco",
       "status": "applied"
     }

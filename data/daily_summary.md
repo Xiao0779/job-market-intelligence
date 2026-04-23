@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-04-22T19:11:22-07:00_
+_Last refreshed: 2026-04-22T23:49:20-07:00_
 
 ## Positioning
 
@@ -10,9 +10,9 @@ _Last refreshed: 2026-04-22T19:11:22-07:00_
 
 ## Snapshot
 
-- Tracked roles: 180
-- Active roles: 43
-- Response rate: 3.4%
+- Tracked roles: 182
+- Active roles: 46
+- Response rate: 3.1%
 - LinkedIn outreach sent: 11
 - Pending pipeline items: 121
 - Recommended pipeline items: 25
@@ -20,24 +20,23 @@ _Last refreshed: 2026-04-22T19:11:22-07:00_
 
 ## Status Breakdown
 
-- applied: 40
-- evaluated: 1
+- applied: 44
 - interview: 1
-- rejected: 17
+- rejected: 18
 - responded: 1
 
 ## Recent Activity
 
-- 2026-04-22: Nextdoor | Machine Learning Engineer - New Grad 2026 | evaluated
+- 2026-04-22: Airtable | AI Analytics Engineer (Marketing Analytics) | applied
+- 2026-04-22: Airtable | AI Analytics Engineer (Business Analytics) | applied
+- 2026-04-22: Torc Robotics | Data Scientist I - Decision Science | applied
+- 2026-04-22: Anthropic | Anthropic Fellows Program | applied
+- 2026-04-22: Nextdoor | Machine Learning Engineer - New Grad 2026 | rejected
 - 2026-04-21: Petco | Petco Love - Data Analyst | applied
 - 2026-04-21: Miller Kaplan | Junior Data Analyst | applied
 - 2026-04-20: Doordash | Associate, Customer Experience- Data & Strategy | applied
 - 2026-04-20: Handshake | Associate Machine Learning Engineer | applied
 - 2026-04-20: Tatari | Data Science Analyst | applied
-- 2026-04-16: CommonLit | Data Analyst | applied
-- 2026-04-16: Khan Academy | Data Analyst I, Analytics Reporting (24 months fixed-term) | rejected
-- 2026-04-16: Acorns | Data Analyst I | rejected
-- 2026-04-16: Instawork | Strategy and Analytics Associate, GTM | applied
 
 ## Recommended Opportunity Queue
 
