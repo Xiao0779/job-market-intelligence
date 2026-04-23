@@ -1,6 +1,16 @@
-# Job Market Intelligence Dashboard
+# Job Market Intelligence
 
-A privacy-safe analytics layer on top of my active job search. This repo turns local job-search data into a public-facing, GitHub-backed dashboard without publishing raw personal trackers, resumes, or recruiter contact details.
+A GitHub-backed analytics product that syncs messy local job-search data into a privacy-safe public reporting workflow with Python, SQLite, and automated refreshes.
+
+## What I Built
+
+This project turns a messy personal operating workflow into a usable analytics product:
+
+- ingest data from multiple local sources with different formats
+- normalize statuses and merge duplicate records into one clean model
+- define a privacy boundary between private operational data and public outputs
+- generate daily summaries, machine-readable snapshots, CSV exports, and charts
+- automate refreshes so the reporting layer stays current with minimal manual work
 
 ## Overview
 
@@ -9,18 +19,18 @@ The workflow merges two local sources:
 1. `~/Desktop/career.xlsx` — manual application tracker
 2. `~/Desktop/career-ops/*` — AI-assisted job search system with pipeline, reports, and tailored materials
 
-From those inputs, the project rebuilds a local SQLite database, generates public charts, and writes a sanitized markdown/json snapshot that can be committed to GitHub daily.
+From those inputs, the project rebuilds a local SQLite database, generates public charts, and writes sanitized markdown/json snapshots that can be committed to GitHub daily.
 
 ## Why This Exists
 
-This project shows the kind of analytics workflow I would build for a real team:
+This project reflects how I like to build:
 
-- ingest messy source data from multiple systems
-- normalize statuses and merge duplicate records
-- separate local operational data from public reporting
-- publish a clean summary that helps decision-making
+- start from a real workflow, not a toy dataset
+- design the data model and sync logic end-to-end
+- make complex information legible for decision-making
+- ship something useful enough to run every day
 
-It is both a working job-search tool and a portfolio piece for data / analytics roles.
+It is both a working job-search tool and a portfolio piece for analytics, AI-native workflow, and product-minded engineering roles.
 
 ## Stack
 
@@ -31,6 +41,17 @@ It is both a working job-search tool and a portfolio piece for data / analytics 
 | Sync pipeline | Python, openpyxl, PyYAML |
 | Analytics | Python, matplotlib |
 | Public outputs | Markdown, JSON, PNG charts |
+
+## Why It Is Product-Like
+
+Even though the domain is job search, the underlying problem is a classic product/data problem:
+
+- users generate fragmented operational data across tools
+- raw data contains duplicates, inconsistent statuses, and private information
+- stakeholders need a clean, trustworthy view of what matters now
+- the system has to be useful repeatedly, not just correct once
+
+I built this repo around those constraints: define the schema, clean the pipeline, enforce privacy rules, and publish outputs that are lightweight but actionable.
 
 ## Refresh Workflow
 
