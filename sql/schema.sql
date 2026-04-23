@@ -1,37 +1,52 @@
 -- Job Market Intelligence Database Schema
--- 三张表：职位、技能、申请记录
+-- Built from two local sources:
+--   1. Desktop/career.xlsx
+--   2. Desktop/career-ops/*
 
--- 职位表
-CREATE TABLE IF NOT EXISTS jobs (
-    id          INTEGER PRIMARY KEY AUTOINCREMENT,
-    date_found  TEXT NOT NULL,          -- 发现日期
-    company     TEXT NOT NULL,          -- 公司名
-    role        TEXT NOT NULL,          -- 岗位名称
-    location    TEXT,                   -- 地点
-    remote      INTEGER DEFAULT 0,      -- 是否远程 (0/1)
-    salary_min  INTEGER,                -- 薪资下限
-    salary_max  INTEGER,                -- 薪资上限
-    source      TEXT,                   -- 数据来源
-    status      TEXT DEFAULT 'open'     -- open / closed
+DROP TABLE IF EXISTS skills;
+DROP TABLE IF EXISTS applications;
+DROP TABLE IF EXISTS jobs;
+
+CREATE TABLE jobs (
+    id              INTEGER PRIMARY KEY AUTOINCREMENT,
+    external_key    TEXT NOT NULL UNIQUE,
+    date_found      TEXT,
+    company         TEXT NOT NULL,
+    role            TEXT NOT NULL,
+    location        TEXT,
+    remote          INTEGER DEFAULT 0,
+    jd_url          TEXT,
+    source          TEXT NOT NULL,          -- merged source labels
+    source_detail   TEXT,                   -- excel / career-ops / pipeline
+    score           REAL,
+    report_path     TEXT,
+    pdf_ready       INTEGER DEFAULT 0,
+    in_pipeline     INTEGER DEFAULT 0,
+    raw_status      TEXT,
+    normalized_status TEXT,
+    updated_at      TEXT NOT NULL
 );
 
--- 技能标签表（每个职位对应多个技能）
-CREATE TABLE IF NOT EXISTS skills (
-    id          INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id      INTEGER NOT NULL,
-    skill       TEXT NOT NULL,
-    category    TEXT,                   -- Programming / ML / Stats / Tools / Soft
+CREATE TABLE applications (
+    id                INTEGER PRIMARY KEY AUTOINCREMENT,
+    job_id            INTEGER NOT NULL,
+    date_applied      TEXT,
+    app_status        TEXT,                 -- applied / rejected / interview / offer / ...
+    source_status     TEXT,                 -- raw source status before normalization
+    linkedin_contact  TEXT,
+    linkedin_status   TEXT,
+    oa_status         TEXT,
+    interview_status  TEXT,
+    notes             TEXT,
+    excel_present     INTEGER DEFAULT 0,
+    career_ops_present INTEGER DEFAULT 0,
     FOREIGN KEY (job_id) REFERENCES jobs(id)
 );
 
--- 申请记录表
-CREATE TABLE IF NOT EXISTS applications (
-    id               INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id           INTEGER NOT NULL,
-    date_applied     TEXT,
-    app_status       TEXT DEFAULT 'waiting',  -- waiting / rejected / interview / offer
-    linkedin_contact TEXT,
-    linkedin_status  TEXT,                    -- sent / replied / none
-    notes            TEXT,
+CREATE TABLE skills (
+    id          INTEGER PRIMARY KEY AUTOINCREMENT,
+    job_id      INTEGER NOT NULL,
+    skill       TEXT NOT NULL,
+    category    TEXT,
     FOREIGN KEY (job_id) REFERENCES jobs(id)
 );
