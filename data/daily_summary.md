@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-04-23T09:00:58-07:00_
+_Last refreshed: 2026-04-23T18:00:00-07:00_
 
 ## Positioning
 
@@ -10,9 +10,9 @@ _Last refreshed: 2026-04-23T09:00:58-07:00_
 
 ## Snapshot
 
-- Tracked roles: 182
-- Active roles: 46
-- Response rate: 1.6%
+- Tracked roles: 189
+- Active roles: 53
+- Response rate: 1.5%
 - LinkedIn outreach sent: 11
 - Pending pipeline items: 121
 - Recommended pipeline items: 25
@@ -20,23 +20,23 @@ _Last refreshed: 2026-04-23T09:00:58-07:00_
 
 ## Status Breakdown
 
-- applied: 45
+- applied: 52
 - discarded: 1
 - interview: 1
 - rejected: 18
 
 ## Recent Activity
 
+- 2026-04-23: DraftKings | Analyst I, Customer Forecasting | applied
+- 2026-04-23: Impact | Associate Data Analyst, Consumer & Network Insights | applied
+- 2026-04-23: Two Dots | Data Analyst | applied
+- 2026-04-23: Amazon | Data Analyst, RCX | applied
+- 2026-04-23: Lightfield | AI Product Engineer, New Grad | applied
+- 2026-04-23: PureIntegration | Junior Data Analyst | applied
+- 2026-04-23: Firetiger | Product Engineer — New Grad | applied
 - 2026-04-23: Brex | Data Analyst II | applied
 - 2026-04-22: Airtable | AI Analytics Engineer (Marketing Analytics) | applied
 - 2026-04-22: Airtable | AI Analytics Engineer (Business Analytics) | applied
-- 2026-04-22: Torc Robotics | Data Scientist I - Decision Science | applied
-- 2026-04-22: Anthropic | Anthropic Fellows Program | applied
-- 2026-04-22: Nextdoor | Machine Learning Engineer - New Grad 2026 | rejected
-- 2026-04-21: Petco | Petco Love - Data Analyst | applied
-- 2026-04-21: Miller Kaplan | Junior Data Analyst | applied
-- 2026-04-20: Doordash | Associate, Customer Experience- Data & Strategy | applied
-- 2026-04-20: Handshake | Associate Machine Learning Engineer | applied
 
 ## Recommended Opportunity Queue
 
