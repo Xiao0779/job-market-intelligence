@@ -503,12 +503,16 @@ def write_public_outputs(records: dict[str, Record], profile: dict) -> None:
     headline = profile.get("narrative", {}).get("headline", "")
     target_keywords = [
         "data analyst",
+        "data operations",
         "data scientist",
         "business intelligence",
         "business analyst",
+        "operations analyst",
+        "commercial ops",
         "product analyst",
         "research analyst",
         "analytics engineer",
+        "analytics developer",
         "machine learning engineer",
         "ml engineer",
         "nlp engineer",

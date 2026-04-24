@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-04-23T09:00:58-07:00",
+  "refreshed_at": "2026-04-24T09:05:05-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 182,
-    "active_roles": 46,
-    "response_rate_pct": 1.6,
+    "tracked_roles": 191,
+    "active_roles": 55,
+    "response_rate_pct": 1.4,
     "linkedin_sent": 11,
     "pending_pipeline": 121,
-    "recommended_pipeline": 25,
+    "recommended_pipeline": 30,
     "avg_evaluated_score": 3.5
   },
   "status_counts": {
     "interview": 1,
-    "applied": 45,
+    "applied": 54,
     "rejected": 18,
     "discarded": 1
   },
@@ -36,12 +36,12 @@
       "count": 13
     },
     {
-      "company": "Reddit",
+      "company": "Anthropic",
       "count": 11
     },
     {
-      "company": "Anthropic",
-      "count": 10
+      "company": "Reddit",
+      "count": 11
     },
     {
       "company": "Robinhood",
@@ -56,16 +56,16 @@
       "count": 8
     },
     {
+      "company": "Amazon",
+      "count": 6
+    },
+    {
       "company": "Thumbtack",
       "count": 6
     },
     {
       "company": "Cohere",
       "count": 6
-    },
-    {
-      "company": "Amazon",
-      "count": 5
     }
   ],
   "recent_roles": [
@@ -73,35 +73,56 @@
       "date_found": "2026-04-23",
       "company": "Brex",
       "role": "Data Analyst II",
-      "location": "New York, NY (hybrid)",
+      "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-22",
-      "company": "Airtable",
-      "role": "AI Analytics Engineer (Marketing Analytics)",
-      "location": "San Francisco / New York / Austin",
+      "date_found": "2026-04-23",
+      "company": "Firetiger",
+      "role": "Product Engineer \u2014 New Grad",
+      "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-22",
-      "company": "Airtable",
-      "role": "AI Analytics Engineer (Business Analytics)",
-      "location": "San Francisco / New York / Austin",
+      "date_found": "2026-04-23",
+      "company": "PureIntegration",
+      "role": "Junior Data Analyst",
+      "location": "Reston, VA",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-22",
-      "company": "Torc Robotics",
-      "role": "Data Scientist I - Decision Science",
-      "location": "Ann Arbor, MI",
+      "date_found": "2026-04-23",
+      "company": "Lightfield",
+      "role": "AI Product Engineer, New Grad",
+      "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-22",
-      "company": "Anthropic",
-      "role": "Anthropic Fellows Program",
-      "location": "Remote-Friendly, United States / San Francisco",
+      "date_found": "2026-04-23",
+      "company": "Amazon",
+      "role": "Data Analyst, RCX",
+      "location": "Bellevue",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-23",
+      "company": "Two Dots",
+      "role": "Data Analyst",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-23",
+      "company": "Impact",
+      "role": "Associate Data Analyst, Consumer & Network Insights",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-23",
+      "company": "DraftKings",
+      "role": "Analyst I, Customer Forecasting",
+      "location": "Boston",
       "status": "applied"
     },
     {
@@ -112,31 +133,10 @@
       "status": "rejected"
     },
     {
-      "date_found": "2026-04-21",
-      "company": "Petco",
-      "role": "Petco Love - Data Analyst",
-      "location": "San Diego",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-21",
-      "company": "Miller Kaplan",
-      "role": "Junior Data Analyst",
-      "location": "Burbank, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-20",
-      "company": "Doordash",
-      "role": "Associate, Customer Experience- Data & Strategy",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-20",
-      "company": "Handshake",
-      "role": "Associate Machine Learning Engineer",
-      "location": "San Francisco",
+      "date_found": "2026-04-22",
+      "company": "Anthropic",
+      "role": "Anthropic Fellows",
+      "location": "Berkeley",
       "status": "applied"
     }
   ]
