@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-04-24T09:05:05-07:00",
+  "refreshed_at": "2026-04-25T23:47:55-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 191,
-    "active_roles": 55,
-    "response_rate_pct": 1.4,
+    "tracked_roles": 205,
+    "active_roles": 64,
+    "response_rate_pct": 1.2,
     "linkedin_sent": 11,
-    "pending_pipeline": 121,
-    "recommended_pipeline": 30,
-    "avg_evaluated_score": 3.5
+    "pending_pipeline": 124,
+    "recommended_pipeline": 29,
+    "avg_evaluated_score": 3.76
   },
   "status_counts": {
     "interview": 1,
-    "applied": 54,
+    "applied": 63,
     "rejected": 18,
     "discarded": 1
   },
@@ -37,7 +37,7 @@
     },
     {
       "company": "Anthropic",
-      "count": 11
+      "count": 12
     },
     {
       "company": "Reddit",
@@ -48,16 +48,16 @@
       "count": 10
     },
     {
+      "company": "Amazon",
+      "count": 9
+    },
+    {
       "company": "Chime",
-      "count": 8
+      "count": 9
     },
     {
       "company": "Samsara",
-      "count": 8
-    },
-    {
-      "company": "Amazon",
-      "count": 6
+      "count": 9
     },
     {
       "company": "Thumbtack",
@@ -70,73 +70,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-04-23",
-      "company": "Brex",
-      "role": "Data Analyst II",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-23",
-      "company": "Firetiger",
-      "role": "Product Engineer \u2014 New Grad",
+      "date_found": "2026-04-25",
+      "company": "Ramp",
+      "role": "Data Scientist, All Levels",
       "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-23",
-      "company": "PureIntegration",
-      "role": "Junior Data Analyst",
-      "location": "Reston, VA",
+      "date_found": "2026-04-25",
+      "company": "SentiLink",
+      "role": "Data Scientist, New Grad",
+      "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-23",
-      "company": "Lightfield",
-      "role": "AI Product Engineer, New Grad",
-      "location": "San Francisco",
+      "date_found": "2026-04-25",
+      "company": "Abode Money",
+      "role": "Data Analyst",
+      "location": "Austin",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-23",
+      "date_found": "2026-04-25",
       "company": "Amazon",
-      "role": "Data Analyst, RCX",
+      "role": "Data Scientist I, Customer Delivery Excellence Science",
       "location": "Bellevue",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-23",
-      "company": "Two Dots",
-      "role": "Data Analyst",
+      "date_found": "2026-04-25",
+      "company": "Amazon Science",
+      "role": "Data Scientist I, Customer Delivery Excellence Science",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-24",
+      "company": "Paramount",
+      "role": "Analyst, Global Content & Lifecycle Analytics (44492)",
+      "location": "West Hollywood",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-24",
+      "company": "Amazon",
+      "role": "Business Intelligence Engineer I, Gbl Transportatn Srvcs",
+      "location": "Santa Clara",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-24",
+      "company": "Airtable",
+      "role": "AI Analytics Engineer (AI & Analytics Platform)",
       "location": "San Francisco",
       "status": "applied"
     },
     {
+      "date_found": "2026-04-24",
+      "company": "Amazon",
+      "role": "Business Intelligence Engineer I, Gbl Transportation Services",
+      "location": "",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-04-23",
-      "company": "Impact",
-      "role": "Associate Data Analyst, Consumer & Network Insights",
+      "company": "Brex",
+      "role": "Data Analyst II",
       "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-23",
-      "company": "DraftKings",
-      "role": "Analyst I, Customer Forecasting",
-      "location": "Boston",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-22",
-      "company": "Nextdoor",
-      "role": "Machine Learning Engineer - New Grad 2026",
-      "location": "San Francisco",
-      "status": "rejected"
-    },
-    {
-      "date_found": "2026-04-22",
-      "company": "Anthropic",
-      "role": "Anthropic Fellows",
-      "location": "Berkeley",
       "status": "applied"
     }
   ]
