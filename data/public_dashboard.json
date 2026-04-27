@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-04-25T23:47:55-07:00",
+  "refreshed_at": "2026-04-26T23:19:10-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,19 +12,19 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 205,
-    "active_roles": 64,
+    "tracked_roles": 208,
+    "active_roles": 65,
     "response_rate_pct": 1.2,
     "linkedin_sent": 11,
     "pending_pipeline": 124,
     "recommended_pipeline": 29,
-    "avg_evaluated_score": 3.76
+    "avg_evaluated_score": 3.73
   },
   "status_counts": {
     "interview": 1,
-    "applied": 63,
+    "applied": 64,
     "rejected": 18,
-    "discarded": 1
+    "discarded": 3
   },
   "top_companies": [
     {
@@ -69,6 +69,27 @@
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-04-26",
+      "company": "Duolingo",
+      "role": "Data Scientist I, New Graduate",
+      "location": "",
+      "status": "discarded"
+    },
+    {
+      "date_found": "2026-04-26",
+      "company": "Hive",
+      "role": "Product Analyst, Sports, Media & Marketing",
+      "location": "San Francisco (on-site)",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-26",
+      "company": "Gopuff",
+      "role": "Data Scientist II, Consumer Experience",
+      "location": "Remote, US",
+      "status": "discarded"
+    },
     {
       "date_found": "2026-04-25",
       "company": "Ramp",
@@ -116,27 +137,6 @@
       "company": "Amazon",
       "role": "Business Intelligence Engineer I, Gbl Transportatn Srvcs",
       "location": "Santa Clara",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-24",
-      "company": "Airtable",
-      "role": "AI Analytics Engineer (AI & Analytics Platform)",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-24",
-      "company": "Amazon",
-      "role": "Business Intelligence Engineer I, Gbl Transportation Services",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-23",
-      "company": "Brex",
-      "role": "Data Analyst II",
-      "location": "New York",
       "status": "applied"
     }
   ]
