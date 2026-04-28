@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-04-26T23:19:10-07:00",
+  "refreshed_at": "2026-04-27T22:56:11-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 208,
-    "active_roles": 65,
-    "response_rate_pct": 1.2,
-    "linkedin_sent": 11,
+    "tracked_roles": 214,
+    "active_roles": 70,
+    "response_rate_pct": 1.1,
+    "linkedin_sent": 20,
     "pending_pipeline": 124,
     "recommended_pipeline": 29,
     "avg_evaluated_score": 3.73
   },
   "status_counts": {
     "interview": 1,
-    "applied": 64,
-    "rejected": 18,
+    "applied": 69,
+    "rejected": 19,
     "discarded": 3
   },
   "top_companies": [
@@ -70,18 +70,60 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-04-27",
+      "company": "Sodexo",
+      "role": "Commercial Strategy & Analytics Fellow",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-27",
+      "company": "Event Network",
+      "role": "Data Entry Analyst - SSC",
+      "location": "San Diego, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-27",
+      "company": "Lentegrity",
+      "role": "Junior Data Analyst",
+      "location": "Foothill Ranch, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-27",
+      "company": "Puridy Financial",
+      "role": "Systems, Data & AI Operations Engineer",
+      "location": "San Diego, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-27",
+      "company": "Reproductive Fertility Center",
+      "role": "Data Analyst Engineer",
+      "location": "Corona, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-27",
+      "company": "TeamBuilderz LLC",
+      "role": "Data Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-26",
+      "company": "Hive",
+      "role": "Product Analyst - Sports, Media, & Marketing",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-04-26",
       "company": "Duolingo",
       "role": "Data Scientist I, New Graduate",
       "location": "",
       "status": "discarded"
-    },
-    {
-      "date_found": "2026-04-26",
-      "company": "Hive",
-      "role": "Product Analyst, Sports, Media & Marketing",
-      "location": "San Francisco (on-site)",
-      "status": "applied"
     },
     {
       "date_found": "2026-04-26",
@@ -95,48 +137,6 @@
       "company": "Ramp",
       "role": "Data Scientist, All Levels",
       "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-25",
-      "company": "SentiLink",
-      "role": "Data Scientist, New Grad",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-25",
-      "company": "Abode Money",
-      "role": "Data Analyst",
-      "location": "Austin",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-25",
-      "company": "Amazon",
-      "role": "Data Scientist I, Customer Delivery Excellence Science",
-      "location": "Bellevue",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-25",
-      "company": "Amazon Science",
-      "role": "Data Scientist I, Customer Delivery Excellence Science",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-24",
-      "company": "Paramount",
-      "role": "Analyst, Global Content & Lifecycle Analytics (44492)",
-      "location": "West Hollywood",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-24",
-      "company": "Amazon",
-      "role": "Business Intelligence Engineer I, Gbl Transportatn Srvcs",
-      "location": "Santa Clara",
       "status": "applied"
     }
   ]
