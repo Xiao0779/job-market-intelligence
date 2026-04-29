@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-04-29T00:00:38-07:00",
+  "refreshed_at": "2026-04-29T16:57:39-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,9 +12,9 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 222,
-    "active_roles": 78,
-    "response_rate_pct": 1.0,
+    "tracked_roles": 232,
+    "active_roles": 88,
+    "response_rate_pct": 0.9,
     "linkedin_sent": 20,
     "pending_pipeline": 124,
     "recommended_pipeline": 29,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 1,
-    "applied": 77,
+    "applied": 87,
     "rejected": 19,
     "discarded": 3
   },
@@ -70,73 +70,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-04-28",
-      "company": "DataDog",
-      "role": "Associate Marketing Data Analyst \u2013 Marketing Analytics",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-28",
-      "company": "AEG",
-      "role": "Data Analyst",
-      "location": "Los Angeles",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-28",
-      "company": "Ipsos",
-      "role": "Data Analyst, Global Modeling Unit",
-      "location": "Culver City, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-28",
-      "company": "Ibotta",
-      "role": "Associate Machine Learning Engineer",
-      "location": "Denver, CO",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-28",
-      "company": "Windfall",
-      "role": "Data Analyst",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-28",
-      "company": "LG Ads",
-      "role": "Data Analytics Associate (Marketing Science)",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-28",
-      "company": "LG Ad Solutions",
-      "role": "Data Analytics Associate (Marketing Science)",
-      "location": "New York, NY (On-site)",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-27",
-      "company": "Sodexo",
-      "role": "Commercial Strategy & Analytics Fellow",
+      "date_found": "2026-04-29",
+      "company": "Adelaide Metrics",
+      "role": "Business Intelligence Engineer",
       "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-27",
-      "company": "Event Network",
-      "role": "Data Entry Analyst - SSC",
+      "date_found": "2026-04-29",
+      "company": "Adelaide Metrics",
+      "role": "Data Scientist",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-29",
+      "company": "Insurify",
+      "role": "Business Data Analyst",
+      "location": "Cambridge, MA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-29",
+      "company": "Qualified Health",
+      "role": "Product Analyst",
+      "location": "Palo Alto, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-29",
+      "company": "Point Predictive",
+      "role": "QA Engineer",
       "location": "San Diego, CA",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-27",
-      "company": "Lentegrity",
-      "role": "Junior Data Analyst",
-      "location": "Foothill Ranch, CA",
+      "date_found": "2026-04-29",
+      "company": "Apex Fintech Solutions",
+      "role": "Associate Product Analyst (ALDP)",
+      "location": "Austin, TX",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-29",
+      "company": "Enhance IT",
+      "role": "Data Analyst",
+      "location": "North Carolina",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-29",
+      "company": "ATC",
+      "role": "Data Analyst",
+      "location": "Massachusetts",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-29",
+      "company": "Quest Global",
+      "role": "Data Analyst",
+      "location": "Sunnyvale, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-28",
+      "company": "DataDog",
+      "role": "Associate Marketing Data Analyst \u2013 Marketing Analytics",
+      "location": "New York",
       "status": "applied"
     }
   ]

@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-04-29T00:00:38-07:00_
+_Last refreshed: 2026-04-29T16:57:39-07:00_
 
 ## Positioning
 
@@ -10,9 +10,9 @@ _Last refreshed: 2026-04-29T00:00:38-07:00_
 
 ## Snapshot
 
-- Tracked roles: 222
-- Active roles: 78
-- Response rate: 1.0%
+- Tracked roles: 232
+- Active roles: 88
+- Response rate: 0.9%
 - LinkedIn outreach sent: 20
 - Pending pipeline items: 124
 - Recommended pipeline items: 29
@@ -20,23 +20,23 @@ _Last refreshed: 2026-04-29T00:00:38-07:00_
 
 ## Status Breakdown
 
-- applied: 77
+- applied: 87
 - discarded: 3
 - interview: 1
 - rejected: 19
 
 ## Recent Activity
 
+- 2026-04-29: Adelaide Metrics | Business Intelligence Engineer | applied
+- 2026-04-29: Adelaide Metrics | Data Scientist | applied
+- 2026-04-29: Insurify | Business Data Analyst | applied
+- 2026-04-29: Qualified Health | Product Analyst | applied
+- 2026-04-29: Point Predictive | QA Engineer | applied
+- 2026-04-29: Apex Fintech Solutions | Associate Product Analyst (ALDP) | applied
+- 2026-04-29: Enhance IT | Data Analyst | applied
+- 2026-04-29: ATC | Data Analyst | applied
+- 2026-04-29: Quest Global | Data Analyst | applied
 - 2026-04-28: DataDog | Associate Marketing Data Analyst – Marketing Analytics | applied
-- 2026-04-28: AEG | Data Analyst | applied
-- 2026-04-28: Ipsos | Data Analyst, Global Modeling Unit | applied
-- 2026-04-28: Ibotta | Associate Machine Learning Engineer | applied
-- 2026-04-28: Windfall | Data Analyst | applied
-- 2026-04-28: LG Ads | Data Analytics Associate (Marketing Science) | applied
-- 2026-04-28: LG Ad Solutions | Data Analytics Associate (Marketing Science) | applied
-- 2026-04-27: Sodexo | Commercial Strategy & Analytics Fellow | applied
-- 2026-04-27: Event Network | Data Entry Analyst - SSC | applied
-- 2026-04-27: Lentegrity | Junior Data Analyst | applied
 
 ## Recommended Opportunity Queue
 
