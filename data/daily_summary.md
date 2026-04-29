@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-04-27T22:56:11-07:00_
+_Last refreshed: 2026-04-29T00:00:38-07:00_
 
 ## Positioning
 
@@ -10,9 +10,9 @@ _Last refreshed: 2026-04-27T22:56:11-07:00_
 
 ## Snapshot
 
-- Tracked roles: 214
-- Active roles: 70
-- Response rate: 1.1%
+- Tracked roles: 222
+- Active roles: 78
+- Response rate: 1.0%
 - LinkedIn outreach sent: 20
 - Pending pipeline items: 124
 - Recommended pipeline items: 29
@@ -20,23 +20,23 @@ _Last refreshed: 2026-04-27T22:56:11-07:00_
 
 ## Status Breakdown
 
-- applied: 69
+- applied: 77
 - discarded: 3
 - interview: 1
 - rejected: 19
 
 ## Recent Activity
 
+- 2026-04-28: DataDog | Associate Marketing Data Analyst – Marketing Analytics | applied
+- 2026-04-28: AEG | Data Analyst | applied
+- 2026-04-28: Ipsos | Data Analyst, Global Modeling Unit | applied
+- 2026-04-28: Ibotta | Associate Machine Learning Engineer | applied
+- 2026-04-28: Windfall | Data Analyst | applied
+- 2026-04-28: LG Ads | Data Analytics Associate (Marketing Science) | applied
+- 2026-04-28: LG Ad Solutions | Data Analytics Associate (Marketing Science) | applied
 - 2026-04-27: Sodexo | Commercial Strategy & Analytics Fellow | applied
 - 2026-04-27: Event Network | Data Entry Analyst - SSC | applied
 - 2026-04-27: Lentegrity | Junior Data Analyst | applied
-- 2026-04-27: Puridy Financial | Systems, Data & AI Operations Engineer | applied
-- 2026-04-27: Reproductive Fertility Center | Data Analyst Engineer | applied
-- 2026-04-27: TeamBuilderz LLC | Data Analyst | applied
-- 2026-04-26: Hive | Product Analyst - Sports, Media, & Marketing | applied
-- 2026-04-26: Duolingo | Data Scientist I, New Graduate | discarded
-- 2026-04-26: Gopuff | Data Scientist II, Consumer Experience | discarded
-- 2026-04-25: Ramp | Data Scientist, All Levels | applied
 
 ## Recommended Opportunity Queue
 
@@ -58,13 +58,13 @@ _Last refreshed: 2026-04-27T22:56:11-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 46 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 46 days with no response
-- Google | Software Engineer II, Early Career | 42 days with no response
-- Apple | AIML - Machine Learning Research | 35 days with no response
-- Amazon | Data Engineer II | 33 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 33 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 33 days with no response
-- Amazon | 软件开发工程师（2026届校招）, Beijing | 33 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 33 days with no response
-- Esri | Product Test Engineer II - Feature Server | 33 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 48 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 48 days with no response
+- Google | Software Engineer II, Early Career | 44 days with no response
+- Apple | AIML - Machine Learning Research | 37 days with no response
+- Amazon | Data Engineer II | 35 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 35 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 35 days with no response
+- Amazon | 软件开发工程师（2026届校招）, Beijing | 35 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 35 days with no response
+- Esri | Product Test Engineer II - Feature Server | 35 days with no response

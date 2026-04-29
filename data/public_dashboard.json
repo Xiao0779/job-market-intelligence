@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-04-27T22:56:11-07:00",
+  "refreshed_at": "2026-04-29T00:00:38-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,9 +12,9 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 214,
-    "active_roles": 70,
-    "response_rate_pct": 1.1,
+    "tracked_roles": 222,
+    "active_roles": 78,
+    "response_rate_pct": 1.0,
     "linkedin_sent": 20,
     "pending_pipeline": 124,
     "recommended_pipeline": 29,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 1,
-    "applied": 69,
+    "applied": 77,
     "rejected": 19,
     "discarded": 3
   },
@@ -70,6 +70,55 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-04-28",
+      "company": "DataDog",
+      "role": "Associate Marketing Data Analyst \u2013 Marketing Analytics",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-28",
+      "company": "AEG",
+      "role": "Data Analyst",
+      "location": "Los Angeles",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-28",
+      "company": "Ipsos",
+      "role": "Data Analyst, Global Modeling Unit",
+      "location": "Culver City, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-28",
+      "company": "Ibotta",
+      "role": "Associate Machine Learning Engineer",
+      "location": "Denver, CO",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-28",
+      "company": "Windfall",
+      "role": "Data Analyst",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-28",
+      "company": "LG Ads",
+      "role": "Data Analytics Associate (Marketing Science)",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-28",
+      "company": "LG Ad Solutions",
+      "role": "Data Analytics Associate (Marketing Science)",
+      "location": "New York, NY (On-site)",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-04-27",
       "company": "Sodexo",
       "role": "Commercial Strategy & Analytics Fellow",
@@ -88,55 +137,6 @@
       "company": "Lentegrity",
       "role": "Junior Data Analyst",
       "location": "Foothill Ranch, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-27",
-      "company": "Puridy Financial",
-      "role": "Systems, Data & AI Operations Engineer",
-      "location": "San Diego, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-27",
-      "company": "Reproductive Fertility Center",
-      "role": "Data Analyst Engineer",
-      "location": "Corona, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-27",
-      "company": "TeamBuilderz LLC",
-      "role": "Data Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-26",
-      "company": "Hive",
-      "role": "Product Analyst - Sports, Media, & Marketing",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-26",
-      "company": "Duolingo",
-      "role": "Data Scientist I, New Graduate",
-      "location": "",
-      "status": "discarded"
-    },
-    {
-      "date_found": "2026-04-26",
-      "company": "Gopuff",
-      "role": "Data Scientist II, Consumer Experience",
-      "location": "Remote, US",
-      "status": "discarded"
-    },
-    {
-      "date_found": "2026-04-25",
-      "company": "Ramp",
-      "role": "Data Scientist, All Levels",
-      "location": "San Francisco",
       "status": "applied"
     }
   ]
