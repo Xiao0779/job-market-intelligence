@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-04-29T23:55:17-07:00_
+_Last refreshed: 2026-04-30T01:28:13-07:00_
 
 ## Positioning
 
@@ -58,13 +58,13 @@ _Last refreshed: 2026-04-29T23:55:17-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 48 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 48 days with no response
-- Google | Software Engineer II, Early Career | 44 days with no response
-- Apple | AIML - Machine Learning Research | 37 days with no response
-- Amazon | Data Engineer II | 35 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 35 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 35 days with no response
-- Amazon | 软件开发工程师（2026届校招）, Beijing | 35 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 35 days with no response
-- Esri | Product Test Engineer II - Feature Server | 35 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 49 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 49 days with no response
+- Google | Software Engineer II, Early Career | 45 days with no response
+- Apple | AIML - Machine Learning Research | 38 days with no response
+- Amazon | Data Engineer II | 36 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 36 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 36 days with no response
+- Amazon | 软件开发工程师（2026届校招）, Beijing | 36 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 36 days with no response
+- Esri | Product Test Engineer II - Feature Server | 36 days with no response
