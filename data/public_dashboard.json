@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-04-29T16:57:39-07:00",
+  "refreshed_at": "2026-04-29T23:55:17-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 232,
-    "active_roles": 88,
+    "tracked_roles": 234,
+    "active_roles": 90,
     "response_rate_pct": 0.9,
     "linkedin_sent": 20,
     "pending_pipeline": 124,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 1,
-    "applied": 87,
+    "applied": 89,
     "rejected": 19,
     "discarded": 3
   },
@@ -133,10 +133,10 @@
       "status": "applied"
     },
     {
-      "date_found": "2026-04-28",
-      "company": "DataDog",
-      "role": "Associate Marketing Data Analyst \u2013 Marketing Analytics",
-      "location": "New York",
+      "date_found": "2026-04-29",
+      "company": "Quantifind",
+      "role": "Associate Data Scientist",
+      "location": "Remote (US)",
       "status": "applied"
     }
   ]

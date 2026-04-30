@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-04-29T16:57:39-07:00_
+_Last refreshed: 2026-04-29T23:55:17-07:00_
 
 ## Positioning
 
@@ -10,8 +10,8 @@ _Last refreshed: 2026-04-29T16:57:39-07:00_
 
 ## Snapshot
 
-- Tracked roles: 232
-- Active roles: 88
+- Tracked roles: 234
+- Active roles: 90
 - Response rate: 0.9%
 - LinkedIn outreach sent: 20
 - Pending pipeline items: 124
@@ -20,7 +20,7 @@ _Last refreshed: 2026-04-29T16:57:39-07:00_
 
 ## Status Breakdown
 
-- applied: 87
+- applied: 89
 - discarded: 3
 - interview: 1
 - rejected: 19
@@ -36,7 +36,7 @@ _Last refreshed: 2026-04-29T16:57:39-07:00_
 - 2026-04-29: Enhance IT | Data Analyst | applied
 - 2026-04-29: ATC | Data Analyst | applied
 - 2026-04-29: Quest Global | Data Analyst | applied
-- 2026-04-28: DataDog | Associate Marketing Data Analyst – Marketing Analytics | applied
+- 2026-04-29: Quantifind | Associate Data Scientist | applied
 
 ## Recommended Opportunity Queue
 
