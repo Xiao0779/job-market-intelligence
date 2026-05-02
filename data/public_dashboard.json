@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-04-30T01:28:13-07:00",
+  "refreshed_at": "2026-05-01T23:48:18-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,24 +12,24 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 234,
-    "active_roles": 90,
-    "response_rate_pct": 0.9,
+    "tracked_roles": 254,
+    "active_roles": 98,
+    "response_rate_pct": 1.7,
     "linkedin_sent": 20,
-    "pending_pipeline": 124,
-    "recommended_pipeline": 29,
-    "avg_evaluated_score": 3.73
+    "pending_pipeline": 136,
+    "recommended_pipeline": 31,
+    "avg_evaluated_score": 3.75
   },
   "status_counts": {
-    "interview": 1,
-    "applied": 89,
+    "interview": 2,
+    "applied": 96,
     "rejected": 19,
     "discarded": 3
   },
   "top_companies": [
     {
       "company": "Pinterest",
-      "count": 18
+      "count": 19
     },
     {
       "company": "Scale AI",
@@ -41,34 +41,90 @@
     },
     {
       "company": "Reddit",
+      "count": 12
+    },
+    {
+      "company": "Samsara",
       "count": 11
+    },
+    {
+      "company": "Amazon",
+      "count": 10
+    },
+    {
+      "company": "Chime",
+      "count": 10
     },
     {
       "company": "Robinhood",
       "count": 10
     },
     {
-      "company": "Amazon",
-      "count": 9
-    },
-    {
-      "company": "Chime",
-      "count": 9
-    },
-    {
-      "company": "Samsara",
-      "count": 9
+      "company": "Gusto",
+      "count": 7
     },
     {
       "company": "Thumbtack",
       "count": 6
-    },
-    {
-      "company": "Cohere",
-      "count": 6
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-04-30",
+      "company": "TWG Global",
+      "role": "Associate AI Data Scientist",
+      "location": "Santa Monica, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-30",
+      "company": "Nordstrom",
+      "role": "Data Scientist - Digital Data Science",
+      "location": "Seattle, WA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-30",
+      "company": "Stackline",
+      "role": "Data Analyst I",
+      "location": "Seattle, WA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-30",
+      "company": "Amazon",
+      "role": "Business Intelligence Engineer, WHS Data",
+      "location": "Bellevue",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-30",
+      "company": "Snowflake",
+      "role": "Analyst, Finance Analytics & AI",
+      "location": "Menlo Park, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-30",
+      "company": "Applied Systems",
+      "role": "Associate AI Engineer / AI Engineer",
+      "location": "Lewisville, TX / Chicago, IL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-30",
+      "company": "ParSpec",
+      "role": "Machine Learning Engineer - 1",
+      "location": "San Mateo, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-04-30",
+      "company": "Nordstrom",
+      "role": "Data Scientist I, Digital Data Science",
+      "location": "Seattle, WA (Hybrid)",
+      "status": "applied"
+    },
     {
       "date_found": "2026-04-29",
       "company": "Adelaide Metrics",
@@ -81,62 +137,6 @@
       "company": "Adelaide Metrics",
       "role": "Data Scientist",
       "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-29",
-      "company": "Insurify",
-      "role": "Business Data Analyst",
-      "location": "Cambridge, MA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-29",
-      "company": "Qualified Health",
-      "role": "Product Analyst",
-      "location": "Palo Alto, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-29",
-      "company": "Point Predictive",
-      "role": "QA Engineer",
-      "location": "San Diego, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-29",
-      "company": "Apex Fintech Solutions",
-      "role": "Associate Product Analyst (ALDP)",
-      "location": "Austin, TX",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-29",
-      "company": "Enhance IT",
-      "role": "Data Analyst",
-      "location": "North Carolina",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-29",
-      "company": "ATC",
-      "role": "Data Analyst",
-      "location": "Massachusetts",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-29",
-      "company": "Quest Global",
-      "role": "Data Analyst",
-      "location": "Sunnyvale, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-29",
-      "company": "Quantifind",
-      "role": "Associate Data Scientist",
-      "location": "Palo Alto, CA",
       "status": "applied"
     }
   ]
