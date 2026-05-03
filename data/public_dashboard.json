@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-01T23:48:18-07:00",
+  "refreshed_at": "2026-05-02T23:48:32-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 254,
-    "active_roles": 98,
+    "tracked_roles": 257,
+    "active_roles": 101,
     "response_rate_pct": 1.7,
     "linkedin_sent": 20,
     "pending_pipeline": 136,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 2,
-    "applied": 96,
+    "applied": 99,
     "rejected": 19,
     "discarded": 3
   },
@@ -70,6 +70,27 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-05-02",
+      "company": "Holland America Line",
+      "role": "Associate Data Scientist",
+      "location": "Seattle WA; tailored resume + CL; predictive modeling + stakeholder communication angle; YODA yield optimization platform",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-02",
+      "company": "PermitFlow",
+      "role": "Analytics Engineer (New Grad)",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-01",
+      "company": "The Information",
+      "role": "Research Analyst, Data & Intelligence Products",
+      "location": "Remote/SF; tailored resume + CL; AI fluency + Job Market Intelligence pipeline angle; $100-130K + bonus",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-04-30",
       "company": "TWG Global",
       "role": "Associate AI Data Scientist",
@@ -116,27 +137,6 @@
       "company": "ParSpec",
       "role": "Machine Learning Engineer - 1",
       "location": "San Mateo, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-30",
-      "company": "Nordstrom",
-      "role": "Data Scientist I, Digital Data Science",
-      "location": "Seattle, WA (Hybrid)",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-29",
-      "company": "Adelaide Metrics",
-      "role": "Business Intelligence Engineer",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-29",
-      "company": "Adelaide Metrics",
-      "role": "Data Scientist",
-      "location": "Remote",
       "status": "applied"
     }
   ]
