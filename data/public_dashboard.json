@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-02T23:48:32-07:00",
+  "refreshed_at": "2026-05-03T23:48:33-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 257,
-    "active_roles": 101,
-    "response_rate_pct": 1.7,
+    "tracked_roles": 261,
+    "active_roles": 104,
+    "response_rate_pct": 1.6,
     "linkedin_sent": 20,
-    "pending_pipeline": 136,
-    "recommended_pipeline": 31,
+    "pending_pipeline": 137,
+    "recommended_pipeline": 32,
     "avg_evaluated_score": 3.75
   },
   "status_counts": {
     "interview": 2,
-    "applied": 99,
+    "applied": 102,
     "rejected": 19,
     "discarded": 3
   },
@@ -64,11 +64,39 @@
       "count": 7
     },
     {
-      "company": "Thumbtack",
+      "company": "Brex",
       "count": 6
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-05-03",
+      "company": "Gotion",
+      "role": "Data Analyst",
+      "location": "Manteno, IL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-03",
+      "company": "WeRide",
+      "role": "New Grads 2026 - Data Engineer",
+      "location": "San Jose, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-02",
+      "company": "Princess Cruises",
+      "role": "Associate Data Scientist",
+      "location": "Seattle",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-02",
+      "company": "PermitFlow",
+      "role": "Analytics Engineer (New Grad)",
+      "location": "New York",
+      "status": "applied"
+    },
     {
       "date_found": "2026-05-02",
       "company": "Holland America Line",
@@ -77,17 +105,10 @@
       "status": "applied"
     },
     {
-      "date_found": "2026-05-02",
-      "company": "PermitFlow",
-      "role": "Analytics Engineer (New Grad)",
-      "location": "",
-      "status": "applied"
-    },
-    {
       "date_found": "2026-05-01",
       "company": "The Information",
       "role": "Research Analyst, Data & Intelligence Products",
-      "location": "Remote/SF; tailored resume + CL; AI fluency + Job Market Intelligence pipeline angle; $100-130K + bonus",
+      "location": "San Francisco",
       "status": "applied"
     },
     {
@@ -116,27 +137,6 @@
       "company": "Amazon",
       "role": "Business Intelligence Engineer, WHS Data",
       "location": "Bellevue",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-30",
-      "company": "Snowflake",
-      "role": "Analyst, Finance Analytics & AI",
-      "location": "Menlo Park, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-30",
-      "company": "Applied Systems",
-      "role": "Associate AI Engineer / AI Engineer",
-      "location": "Lewisville, TX / Chicago, IL",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-30",
-      "company": "ParSpec",
-      "role": "Machine Learning Engineer - 1",
-      "location": "San Mateo, CA",
       "status": "applied"
     }
   ]

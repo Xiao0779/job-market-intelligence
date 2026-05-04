@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-02T23:48:32-07:00_
+_Last refreshed: 2026-05-03T23:48:33-07:00_
 
 ## Positioning
 
@@ -10,38 +10,39 @@ _Last refreshed: 2026-05-02T23:48:32-07:00_
 
 ## Snapshot
 
-- Tracked roles: 257
-- Active roles: 101
-- Response rate: 1.7%
+- Tracked roles: 261
+- Active roles: 104
+- Response rate: 1.6%
 - LinkedIn outreach sent: 20
-- Pending pipeline items: 136
-- Recommended pipeline items: 31
+- Pending pipeline items: 137
+- Recommended pipeline items: 32
 - Average evaluated score: 3.75
 
 ## Status Breakdown
 
-- applied: 99
+- applied: 102
 - discarded: 3
 - interview: 2
 - rejected: 19
 
 ## Recent Activity
 
-- 2026-05-02: Holland America Line | Associate Data Scientist | applied
+- 2026-05-03: Gotion | Data Analyst | applied
+- 2026-05-03: WeRide | New Grads 2026 - Data Engineer | applied
+- 2026-05-02: Princess Cruises | Associate Data Scientist | applied
 - 2026-05-02: PermitFlow | Analytics Engineer (New Grad) | applied
+- 2026-05-02: Holland America Line | Associate Data Scientist | applied
 - 2026-05-01: The Information | Research Analyst, Data & Intelligence Products | applied
 - 2026-04-30: TWG Global | Associate AI Data Scientist | applied
 - 2026-04-30: Nordstrom | Data Scientist - Digital Data Science | applied
 - 2026-04-30: Stackline | Data Analyst I | applied
 - 2026-04-30: Amazon | Business Intelligence Engineer, WHS Data | applied
-- 2026-04-30: Snowflake | Analyst, Finance Analytics & AI | applied
-- 2026-04-30: Applied Systems | Associate AI Engineer / AI Engineer | applied
-- 2026-04-30: ParSpec | Machine Learning Engineer - 1 | applied
 
 ## Recommended Opportunity Queue
 
 - Airtable | AI Analytics Engineer (AI & Analytics Platform) | https://job-boards.greenhouse.io/airtable/jobs/8434287002
 - Anthropic | Support Operations Analyst | https://job-boards.greenhouse.io/anthropic/jobs/5080931008
+- Brex | Data Analyst II | https://www.brex.com/careers/8463696002?gh_jid=8463696002
 - Brex | Data Analyst III | https://www.brex.com/careers/8463704002?gh_jid=8463704002
 - Brex | Revenue Operations Analyst | https://www.brex.com/careers/8530763002?gh_jid=8530763002
 - Carta | Data Operations Analyst | https://job-boards.greenhouse.io/carta/jobs/7592159003
@@ -54,17 +55,16 @@ _Last refreshed: 2026-05-02T23:48:32-07:00_
 - Gusto | Product Data Scientist - Growth | https://job-boards.greenhouse.io/gusto/jobs/6356147
 - Gusto | Revenue Operations Analyst | https://job-boards.greenhouse.io/gusto/jobs/7797180
 - Pinterest | Machine Learning Engineer II | https://www.pinterestcareers.com/jobs/?gh_jid=7681666
-- Pinterest | Machine Learning Engineer II, Core Engineering | https://www.pinterestcareers.com/jobs/?gh_jid=7473497
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 51 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 51 days with no response
-- Google | Software Engineer II, Early Career | 47 days with no response
-- Apple | AIML - Machine Learning Research | 40 days with no response
-- Amazon | Data Engineer II | 38 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 38 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 38 days with no response
-- Amazon | 软件开发工程师（2026届校招）, Beijing | 38 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 38 days with no response
-- Esri | Product Test Engineer II - Feature Server | 38 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 52 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 52 days with no response
+- Google | Software Engineer II, Early Career | 48 days with no response
+- Apple | AIML - Machine Learning Research | 41 days with no response
+- Amazon | Data Engineer II | 39 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 39 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 39 days with no response
+- Amazon | 软件开发工程师（2026届校招）, Beijing | 39 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 39 days with no response
+- Esri | Product Test Engineer II - Feature Server | 39 days with no response
