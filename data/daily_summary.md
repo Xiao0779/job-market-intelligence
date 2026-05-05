@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-03T23:48:33-07:00_
+_Last refreshed: 2026-05-05T01:56:34-07:00_
 
 ## Positioning
 
@@ -10,33 +10,35 @@ _Last refreshed: 2026-05-03T23:48:33-07:00_
 
 ## Snapshot
 
-- Tracked roles: 261
-- Active roles: 104
-- Response rate: 1.6%
+- Tracked roles: 279
+- Active roles: 117
+- Response rate: 1.5%
 - LinkedIn outreach sent: 20
 - Pending pipeline items: 137
 - Recommended pipeline items: 32
-- Average evaluated score: 3.75
+- Average evaluated score: 3.52
 
 ## Status Breakdown
 
-- applied: 102
+- applied: 114
 - discarded: 3
+- evaluated: 1
 - interview: 2
 - rejected: 19
+- skip: 5
 
 ## Recent Activity
 
-- 2026-05-03: Gotion | Data Analyst | applied
-- 2026-05-03: WeRide | New Grads 2026 - Data Engineer | applied
-- 2026-05-02: Princess Cruises | Associate Data Scientist | applied
-- 2026-05-02: PermitFlow | Analytics Engineer (New Grad) | applied
-- 2026-05-02: Holland America Line | Associate Data Scientist | applied
-- 2026-05-01: The Information | Research Analyst, Data & Intelligence Products | applied
-- 2026-04-30: TWG Global | Associate AI Data Scientist | applied
-- 2026-04-30: Nordstrom | Data Scientist - Digital Data Science | applied
-- 2026-04-30: Stackline | Data Analyst I | applied
-- 2026-04-30: Amazon | Business Intelligence Engineer, WHS Data | applied
+- 2026-05-04: Zoro | Product Analyst | applied
+- 2026-05-04: Dairy Queen | Business Intelligence Report Developer | applied
+- 2026-05-04: Verisk | Data Scientist I | applied
+- 2026-05-04: Applied Materials | 2026 NCG - Data Scientist (Masters) | applied
+- 2026-05-04: Deluxe | Data Scientist | applied
+- 2026-05-04: Hearst Magazines | Analyst, Business Intelligence | applied
+- 2026-05-04: Ekimetrics | Junior Business Scientist, Data Science and Marketing Effectiveness | applied
+- 2026-05-04: Ekimetrics | Junior Business Scientist (DS & Marketing) | applied
+- 2026-05-04: Deluxe Corporation | Data Scientist | applied
+- 2026-05-04: Credit Genie | Data Analyst | evaluated
 
 ## Recommended Opportunity Queue
 
@@ -58,13 +60,13 @@ _Last refreshed: 2026-05-03T23:48:33-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 52 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 52 days with no response
-- Google | Software Engineer II, Early Career | 48 days with no response
-- Apple | AIML - Machine Learning Research | 41 days with no response
-- Amazon | Data Engineer II | 39 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 39 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 39 days with no response
-- Amazon | 软件开发工程师（2026届校招）, Beijing | 39 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 39 days with no response
-- Esri | Product Test Engineer II - Feature Server | 39 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 54 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 54 days with no response
+- Google | Software Engineer II, Early Career | 50 days with no response
+- Apple | AIML - Machine Learning Research | 43 days with no response
+- Amazon | Data Engineer II | 41 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 41 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 41 days with no response
+- Amazon | 软件开发工程师（2026届校招）, Beijing | 41 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 41 days with no response
+- Esri | Product Test Engineer II - Feature Server | 41 days with no response

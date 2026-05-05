@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-03T23:48:33-07:00",
+  "refreshed_at": "2026-05-05T01:56:34-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,19 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 261,
-    "active_roles": 104,
-    "response_rate_pct": 1.6,
+    "tracked_roles": 279,
+    "active_roles": 117,
+    "response_rate_pct": 1.5,
     "linkedin_sent": 20,
     "pending_pipeline": 137,
     "recommended_pipeline": 32,
-    "avg_evaluated_score": 3.75
+    "avg_evaluated_score": 3.52
   },
   "status_counts": {
     "interview": 2,
-    "applied": 102,
+    "applied": 114,
     "rejected": 19,
-    "discarded": 3
+    "discarded": 3,
+    "evaluated": 1,
+    "skip": 5
   },
   "top_companies": [
     {
@@ -70,74 +72,74 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-05-03",
-      "company": "Gotion",
-      "role": "Data Analyst",
-      "location": "Manteno, IL",
+      "date_found": "2026-05-04",
+      "company": "Zoro",
+      "role": "Product Analyst",
+      "location": "Chicago, IL",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-03",
-      "company": "WeRide",
-      "role": "New Grads 2026 - Data Engineer",
-      "location": "San Jose, CA",
+      "date_found": "2026-05-04",
+      "company": "Dairy Queen",
+      "role": "Business Intelligence Report Developer",
+      "location": "Bloomington, MN",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-02",
-      "company": "Princess Cruises",
-      "role": "Associate Data Scientist",
-      "location": "Seattle",
+      "date_found": "2026-05-04",
+      "company": "Verisk",
+      "role": "Data Scientist I",
+      "location": "Boston, MA",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-02",
-      "company": "PermitFlow",
-      "role": "Analytics Engineer (New Grad)",
+      "date_found": "2026-05-04",
+      "company": "Applied Materials",
+      "role": "2026 NCG - Data Scientist (Masters)",
+      "location": "Santa Clara",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-04",
+      "company": "Deluxe",
+      "role": "Data Scientist",
       "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-02",
-      "company": "Holland America Line",
-      "role": "Associate Data Scientist",
-      "location": "Seattle WA; tailored resume + CL; predictive modeling + stakeholder communication angle; YODA yield optimization platform",
+      "date_found": "2026-05-04",
+      "company": "Hearst Magazines",
+      "role": "Analyst, Business Intelligence",
+      "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-01",
-      "company": "The Information",
-      "role": "Research Analyst, Data & Intelligence Products",
-      "location": "San Francisco",
+      "date_found": "2026-05-04",
+      "company": "Ekimetrics",
+      "role": "Junior Business Scientist, Data Science and Marketing Effectiveness",
+      "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-30",
-      "company": "TWG Global",
-      "role": "Associate AI Data Scientist",
-      "location": "Santa Monica, CA",
+      "date_found": "2026-05-04",
+      "company": "Ekimetrics",
+      "role": "Junior Business Scientist (DS & Marketing)",
+      "location": "New York NY (Hybrid); MMM consulting; 0-2yr; stat/Bayesian match strong; $75K + bonus (low base NYC); contract vs permanent ambiguity; no H-1B sponsor",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-30",
-      "company": "Nordstrom",
-      "role": "Data Scientist - Digital Data Science",
-      "location": "Seattle, WA",
+      "date_found": "2026-05-04",
+      "company": "Deluxe Corporation",
+      "role": "Data Scientist",
+      "location": "New York NY or Atlanta GA; 0-2yr entry DS; M.S. preferred match; PySpark/AWS/MLOps gap; $85-90K base + incentive; 6 days old",
       "status": "applied"
     },
     {
-      "date_found": "2026-04-30",
-      "company": "Stackline",
-      "role": "Data Analyst I",
-      "location": "Seattle, WA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-04-30",
-      "company": "Amazon",
-      "role": "Business Intelligence Engineer, WHS Data",
-      "location": "Bellevue",
-      "status": "applied"
+      "date_found": "2026-05-04",
+      "company": "Credit Genie",
+      "role": "Data Analyst",
+      "location": "",
+      "status": "evaluated"
     }
   ]
 }
