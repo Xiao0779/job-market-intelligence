@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-05T01:56:34-07:00",
+  "refreshed_at": "2026-05-05T23:26:46-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,20 +12,20 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 279,
-    "active_roles": 117,
-    "response_rate_pct": 1.5,
-    "linkedin_sent": 20,
+    "tracked_roles": 295,
+    "active_roles": 133,
+    "response_rate_pct": 1.4,
+    "linkedin_sent": 28,
     "pending_pipeline": 137,
     "recommended_pipeline": 32,
-    "avg_evaluated_score": 3.52
+    "avg_evaluated_score": 3.55
   },
   "status_counts": {
     "interview": 2,
-    "applied": 114,
+    "applied": 121,
     "rejected": 19,
     "discarded": 3,
-    "evaluated": 1,
+    "evaluated": 10,
     "skip": 5
   },
   "top_companies": [
@@ -72,72 +72,72 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-05-04",
-      "company": "Zoro",
+      "date_found": "2026-05-05",
+      "company": "Paramount",
+      "role": "Analyst (45703)",
+      "location": "Burbank, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-05",
+      "company": "Match Group",
       "role": "Product Analyst",
-      "location": "Chicago, IL",
+      "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-04",
-      "company": "Dairy Queen",
-      "role": "Business Intelligence Report Developer",
-      "location": "Bloomington, MN",
+      "date_found": "2026-05-05",
+      "company": "Warner Bros. Discovery",
+      "role": "Analyst, Commerce - CNN Data Analytics, Science & Insights",
+      "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-04",
-      "company": "Verisk",
-      "role": "Data Scientist I",
-      "location": "Boston, MA",
+      "date_found": "2026-05-05",
+      "company": "OpenX",
+      "role": "Business Intelligence Data Analyst",
+      "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-04",
-      "company": "Applied Materials",
-      "role": "2026 NCG - Data Scientist (Masters)",
-      "location": "Santa Clara",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-04",
-      "company": "Deluxe",
+      "date_found": "2026-05-05",
+      "company": "Match Group",
       "role": "Data Scientist",
-      "location": "New York",
+      "location": "Los Angeles",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-04",
-      "company": "Hearst Magazines",
-      "role": "Analyst, Business Intelligence",
-      "location": "New York",
+      "date_found": "2026-05-05",
+      "company": "Grid",
+      "role": "Product Analyst",
+      "location": "San Francisco",
+      "status": "evaluated"
+    },
+    {
+      "date_found": "2026-05-05",
+      "company": "IHG Hotels & Resorts",
+      "role": "Data Analyst, Guest Experience",
+      "location": "Atlanta, GA",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-04",
-      "company": "Ekimetrics",
-      "role": "Junior Business Scientist, Data Science and Marketing Effectiveness",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-04",
-      "company": "Ekimetrics",
-      "role": "Junior Business Scientist (DS & Marketing)",
-      "location": "New York NY (Hybrid); MMM consulting; 0-2yr; stat/Bayesian match strong; $75K + bonus (low base NYC); contract vs permanent ambiguity; no H-1B sponsor",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-04",
-      "company": "Deluxe Corporation",
-      "role": "Data Scientist",
-      "location": "New York NY or Atlanta GA; 0-2yr entry DS; M.S. preferred match; PySpark/AWS/MLOps gap; $85-90K base + incentive; 6 days old",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-04",
-      "company": "Credit Genie",
+      "date_found": "2026-05-05",
+      "company": "Good Apple",
       "role": "Data Analyst",
+      "location": "New York",
+      "status": "evaluated"
+    },
+    {
+      "date_found": "2026-05-05",
+      "company": "VISA",
+      "role": "Data Scientist, AI/ML\u2013 Visa Consulting and Analytics",
+      "location": "Atlanta, GA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-05",
+      "company": "Visa",
+      "role": "Data Scientist AI/ML (Consulting & Analytics)",
       "location": "",
       "status": "evaluated"
     }

@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-05T01:56:34-07:00_
+_Last refreshed: 2026-05-05T23:26:46-07:00_
 
 ## Positioning
 
@@ -10,35 +10,35 @@ _Last refreshed: 2026-05-05T01:56:34-07:00_
 
 ## Snapshot
 
-- Tracked roles: 279
-- Active roles: 117
-- Response rate: 1.5%
-- LinkedIn outreach sent: 20
+- Tracked roles: 295
+- Active roles: 133
+- Response rate: 1.4%
+- LinkedIn outreach sent: 28
 - Pending pipeline items: 137
 - Recommended pipeline items: 32
-- Average evaluated score: 3.52
+- Average evaluated score: 3.55
 
 ## Status Breakdown
 
-- applied: 114
+- applied: 121
 - discarded: 3
-- evaluated: 1
+- evaluated: 10
 - interview: 2
 - rejected: 19
 - skip: 5
 
 ## Recent Activity
 
-- 2026-05-04: Zoro | Product Analyst | applied
-- 2026-05-04: Dairy Queen | Business Intelligence Report Developer | applied
-- 2026-05-04: Verisk | Data Scientist I | applied
-- 2026-05-04: Applied Materials | 2026 NCG - Data Scientist (Masters) | applied
-- 2026-05-04: Deluxe | Data Scientist | applied
-- 2026-05-04: Hearst Magazines | Analyst, Business Intelligence | applied
-- 2026-05-04: Ekimetrics | Junior Business Scientist, Data Science and Marketing Effectiveness | applied
-- 2026-05-04: Ekimetrics | Junior Business Scientist (DS & Marketing) | applied
-- 2026-05-04: Deluxe Corporation | Data Scientist | applied
-- 2026-05-04: Credit Genie | Data Analyst | evaluated
+- 2026-05-05: Paramount | Analyst (45703) | applied
+- 2026-05-05: Match Group | Product Analyst | applied
+- 2026-05-05: Warner Bros. Discovery | Analyst, Commerce - CNN Data Analytics, Science & Insights | applied
+- 2026-05-05: OpenX | Business Intelligence Data Analyst | applied
+- 2026-05-05: Match Group | Data Scientist | applied
+- 2026-05-05: Grid | Product Analyst | evaluated
+- 2026-05-05: IHG Hotels & Resorts | Data Analyst, Guest Experience | applied
+- 2026-05-05: Good Apple | Data Analyst | evaluated
+- 2026-05-05: VISA | Data Scientist, AI/ML– Visa Consulting and Analytics | applied
+- 2026-05-05: Visa | Data Scientist AI/ML (Consulting & Analytics) | evaluated
 
 ## Recommended Opportunity Queue
 
