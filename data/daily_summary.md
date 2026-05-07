@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-06T23:55:21-07:00_
+_Last refreshed: 2026-05-06T23:58:47-07:00_
 
 ## Positioning
 
@@ -20,9 +20,9 @@ _Last refreshed: 2026-05-06T23:55:21-07:00_
 
 ## Status Breakdown
 
-- applied: 132
+- applied: 136
 - discarded: 3
-- evaluated: 5
+- evaluated: 1
 - interview: 3
 - rejected: 20
 - skip: 9
@@ -33,12 +33,12 @@ _Last refreshed: 2026-05-06T23:55:21-07:00_
 - 2026-05-06: F5 | AI Sales Intelligence Analyst | applied
 - 2026-05-06: Roku | Analyst, Revenue Analytics & Insights | applied
 - 2026-05-06: Nasdaq | Data Scientist - Graduate | applied
+- 2026-05-06: CCC Intelligent Solutions | Data Analyst | applied
+- 2026-05-06: Xcel Energy | Associate Data Scientist - Load Forecasting | applied
+- 2026-05-06: Dialpad | AI Productivity Analyst | applied
+- 2026-05-06: Bandwidth | Product Analyst | applied
 - 2026-05-06: Revalize | AI Enablement Analyst | skip
 - 2026-05-06: Bandwidth | BI & Pricing Analyst | skip
-- 2026-05-06: Bandwidth | Product Analyst | evaluated
-- 2026-05-06: Dialpad | AI Productivity Analyst | evaluated
-- 2026-05-06: Xcel Energy | Associate Data Scientist Load Forecasting | evaluated
-- 2026-05-06: Nuro | Software Engineer AI Platform (New Grad) | skip
 
 ## Recommended Opportunity Queue
 

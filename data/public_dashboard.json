@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-06T23:55:21-07:00",
+  "refreshed_at": "2026-05-06T23:58:47-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -22,11 +22,11 @@
   },
   "status_counts": {
     "interview": 3,
-    "applied": 132,
+    "applied": 136,
     "rejected": 20,
     "discarded": 3,
     "skip": 9,
-    "evaluated": 5
+    "evaluated": 1
   },
   "top_companies": [
     {
@@ -101,6 +101,34 @@
     },
     {
       "date_found": "2026-05-06",
+      "company": "CCC Intelligent Solutions",
+      "role": "Data Analyst",
+      "location": "Chicago",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-06",
+      "company": "Xcel Energy",
+      "role": "Associate Data Scientist - Load Forecasting",
+      "location": "Denver, CO",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-06",
+      "company": "Dialpad",
+      "role": "AI Productivity Analyst",
+      "location": "San Ramon, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-06",
+      "company": "Bandwidth",
+      "role": "Product Analyst",
+      "location": "Raleigh, NC",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-06",
       "company": "Revalize",
       "role": "AI Enablement Analyst",
       "location": "",
@@ -111,34 +139,6 @@
       "company": "Bandwidth",
       "role": "BI & Pricing Analyst",
       "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Bandwidth",
-      "role": "Product Analyst",
-      "location": "",
-      "status": "evaluated"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Dialpad",
-      "role": "AI Productivity Analyst",
-      "location": "San Ramon CA; $96.5K-$122K; Claude Code daily user = direct JD match; GenAI fluency + exp design; recurring layoff risk; tailored resume",
-      "status": "evaluated"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Xcel Energy",
-      "role": "Associate Data Scientist Load Forecasting",
-      "location": "",
-      "status": "evaluated"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Nuro",
-      "role": "Software Engineer AI Platform (New Grad)",
-      "location": "Mountain View CA; $145K-$170K; SWE/infra role not DA/DS; C++/distributed systems/robotics = hard blockers; archetype mismatch",
       "status": "skip"
     }
   ]
