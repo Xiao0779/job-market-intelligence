@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-06T23:58:47-07:00_
+_Last refreshed: 2026-05-08T00:10:00-07:00_
 
 ## Positioning
 
@@ -11,16 +11,16 @@ _Last refreshed: 2026-05-06T23:58:47-07:00_
 ## Snapshot
 
 - Tracked roles: 307
-- Active roles: 140
+- Active roles: 143
 - Response rate: 1.9%
 - LinkedIn outreach sent: 28
-- Pending pipeline items: 137
+- Pending pipeline items: 134
 - Recommended pipeline items: 32
 - Average evaluated score: 3.53
 
 ## Status Breakdown
 
-- applied: 136
+- applied: 139
 - discarded: 3
 - evaluated: 1
 - interview: 3
@@ -29,6 +29,9 @@ _Last refreshed: 2026-05-06T23:58:47-07:00_
 
 ## Recent Activity
 
+- 2026-05-07: Celigo | Data Analyst | applied
+- 2026-05-07: Analytic Partners | Data Science Analyst | applied
+- 2026-05-07: Mercor | Data Scientist | applied
 - 2026-05-06: Samba | Measurement Science Associate | applied
 - 2026-05-06: F5 | AI Sales Intelligence Analyst | applied
 - 2026-05-06: Roku | Analyst, Revenue Analytics & Insights | applied
