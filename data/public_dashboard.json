@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-06T23:58:47-07:00",
+  "refreshed_at": "2026-05-10T00:57:28-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,9 +12,9 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 307,
-    "active_roles": 140,
-    "response_rate_pct": 1.9,
+    "tracked_roles": 316,
+    "active_roles": 145,
+    "response_rate_pct": 1.8,
     "linkedin_sent": 28,
     "pending_pipeline": 137,
     "recommended_pipeline": 32,
@@ -22,8 +22,8 @@
   },
   "status_counts": {
     "interview": 3,
-    "applied": 136,
-    "rejected": 20,
+    "applied": 141,
+    "rejected": 24,
     "discarded": 3,
     "skip": 9,
     "evaluated": 1
@@ -72,74 +72,74 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-05-09",
+      "company": "Anaplan",
+      "role": "Associate GTM AI Engineer",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-09",
+      "company": "Together AI",
+      "role": "Analytics Engineer - Data Warehouse",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-08",
+      "company": "Spotify",
+      "role": "Associate Analytics Engineer",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-08",
+      "company": "Capco",
+      "role": "Junior AI Engineer",
+      "location": "Baltimore, MD",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-08",
+      "company": "WHOOP",
+      "role": "Product Analyst",
+      "location": "Boston",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-08",
+      "company": "Visa",
+      "role": "Associate Data Scientist, New College Grad - 2026",
+      "location": "Foster City, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-07",
+      "company": "Merco",
+      "role": "Data Scientist",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-07",
+      "company": "Analytic Partners",
+      "role": "Data Science Analyst",
+      "location": "Miami",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-07",
+      "company": "Celigo",
+      "role": "Data Analyst",
+      "location": "US",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-05-06",
       "company": "Samba",
       "role": "Measurement Science Associate",
       "location": "San Francisco",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "F5",
-      "role": "AI Sales Intelligence Analyst",
-      "location": "Seattle",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Roku",
-      "role": "Analyst, Revenue Analytics & Insights",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Nasdaq",
-      "role": "Data Scientist - Graduate",
-      "location": "Boston",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "CCC Intelligent Solutions",
-      "role": "Data Analyst",
-      "location": "Chicago",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Xcel Energy",
-      "role": "Associate Data Scientist - Load Forecasting",
-      "location": "Denver, CO",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Dialpad",
-      "role": "AI Productivity Analyst",
-      "location": "San Ramon, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Bandwidth",
-      "role": "Product Analyst",
-      "location": "Raleigh, NC",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Revalize",
-      "role": "AI Enablement Analyst",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-05-06",
-      "company": "Bandwidth",
-      "role": "BI & Pricing Analyst",
-      "location": "",
-      "status": "skip"
     }
   ]
 }

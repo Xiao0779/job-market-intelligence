@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-08T00:10:00-07:00_
+_Last refreshed: 2026-05-10T00:57:28-07:00_
 
 ## Positioning
 
@@ -10,38 +10,35 @@ _Last refreshed: 2026-05-08T00:10:00-07:00_
 
 ## Snapshot
 
-- Tracked roles: 307
-- Active roles: 143
-- Response rate: 1.9%
+- Tracked roles: 316
+- Active roles: 145
+- Response rate: 1.8%
 - LinkedIn outreach sent: 28
-- Pending pipeline items: 134
+- Pending pipeline items: 137
 - Recommended pipeline items: 32
 - Average evaluated score: 3.53
 
 ## Status Breakdown
 
-- applied: 139
+- applied: 141
 - discarded: 3
 - evaluated: 1
 - interview: 3
-- rejected: 20
+- rejected: 24
 - skip: 9
 
 ## Recent Activity
 
-- 2026-05-07: Celigo | Data Analyst | applied
+- 2026-05-09: Anaplan | Associate GTM AI Engineer | applied
+- 2026-05-09: Together AI | Analytics Engineer - Data Warehouse | applied
+- 2026-05-08: Spotify | Associate Analytics Engineer | applied
+- 2026-05-08: Capco | Junior AI Engineer | applied
+- 2026-05-08: WHOOP | Product Analyst | applied
+- 2026-05-08: Visa | Associate Data Scientist, New College Grad - 2026 | applied
+- 2026-05-07: Merco | Data Scientist | applied
 - 2026-05-07: Analytic Partners | Data Science Analyst | applied
-- 2026-05-07: Mercor | Data Scientist | applied
+- 2026-05-07: Celigo | Data Analyst | applied
 - 2026-05-06: Samba | Measurement Science Associate | applied
-- 2026-05-06: F5 | AI Sales Intelligence Analyst | applied
-- 2026-05-06: Roku | Analyst, Revenue Analytics & Insights | applied
-- 2026-05-06: Nasdaq | Data Scientist - Graduate | applied
-- 2026-05-06: CCC Intelligent Solutions | Data Analyst | applied
-- 2026-05-06: Xcel Energy | Associate Data Scientist - Load Forecasting | applied
-- 2026-05-06: Dialpad | AI Productivity Analyst | applied
-- 2026-05-06: Bandwidth | Product Analyst | applied
-- 2026-05-06: Revalize | AI Enablement Analyst | skip
-- 2026-05-06: Bandwidth | BI & Pricing Analyst | skip
 
 ## Recommended Opportunity Queue
 
@@ -63,13 +60,13 @@ _Last refreshed: 2026-05-08T00:10:00-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 55 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 55 days with no response
-- Google | Software Engineer II, Early Career | 51 days with no response
-- Apple | AIML - Machine Learning Research | 44 days with no response
-- Amazon | Data Engineer II | 42 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 42 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 42 days with no response
-- Amazon | 软件开发工程师（2026届校招）, Beijing | 42 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 42 days with no response
-- Esri | Product Test Engineer II - Feature Server | 42 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 59 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 59 days with no response
+- Google | Software Engineer II, Early Career | 55 days with no response
+- Apple | AIML - Machine Learning Research | 48 days with no response
+- Amazon | Data Engineer II | 46 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 46 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 46 days with no response
+- Amazon | 软件开发工程师（2026届校招）, Beijing | 46 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 46 days with no response
+- Esri | Product Test Engineer II - Feature Server | 46 days with no response
