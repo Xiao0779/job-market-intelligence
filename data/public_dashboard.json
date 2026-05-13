@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-10T00:57:28-07:00",
+  "refreshed_at": "2026-05-12T23:00:51-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 316,
-    "active_roles": 145,
-    "response_rate_pct": 1.8,
+    "tracked_roles": 339,
+    "active_roles": 153,
+    "response_rate_pct": 1.7,
     "linkedin_sent": 28,
-    "pending_pipeline": 137,
-    "recommended_pipeline": 32,
+    "pending_pipeline": 147,
+    "recommended_pipeline": 34,
     "avg_evaluated_score": 3.53
   },
   "status_counts": {
     "interview": 3,
-    "applied": 141,
-    "rejected": 24,
+    "applied": 149,
+    "rejected": 29,
     "discarded": 3,
     "skip": 9,
     "evaluated": 1
@@ -34,16 +34,20 @@
       "count": 19
     },
     {
+      "company": "Anthropic",
+      "count": 15
+    },
+    {
+      "company": "Reddit",
+      "count": 13
+    },
+    {
       "company": "Scale AI",
       "count": 13
     },
     {
-      "company": "Anthropic",
-      "count": 12
-    },
-    {
-      "company": "Reddit",
-      "count": 12
+      "company": "Chime",
+      "count": 11
     },
     {
       "company": "Samsara",
@@ -51,10 +55,6 @@
     },
     {
       "company": "Amazon",
-      "count": 10
-    },
-    {
-      "company": "Chime",
       "count": 10
     },
     {
@@ -72,73 +72,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-05-09",
-      "company": "Anaplan",
-      "role": "Associate GTM AI Engineer",
-      "location": "San Francisco",
+      "date_found": "2026-05-13",
+      "company": "Everlaw",
+      "role": "Data Analyst",
+      "location": "Oakland, CA",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-09",
-      "company": "Together AI",
-      "role": "Analytics Engineer - Data Warehouse",
-      "location": "San Francisco",
+      "date_found": "2026-05-13",
+      "company": "Walt Disney World",
+      "role": "Data Scientist (Commercial Strategy)",
+      "location": "",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-08",
-      "company": "Spotify",
-      "role": "Associate Analytics Engineer",
+      "date_found": "2026-05-13",
+      "company": "FanDuel",
+      "role": "Product Analyst (Casino Analytics)",
+      "location": "New York, NY",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-12",
+      "company": "Yext",
+      "role": "Associate Data Scientist",
+      "location": "Washington, D.C",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-12",
+      "company": "FanDuel",
+      "role": "Product Analyst",
       "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-08",
-      "company": "Capco",
-      "role": "Junior AI Engineer",
-      "location": "Baltimore, MD",
+      "date_found": "2026-05-12",
+      "company": "Warner Music Group",
+      "role": "Data Analyst, Digital Finance",
+      "location": "Los Angeles",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-08",
-      "company": "WHOOP",
-      "role": "Product Analyst",
-      "location": "Boston",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-08",
-      "company": "Visa",
-      "role": "Associate Data Scientist, New College Grad - 2026",
-      "location": "Foster City, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-07",
-      "company": "Merco",
+      "date_found": "2026-05-12",
+      "company": "Walt Disney",
       "role": "Data Scientist",
-      "location": "San Francisco",
+      "location": "Lake Buena Vista, FL",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-07",
-      "company": "Analytic Partners",
-      "role": "Data Science Analyst",
-      "location": "Miami",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-07",
-      "company": "Celigo",
+      "date_found": "2026-05-11",
+      "company": "Walt Disney",
       "role": "Data Analyst",
-      "location": "US",
+      "location": "Burbank, CA",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-06",
-      "company": "Samba",
-      "role": "Measurement Science Associate",
+      "date_found": "2026-05-11",
+      "company": "Hive",
+      "role": "Data Operations Analyst",
       "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-11",
+      "company": "Simulmedia",
+      "role": "Generative AI Analyst",
+      "location": "New York",
       "status": "applied"
     }
   ]
