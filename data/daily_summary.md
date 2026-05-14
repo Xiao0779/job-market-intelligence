@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-12T23:00:51-07:00_
+_Last refreshed: 2026-05-14T00:00:05-07:00_
 
 ## Positioning
 
@@ -10,20 +10,20 @@ _Last refreshed: 2026-05-12T23:00:51-07:00_
 
 ## Snapshot
 
-- Tracked roles: 339
+- Tracked roles: 343
 - Active roles: 153
-- Response rate: 1.7%
+- Response rate: 2.2%
 - LinkedIn outreach sent: 28
-- Pending pipeline items: 147
+- Pending pipeline items: 151
 - Recommended pipeline items: 34
 - Average evaluated score: 3.53
 
 ## Status Breakdown
 
-- applied: 149
+- applied: 148
 - discarded: 3
 - evaluated: 1
-- interview: 3
+- interview: 4
 - rejected: 29
 - skip: 9
 
@@ -60,13 +60,13 @@ _Last refreshed: 2026-05-12T23:00:51-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 61 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 61 days with no response
-- Google | Software Engineer II, Early Career | 57 days with no response
-- Apple | AIML - Machine Learning Research | 50 days with no response
-- Amazon | Data Engineer II | 48 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 48 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 48 days with no response
-- Amazon | 软件开发工程师（2026届校招）, Beijing | 48 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 48 days with no response
-- Esri | Product Test Engineer II - Feature Server | 48 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 63 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 63 days with no response
+- Google | Software Engineer II, Early Career | 59 days with no response
+- Apple | AIML - Machine Learning Research | 52 days with no response
+- Amazon | Data Engineer II | 50 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 50 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 50 days with no response
+- Amazon | 软件开发工程师（2026届校招）, Beijing | 50 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 50 days with no response
+- Esri | Product Test Engineer II - Feature Server | 50 days with no response

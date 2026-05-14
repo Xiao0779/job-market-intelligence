@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-12T23:00:51-07:00",
+  "refreshed_at": "2026-05-14T00:00:05-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 339,
+    "tracked_roles": 343,
     "active_roles": 153,
-    "response_rate_pct": 1.7,
+    "response_rate_pct": 2.2,
     "linkedin_sent": 28,
-    "pending_pipeline": 147,
+    "pending_pipeline": 151,
     "recommended_pipeline": 34,
     "avg_evaluated_score": 3.53
   },
   "status_counts": {
-    "interview": 3,
-    "applied": 149,
+    "interview": 4,
+    "applied": 148,
     "rejected": 29,
     "discarded": 3,
     "skip": 9,
@@ -31,7 +31,7 @@
   "top_companies": [
     {
       "company": "Pinterest",
-      "count": 19
+      "count": 21
     },
     {
       "company": "Anthropic",
