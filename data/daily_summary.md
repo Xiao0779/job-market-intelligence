@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-14T00:00:05-07:00_
+_Last refreshed: 2026-05-14T22:54:00-07:00_
 
 ## Positioning
 
@@ -10,35 +10,35 @@ _Last refreshed: 2026-05-14T00:00:05-07:00_
 
 ## Snapshot
 
-- Tracked roles: 343
-- Active roles: 153
-- Response rate: 2.2%
+- Tracked roles: 352
+- Active roles: 157
+- Response rate: 1.6%
 - LinkedIn outreach sent: 28
-- Pending pipeline items: 151
-- Recommended pipeline items: 34
-- Average evaluated score: 3.53
+- Pending pipeline items: 154
+- Recommended pipeline items: 36
+- Average evaluated score: 3.51
 
 ## Status Breakdown
 
-- applied: 148
+- applied: 153
 - discarded: 3
 - evaluated: 1
-- interview: 4
-- rejected: 29
+- interview: 3
+- rejected: 31
 - skip: 9
 
 ## Recent Activity
 
-- 2026-05-13: Everlaw | Data Analyst | applied
+- 2026-05-14: ClimateAi | Data Engineer I | applied
+- 2026-05-14: Handshake | Machine Learning Engineer I | applied
+- 2026-05-14: BOA | Data Scientist I | applied
+- 2026-05-14: Bank of America | Data Scientist I | applied
+- 2026-05-14: Discord | Data Engineer Analytics | applied
+- 2026-05-14: Handshake | ML Engineer I | applied
 - 2026-05-13: Walt Disney World | Data Scientist (Commercial Strategy) | applied
 - 2026-05-13: FanDuel | Product Analyst (Casino Analytics) | applied
 - 2026-05-12: Yext | Associate Data Scientist | applied
-- 2026-05-12: FanDuel | Product Analyst | applied
-- 2026-05-12: Warner Music Group | Data Analyst, Digital Finance | applied
-- 2026-05-12: Walt Disney | Data Scientist | applied
-- 2026-05-11: Walt Disney | Data Analyst | applied
-- 2026-05-11: Hive | Data Operations Analyst | applied
-- 2026-05-11: Simulmedia | Generative AI Analyst | applied
+- 2026-05-12: Everlaw | Data Analyst | applied
 
 ## Recommended Opportunity Queue
 

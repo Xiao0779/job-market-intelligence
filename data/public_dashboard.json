@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-14T00:00:05-07:00",
+  "refreshed_at": "2026-05-14T22:54:00-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 343,
-    "active_roles": 153,
-    "response_rate_pct": 2.2,
+    "tracked_roles": 352,
+    "active_roles": 157,
+    "response_rate_pct": 1.6,
     "linkedin_sent": 28,
-    "pending_pipeline": 151,
-    "recommended_pipeline": 34,
-    "avg_evaluated_score": 3.53
+    "pending_pipeline": 154,
+    "recommended_pipeline": 36,
+    "avg_evaluated_score": 3.51
   },
   "status_counts": {
-    "interview": 4,
-    "applied": 148,
-    "rejected": 29,
+    "interview": 3,
+    "applied": 153,
+    "rejected": 31,
     "discarded": 3,
     "skip": 9,
     "evaluated": 1
@@ -31,7 +31,7 @@
   "top_companies": [
     {
       "company": "Pinterest",
-      "count": 21
+      "count": 22
     },
     {
       "company": "Anthropic",
@@ -50,6 +50,10 @@
       "count": 11
     },
     {
+      "company": "Robinhood",
+      "count": 11
+    },
+    {
       "company": "Samsara",
       "count": 11
     },
@@ -58,24 +62,55 @@
       "count": 10
     },
     {
-      "company": "Robinhood",
-      "count": 10
+      "company": "Ramp",
+      "count": 7
     },
     {
       "company": "Gusto",
       "count": 7
-    },
-    {
-      "company": "Brex",
-      "count": 6
     }
   ],
   "recent_roles": [
     {
-      "date_found": "2026-05-13",
-      "company": "Everlaw",
-      "role": "Data Analyst",
-      "location": "Oakland, CA",
+      "date_found": "2026-05-14",
+      "company": "ClimateAi",
+      "role": "Data Engineer I",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-14",
+      "company": "Handshake",
+      "role": "Machine Learning Engineer I",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-14",
+      "company": "BOA",
+      "role": "Data Scientist I",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-14",
+      "company": "Bank of America",
+      "role": "Data Scientist I",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-14",
+      "company": "Discord",
+      "role": "Data Engineer Analytics",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-14",
+      "company": "Handshake",
+      "role": "ML Engineer I",
+      "location": "",
       "status": "applied"
     },
     {
@@ -101,44 +136,9 @@
     },
     {
       "date_found": "2026-05-12",
-      "company": "FanDuel",
-      "role": "Product Analyst",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-12",
-      "company": "Warner Music Group",
-      "role": "Data Analyst, Digital Finance",
-      "location": "Los Angeles",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-12",
-      "company": "Walt Disney",
-      "role": "Data Scientist",
-      "location": "Lake Buena Vista, FL",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-11",
-      "company": "Walt Disney",
+      "company": "Everlaw",
       "role": "Data Analyst",
-      "location": "Burbank, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-11",
-      "company": "Hive",
-      "role": "Data Operations Analyst",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-11",
-      "company": "Simulmedia",
-      "role": "Generative AI Analyst",
-      "location": "New York",
+      "location": "Oakland, CA",
       "status": "applied"
     }
   ]
