@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-14T22:54:00-07:00",
+  "refreshed_at": "2026-05-15T23:54:01-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 352,
-    "active_roles": 157,
-    "response_rate_pct": 1.6,
+    "tracked_roles": 365,
+    "active_roles": 169,
+    "response_rate_pct": 1.5,
     "linkedin_sent": 28,
-    "pending_pipeline": 154,
+    "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.51
+    "avg_evaluated_score": 3.49
   },
   "status_counts": {
     "interview": 3,
-    "applied": 153,
+    "applied": 165,
     "rejected": 31,
     "discarded": 3,
     "skip": 9,
@@ -38,11 +38,11 @@
       "count": 15
     },
     {
-      "company": "Reddit",
-      "count": 13
+      "company": "Scale AI",
+      "count": 14
     },
     {
-      "company": "Scale AI",
+      "company": "Reddit",
       "count": 13
     },
     {
@@ -72,73 +72,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-05-14",
-      "company": "ClimateAi",
-      "role": "Data Engineer I",
-      "location": "San Francisco",
+      "date_found": "2026-05-15",
+      "company": "Applied Materials",
+      "role": "2026 Data Engineer New College Grad- Bachelor's/Master's (Austin, TX)",
+      "location": "Austin,TX",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-14",
-      "company": "Handshake",
-      "role": "Machine Learning Engineer I",
-      "location": "San Francisco",
+      "date_found": "2026-05-15",
+      "company": "XPENG",
+      "role": "AI Agent Data Pipeline Intern",
+      "location": "Santa Clara",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-14",
-      "company": "BOA",
-      "role": "Data Scientist I",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-14",
-      "company": "Bank of America",
-      "role": "Data Scientist I",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-14",
-      "company": "Discord",
-      "role": "Data Engineer Analytics",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-14",
-      "company": "Handshake",
-      "role": "ML Engineer I",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-13",
-      "company": "Walt Disney World",
-      "role": "Data Scientist (Commercial Strategy)",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-13",
-      "company": "FanDuel",
-      "role": "Product Analyst (Casino Analytics)",
-      "location": "New York, NY",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-12",
-      "company": "Yext",
+      "date_found": "2026-05-15",
+      "company": "Manulife",
       "role": "Associate Data Scientist",
-      "location": "Washington, D.C",
+      "location": "Boston",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-12",
-      "company": "Everlaw",
-      "role": "Data Analyst",
-      "location": "Oakland, CA",
+      "date_found": "2026-05-15",
+      "company": "Beyond",
+      "role": "Business Analytics Associate",
+      "location": "Chicago",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-15",
+      "company": "UST",
+      "role": "Business Systems & Data Analytics Associate",
+      "location": "San Jose",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-15",
+      "company": "DAT",
+      "role": "Analyst I",
+      "location": "Denver",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-15",
+      "company": "ProShares",
+      "role": "Business Intelligence Analyst",
+      "location": "Bethesda, MD",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-15",
+      "company": "DAT Freight & Analytics",
+      "role": "Analyst I",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-15",
+      "company": "Beyond Finance",
+      "role": "Business Analytics Associate",
+      "location": "\u5b9a\u5236\uff08beyond\uff09; \u6539\u57ce\u5e02Chicago IL (Relocating); Olist anchor; CL included",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-15",
+      "company": "Manulife/John Hancock",
+      "role": "Associate Data Scientist",
+      "location": "",
       "status": "applied"
     }
   ]
