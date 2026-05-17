@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-15T23:54:01-07:00",
+  "refreshed_at": "2026-05-16T23:59:43-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,9 +12,9 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 365,
-    "active_roles": 169,
-    "response_rate_pct": 1.5,
+    "tracked_roles": 374,
+    "active_roles": 178,
+    "response_rate_pct": 1.4,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 3,
-    "applied": 165,
+    "applied": 174,
     "rejected": 31,
     "discarded": 3,
     "skip": 9,
@@ -36,6 +36,10 @@
     {
       "company": "Anthropic",
       "count": 15
+    },
+    {
+      "company": "Amazon",
+      "count": 14
     },
     {
       "company": "Scale AI",
@@ -58,10 +62,6 @@
       "count": 11
     },
     {
-      "company": "Amazon",
-      "count": 10
-    },
-    {
       "company": "Ramp",
       "count": 7
     },
@@ -72,73 +72,73 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-05-16",
+      "company": "Snowflake",
+      "role": "Product Analyst",
+      "location": "Menlo Park, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-16",
+      "company": "Wealthspire",
+      "role": "Data Analyst",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-16",
+      "company": "Amazon",
+      "role": "Business Analyst, Customer Delivery Excellence",
+      "location": "Bellevue, WA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-16",
+      "company": "Amazon",
+      "role": "Business Analyst I, Global Logistics Domestic First Mile",
+      "location": "Arlington, VA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-16",
+      "company": "EKN",
+      "role": "Data Analyst I",
+      "location": "Irvine",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-16",
+      "company": "EKN Engineering",
+      "role": "Data Analyst I",
+      "location": "\u5b9a\u5236\uff08ekn\uff09; pipeline+data quality framing; JMI\u2192Olist\u2192Math3B; CL included; Irvine CA\uff08\u8fd1San Diego\uff09",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-16",
+      "company": "Amazon",
+      "role": "BA I, Global Logistics First Mile",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-16",
+      "company": "Amazon",
+      "role": "BA, Customer Delivery Excellence",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-16",
+      "company": "Snowflake",
+      "role": "Product Analyst (New Grad)",
+      "location": "",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-05-15",
       "company": "Applied Materials",
       "role": "2026 Data Engineer New College Grad- Bachelor's/Master's (Austin, TX)",
       "location": "Austin,TX",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-15",
-      "company": "XPENG",
-      "role": "AI Agent Data Pipeline Intern",
-      "location": "Santa Clara",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-15",
-      "company": "Manulife",
-      "role": "Associate Data Scientist",
-      "location": "Boston",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-15",
-      "company": "Beyond",
-      "role": "Business Analytics Associate",
-      "location": "Chicago",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-15",
-      "company": "UST",
-      "role": "Business Systems & Data Analytics Associate",
-      "location": "San Jose",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-15",
-      "company": "DAT",
-      "role": "Analyst I",
-      "location": "Denver",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-15",
-      "company": "ProShares",
-      "role": "Business Intelligence Analyst",
-      "location": "Bethesda, MD",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-15",
-      "company": "DAT Freight & Analytics",
-      "role": "Analyst I",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-15",
-      "company": "Beyond Finance",
-      "role": "Business Analytics Associate",
-      "location": "\u5b9a\u5236\uff08beyond\uff09; \u6539\u57ce\u5e02Chicago IL (Relocating); Olist anchor; CL included",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-15",
-      "company": "Manulife/John Hancock",
-      "role": "Associate Data Scientist",
-      "location": "",
       "status": "applied"
     }
   ]

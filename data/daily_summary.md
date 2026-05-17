@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-15T23:54:01-07:00_
+_Last refreshed: 2026-05-16T23:59:43-07:00_
 
 ## Positioning
 
@@ -10,9 +10,9 @@ _Last refreshed: 2026-05-15T23:54:01-07:00_
 
 ## Snapshot
 
-- Tracked roles: 365
-- Active roles: 169
-- Response rate: 1.5%
+- Tracked roles: 374
+- Active roles: 178
+- Response rate: 1.4%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
@@ -20,7 +20,7 @@ _Last refreshed: 2026-05-15T23:54:01-07:00_
 
 ## Status Breakdown
 
-- applied: 165
+- applied: 174
 - discarded: 3
 - evaluated: 1
 - interview: 3
@@ -29,16 +29,16 @@ _Last refreshed: 2026-05-15T23:54:01-07:00_
 
 ## Recent Activity
 
+- 2026-05-16: Snowflake | Product Analyst | applied
+- 2026-05-16: Wealthspire | Data Analyst | applied
+- 2026-05-16: Amazon | Business Analyst, Customer Delivery Excellence | applied
+- 2026-05-16: Amazon | Business Analyst I, Global Logistics Domestic First Mile | applied
+- 2026-05-16: EKN | Data Analyst I | applied
+- 2026-05-16: EKN Engineering | Data Analyst I | applied
+- 2026-05-16: Amazon | BA I, Global Logistics First Mile | applied
+- 2026-05-16: Amazon | BA, Customer Delivery Excellence | applied
+- 2026-05-16: Snowflake | Product Analyst (New Grad) | applied
 - 2026-05-15: Applied Materials | 2026 Data Engineer New College Grad- Bachelor's/Master's (Austin, TX) | applied
-- 2026-05-15: XPENG | AI Agent Data Pipeline Intern | applied
-- 2026-05-15: Manulife | Associate Data Scientist | applied
-- 2026-05-15: Beyond | Business Analytics Associate | applied
-- 2026-05-15: UST | Business Systems & Data Analytics Associate | applied
-- 2026-05-15: DAT | Analyst I | applied
-- 2026-05-15: ProShares | Business Intelligence Analyst | applied
-- 2026-05-15: DAT Freight & Analytics | Analyst I | applied
-- 2026-05-15: Beyond Finance | Business Analytics Associate | applied
-- 2026-05-15: Manulife/John Hancock | Associate Data Scientist | applied
 
 ## Recommended Opportunity Queue
 
@@ -60,13 +60,13 @@ _Last refreshed: 2026-05-15T23:54:01-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 64 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 64 days with no response
-- Google | Software Engineer II, Early Career | 60 days with no response
-- Apple | AIML - Machine Learning Research | 53 days with no response
-- Amazon | Data Engineer II | 51 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 51 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 51 days with no response
-- Amazon | 软件开发工程师（2026届校招）, Beijing | 51 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 51 days with no response
-- Esri | Product Test Engineer II - Feature Server | 51 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 65 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 65 days with no response
+- Google | Software Engineer II, Early Career | 61 days with no response
+- Apple | AIML - Machine Learning Research | 54 days with no response
+- Amazon | Data Engineer II | 52 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 52 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 52 days with no response
+- Amazon | 软件开发工程师（2026届校招）, Beijing | 52 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 52 days with no response
+- Esri | Product Test Engineer II - Feature Server | 52 days with no response
