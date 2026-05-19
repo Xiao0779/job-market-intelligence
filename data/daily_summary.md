@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-18T23:59:00-07:00_
+_Last refreshed: 2026-05-19T23:59:00-07:00_
 
 ## Positioning
 
@@ -10,11 +10,11 @@ _Last refreshed: 2026-05-18T23:59:00-07:00_
 
 ## Snapshot
 
-- Tracked roles: 380
+- Tracked roles: 382
 - Active roles: 184
 - Response rate: 1.3%
 - LinkedIn outreach sent: 28
-- Pending pipeline items: 155
+- Pending pipeline items: 153
 - Recommended pipeline items: 36
 - Average evaluated score: 3.47
 
@@ -25,10 +25,12 @@ _Last refreshed: 2026-05-18T23:59:00-07:00_
 - evaluated: 1
 - interview: 3
 - rejected: 31
-- skip: 11
+- skip: 13
 
 ## Recent Activity
 
+- 2026-05-19: Arbella Insurance | IT Business Analyst I | skip (immigration sponsorship exclusion)
+- 2026-05-19: WSFS Bank | Business Systems Analyst I | skip (immigration sponsorship exclusion)
 - 2026-05-18: Dudek | GIS Analyst I | applied
 - 2026-05-18: Optimum Media | Data Analyst | applied
 - 2026-05-18: EliseAI | Product Solutions Analyst | applied
