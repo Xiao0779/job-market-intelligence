@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-19T23:59:00-07:00_
+_Last refreshed: 2026-05-20T00:00:00-07:00_
 
 ## Positioning
 
@@ -20,15 +20,28 @@ _Last refreshed: 2026-05-19T23:59:00-07:00_
 
 ## Status Breakdown
 
-- applied: 180
+- applied: 188
 - discarded: 3
 - evaluated: 1
 - interview: 3
 - rejected: 31
-- skip: 13
+- skip: 21
 
 ## Recent Activity
 
+- 2026-05-19: Instawork | Product Operations Analyst | applied (定制+CL; product+data intersection; SF)
+- 2026-05-19: Affirm | Analyst I, Full Stack (Core Analytics) | applied (定制+CL; Claude Code点名; Remote)
+- 2026-05-19: CharterUP | Data Analyst | applied (定制; Finance BI; Atlanta hybrid)
+- 2026-05-19: Zeta Global | Data Analyst, Data Cloud Intelligence | applied (定制+CL; SQL+ETL; Remote)
+- 2026-05-19: Disney Parks | Data Analyst (Computer Vision) | applied (定制; ML eval+FP/FN framing)
+- 2026-05-19: SharkNinja | Data Analyst, Retail Excellence | applied (定制+CL; Claude点名)
+- 2026-05-19: Costco IT | Asset Reporting Analyst | applied (定制+CL; ETL/data quality)
+- 2026-05-19: iHeartMedia | Digital Data Analyst | applied (定制; SQL/BI/revenue analytics)
+- 2026-05-19: Williams-Sonoma | Marketing BI Analyst | skip (sponsorship: "now or in the future")
+- 2026-05-19: L.E.K. Consulting | D&A Products Specialist | skip (explicitly excludes F-1 OPT)
+- 2026-05-19: Onto Innovation | Sales Data Analyst 1 | skip (export control barrier, Chinese national)
+- 2026-05-19: CLEAR | Forward Deployed AI Engineer | skip (production AI engineering gap)
+- 2026-05-19: GM Financial | Data Analyst I, Model Management | skip (candidate decision)
 - 2026-05-19: Arbella Insurance | IT Business Analyst I | skip (immigration sponsorship exclusion)
 - 2026-05-19: WSFS Bank | Business Systems Analyst I | skip (immigration sponsorship exclusion)
 - 2026-05-18: Dudek | GIS Analyst I | applied
