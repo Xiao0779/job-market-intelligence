@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-16T23:59:43-07:00",
+  "refreshed_at": "2026-05-21T00:13:20-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 374,
-    "active_roles": 178,
-    "response_rate_pct": 1.4,
+    "tracked_roles": 403,
+    "active_roles": 197,
+    "response_rate_pct": 1.7,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.49
+    "avg_evaluated_score": 3.47
   },
   "status_counts": {
-    "interview": 3,
-    "applied": 174,
-    "rejected": 31,
+    "interview": 4,
+    "applied": 192,
+    "rejected": 41,
     "discarded": 3,
     "skip": 9,
     "evaluated": 1
@@ -72,73 +72,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-05-16",
-      "company": "Snowflake",
-      "role": "Product Analyst",
-      "location": "Menlo Park, CA",
+      "date_found": "2026-05-20",
+      "company": "SHI",
+      "role": "Associate Analytics Engineer - Data & Visualization",
+      "location": "Austin, TX",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-16",
-      "company": "Wealthspire",
-      "role": "Data Analyst",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-16",
-      "company": "Amazon",
-      "role": "Business Analyst, Customer Delivery Excellence",
-      "location": "Bellevue, WA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-16",
-      "company": "Amazon",
-      "role": "Business Analyst I, Global Logistics Domestic First Mile",
-      "location": "Arlington, VA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-16",
-      "company": "EKN",
-      "role": "Data Analyst I",
+      "date_found": "2026-05-20",
+      "company": "Field AI",
+      "role": "Field Data Analyst",
       "location": "Irvine",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-16",
-      "company": "EKN Engineering",
-      "role": "Data Analyst I",
-      "location": "\u5b9a\u5236\uff08ekn\uff09; pipeline+data quality framing; JMI\u2192Olist\u2192Math3B; CL included; Irvine CA\uff08\u8fd1San Diego\uff09",
+      "date_found": "2026-05-20",
+      "company": "Bain & Company",
+      "role": "Data Operations Analyst, Pyxis",
+      "location": "Chicago",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-16",
-      "company": "Amazon",
-      "role": "BA I, Global Logistics First Mile",
+      "date_found": "2026-05-20",
+      "company": "Walt Disney",
+      "role": "Viewer Insights Analyst",
+      "location": "Santa Monica",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-20",
+      "company": "Disney DTC (Hulu/Disney+)",
+      "role": "Viewer Insights Analyst",
       "location": "",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-16",
-      "company": "Amazon",
-      "role": "BA, Customer Delivery Excellence",
-      "location": "",
+      "date_found": "2026-05-19",
+      "company": "iHeartMedia",
+      "role": "Digital Data Analyst",
+      "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-16",
-      "company": "Snowflake",
-      "role": "Product Analyst (New Grad)",
-      "location": "",
+      "date_found": "2026-05-19",
+      "company": "Costco",
+      "role": "Data Analyst - Asset Reporting",
+      "location": "Seattle",
+      "status": "rejected"
+    },
+    {
+      "date_found": "2026-05-19",
+      "company": "SharkNinja",
+      "role": "Analyst, Retail Excellence",
+      "location": "Needham, MA",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-15",
-      "company": "Applied Materials",
-      "role": "2026 Data Engineer New College Grad- Bachelor's/Master's (Austin, TX)",
-      "location": "Austin,TX",
+      "date_found": "2026-05-19",
+      "company": "Walt Disney",
+      "role": "Associate Data Analyst (Project Hire/Internal Assignment)",
+      "location": "Anaheim, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-19",
+      "company": "Zeta Global",
+      "role": "Data Analyst, Data Cloud Intelligence",
+      "location": "Remote",
       "status": "applied"
     }
   ]

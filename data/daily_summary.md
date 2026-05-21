@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-20T00:00:00-07:00_
+_Last refreshed: 2026-05-21T00:13:20-07:00_
 
 ## Positioning
 
@@ -10,50 +10,35 @@ _Last refreshed: 2026-05-20T00:00:00-07:00_
 
 ## Snapshot
 
-- Tracked roles: 382
-- Active roles: 184
-- Response rate: 1.3%
+- Tracked roles: 403
+- Active roles: 197
+- Response rate: 1.7%
 - LinkedIn outreach sent: 28
-- Pending pipeline items: 153
+- Pending pipeline items: 155
 - Recommended pipeline items: 36
 - Average evaluated score: 3.47
 
 ## Status Breakdown
 
-- applied: 188
+- applied: 192
 - discarded: 3
 - evaluated: 1
-- interview: 3
-- rejected: 31
-- skip: 21
+- interview: 4
+- rejected: 41
+- skip: 9
 
 ## Recent Activity
 
-- 2026-05-19: Instawork | Product Operations Analyst | applied (定制+CL; product+data intersection; SF)
-- 2026-05-19: Affirm | Analyst I, Full Stack (Core Analytics) | applied (定制+CL; Claude Code点名; Remote)
-- 2026-05-19: CharterUP | Data Analyst | applied (定制; Finance BI; Atlanta hybrid)
-- 2026-05-19: Zeta Global | Data Analyst, Data Cloud Intelligence | applied (定制+CL; SQL+ETL; Remote)
-- 2026-05-19: Disney Parks | Data Analyst (Computer Vision) | applied (定制; ML eval+FP/FN framing)
-- 2026-05-19: SharkNinja | Data Analyst, Retail Excellence | applied (定制+CL; Claude点名)
-- 2026-05-19: Costco IT | Asset Reporting Analyst | applied (定制+CL; ETL/data quality)
-- 2026-05-19: iHeartMedia | Digital Data Analyst | applied (定制; SQL/BI/revenue analytics)
-- 2026-05-19: Williams-Sonoma | Marketing BI Analyst | skip (sponsorship: "now or in the future")
-- 2026-05-19: L.E.K. Consulting | D&A Products Specialist | skip (explicitly excludes F-1 OPT)
-- 2026-05-19: Onto Innovation | Sales Data Analyst 1 | skip (export control barrier, Chinese national)
-- 2026-05-19: CLEAR | Forward Deployed AI Engineer | skip (production AI engineering gap)
-- 2026-05-19: GM Financial | Data Analyst I, Model Management | skip (candidate decision)
-- 2026-05-19: Arbella Insurance | IT Business Analyst I | skip (immigration sponsorship exclusion)
-- 2026-05-19: WSFS Bank | Business Systems Analyst I | skip (immigration sponsorship exclusion)
-- 2026-05-18: Dudek | GIS Analyst I | applied
-- 2026-05-18: Optimum Media | Data Analyst | applied
-- 2026-05-18: EliseAI | Product Solutions Analyst | applied
-- 2026-05-18: AHEAD | Associate AI Engineer | applied
-- 2026-05-17: StepStone Group | Junior Analyst – Power BI Dashboard Developer | applied
-- 2026-05-17: Moxxi | Junior Optimization Analyst | applied
-- 2026-05-16: EKN Engineering | Data Analyst I | applied
-- 2026-05-16: Amazon | BA I, Global Logistics First Mile | applied
-- 2026-05-16: Amazon | BA, Customer Delivery Excellence | applied
-- 2026-05-16: Snowflake | Product Analyst (New Grad) | applied
+- 2026-05-20: SHI | Associate Analytics Engineer - Data & Visualization | applied
+- 2026-05-20: Field AI | Field Data Analyst | applied
+- 2026-05-20: Bain & Company | Data Operations Analyst, Pyxis | applied
+- 2026-05-20: Walt Disney | Viewer Insights Analyst | applied
+- 2026-05-20: Disney DTC (Hulu/Disney+) | Viewer Insights Analyst | applied
+- 2026-05-19: iHeartMedia | Digital Data Analyst | applied
+- 2026-05-19: Costco | Data Analyst - Asset Reporting | rejected
+- 2026-05-19: SharkNinja | Analyst, Retail Excellence | applied
+- 2026-05-19: Walt Disney | Associate Data Analyst (Project Hire/Internal Assignment) | applied
+- 2026-05-19: Zeta Global | Data Analyst, Data Cloud Intelligence | applied
 
 ## Recommended Opportunity Queue
 
@@ -75,13 +60,13 @@ _Last refreshed: 2026-05-20T00:00:00-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 66 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 66 days with no response
-- Google | Software Engineer II, Early Career | 62 days with no response
-- Apple | AIML - Machine Learning Research | 55 days with no response
-- Amazon | Data Engineer II | 53 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 53 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 53 days with no response
-- Amazon | 软件开发工程师（2026届校招）, Beijing | 53 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 53 days with no response
-- Esri | Product Test Engineer II - Feature Server | 53 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 70 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 70 days with no response
+- Google | Software Engineer II, Early Career | 66 days with no response
+- Apple | AIML - Machine Learning Research | 59 days with no response
+- Amazon | Data Engineer II | 57 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 57 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 57 days with no response
+- Amazon | 软件开发工程师（2026届校招）, Beijing | 57 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 57 days with no response
+- Esri | Product Test Engineer II - Feature Server | 57 days with no response
