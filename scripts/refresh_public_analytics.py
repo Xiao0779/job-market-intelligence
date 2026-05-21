@@ -27,6 +27,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable
 
+import boto3
+from botocore.exceptions import BotoCoreError, ClientError
 import matplotlib.pyplot as plt
 import yaml
 from openpyxl import load_workbook
@@ -666,6 +668,51 @@ def write_public_outputs(records: dict[str, Record], profile: dict) -> None:
     SUMMARY_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+S3_BUCKET = "xiao-job-market-intelligence"
+
+OUTPUT_FILES = [
+    DATA_DIR / "daily_summary.md",
+    DATA_DIR / "public_dashboard.json",
+    DATA_DIR / "top_pipeline.csv",
+    DATA_DIR / "fig1_status_breakdown.png",
+    DATA_DIR / "fig2_weekly_cadence.png",
+    DATA_DIR / "fig3_top_companies.png",
+    DATA_DIR / "fig4_location_distribution.png",
+]
+
+
+SOURCE_FILES = [
+    (CAREER_XLSX, "inputs/career.xlsx"),
+    (TRACKER_MD, "inputs/applications.md"),
+    (PIPELINE_MD, "inputs/pipeline.md"),
+    (PROFILE_YML, "inputs/profile.yml"),
+]
+
+
+def upload_to_s3() -> None:
+    s3 = boto3.client("s3")
+    # Upload source files so EC2 can pick them up
+    for local_path, s3_key in SOURCE_FILES:
+        if not local_path.exists():
+            print(f"Skipping source {local_path.name} (not found)")
+            continue
+        try:
+            s3.upload_file(str(local_path), S3_BUCKET, s3_key)
+            print(f"Uploaded s3://{S3_BUCKET}/{s3_key}")
+        except (BotoCoreError, ClientError) as e:
+            print(f"Upload failed for {local_path.name}: {e}")
+    # Upload output files
+    for file_path in OUTPUT_FILES:
+        if not file_path.exists():
+            print(f"Skipping {file_path.name} (not found)")
+            continue
+        try:
+            s3.upload_file(str(file_path), S3_BUCKET, file_path.name)
+            print(f"Uploaded s3://{S3_BUCKET}/{file_path.name}")
+        except (BotoCoreError, ClientError) as e:
+            print(f"Upload failed for {file_path.name}: {e}")
+
+
 def main() -> None:
     if not CAREER_XLSX.exists():
         raise FileNotFoundError(f"Missing source file: {CAREER_XLSX}")
@@ -688,6 +735,8 @@ def main() -> None:
     print(f"Wrote database: {DB_PATH}")
     print(f"Wrote summary: {SUMMARY_PATH}")
     print(f"Wrote dashboard JSON: {JSON_PATH}")
+
+    upload_to_s3()
 
 
 if __name__ == "__main__":
