@@ -1,6 +1,6 @@
 # Job Market Intelligence
 
-A GitHub-backed analytics product that syncs messy local job-search data into a privacy-safe public reporting workflow with Python, SQLite, and automated refreshes.
+A GitHub-backed, AWS-deployed analytics product that syncs messy local job-search data into a privacy-safe public reporting workflow with Python, SQLite, S3 cloud storage, and EC2 scheduled execution.
 
 ## What I Built
 
@@ -38,9 +38,11 @@ It is both a working job-search tool and a portfolio piece for analytics, AI-nat
 |-------|-----------|
 | Sources | Excel, Markdown trackers, YAML profile config |
 | Database | SQLite |
-| Sync pipeline | Python, openpyxl, PyYAML |
+| Sync pipeline | Python, openpyxl, PyYAML, boto3 |
 | Analytics | Python, matplotlib |
 | Public outputs | Markdown, JSON, PNG charts |
+| Cloud storage | AWS S3 |
+| Scheduled execution | AWS EC2 (cron, daily) |
 
 ## Why It Is Product-Like
 
@@ -55,25 +57,30 @@ I built this repo around those constraints: define the schema, clean the pipelin
 
 ## Refresh Workflow
 
-Run:
+### Local (Mac)
+
+Run after updating application records:
 
 ```bash
 python scripts/refresh_public_analytics.py
 ```
 
-or use the daily wrapper:
-
-```bash
-bash scripts/daily_refresh.sh
-```
-
-That command will:
+This will:
 
 - rebuild `data/jobs.db` from local sources
-- generate `data/daily_summary.md`
-- generate `data/public_dashboard.json`
-- export `data/top_pipeline.csv`
-- refresh the charts in `data/`
+- generate `data/daily_summary.md`, `public_dashboard.json`, `top_pipeline.csv`, charts
+- upload source files to S3 (`inputs/` prefix) so the cloud instance stays in sync
+- upload all outputs to S3
+
+### Cloud (AWS EC2)
+
+An EC2 instance (`t3.micro`, Amazon Linux 2023) runs the same pipeline automatically every day at UTC 02:00 via cron:
+
+1. Downloads latest source files from S3
+2. Runs `refresh_public_analytics.py`
+3. Outputs are uploaded back to S3 automatically
+
+No manual intervention required after the local run uploads updated sources.
 
 Compatibility note:
 
@@ -107,4 +114,4 @@ The local operational files remain in `career-ops` and on the desktop.
 
 ## Project Status
 
-Actively maintained as part of a live job search workflow, with daily-refresh automation layered on top of the local `career-ops` system.
+Actively maintained as part of a live job search (201 applications tracked as of May 2026). Pipeline runs locally after each update and automatically on AWS EC2 daily — zero manual intervention end-to-end.

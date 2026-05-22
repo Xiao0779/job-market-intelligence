@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-21T00:13:20-07:00",
+  "refreshed_at": "2026-05-21T17:14:10-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 403,
-    "active_roles": 197,
+    "tracked_roles": 405,
+    "active_roles": 196,
     "response_rate_pct": 1.7,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.47
+    "avg_evaluated_score": 3.46
   },
   "status_counts": {
     "interview": 4,
-    "applied": 192,
-    "rejected": 41,
+    "applied": 191,
+    "rejected": 44,
     "discarded": 3,
     "skip": 9,
     "evaluated": 1
@@ -71,6 +71,20 @@
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-05-21",
+      "company": "CLEAR",
+      "role": "Forward Deployed AI Engineer",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-21",
+      "company": "Nscale",
+      "role": "Data Analytics Engineer",
+      "location": "US",
+      "status": "applied"
+    },
     {
       "date_found": "2026-05-20",
       "company": "SHI",
@@ -125,21 +139,7 @@
       "company": "SharkNinja",
       "role": "Analyst, Retail Excellence",
       "location": "Needham, MA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-19",
-      "company": "Walt Disney",
-      "role": "Associate Data Analyst (Project Hire/Internal Assignment)",
-      "location": "Anaheim, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-19",
-      "company": "Zeta Global",
-      "role": "Data Analyst, Data Cloud Intelligence",
-      "location": "Remote",
-      "status": "applied"
+      "status": "rejected"
     }
   ]
 }

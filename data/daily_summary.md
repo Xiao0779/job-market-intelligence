@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-21T00:13:20-07:00_
+_Last refreshed: 2026-05-21T17:14:10-07:00_
 
 ## Positioning
 
@@ -10,25 +10,27 @@ _Last refreshed: 2026-05-21T00:13:20-07:00_
 
 ## Snapshot
 
-- Tracked roles: 403
-- Active roles: 197
+- Tracked roles: 405
+- Active roles: 196
 - Response rate: 1.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.47
+- Average evaluated score: 3.46
 
 ## Status Breakdown
 
-- applied: 192
+- applied: 191
 - discarded: 3
 - evaluated: 1
 - interview: 4
-- rejected: 41
+- rejected: 44
 - skip: 9
 
 ## Recent Activity
 
+- 2026-05-21: CLEAR | Forward Deployed AI Engineer | applied
+- 2026-05-21: Nscale | Data Analytics Engineer | applied
 - 2026-05-20: SHI | Associate Analytics Engineer - Data & Visualization | applied
 - 2026-05-20: Field AI | Field Data Analyst | applied
 - 2026-05-20: Bain & Company | Data Operations Analyst, Pyxis | applied
@@ -36,9 +38,7 @@ _Last refreshed: 2026-05-21T00:13:20-07:00_
 - 2026-05-20: Disney DTC (Hulu/Disney+) | Viewer Insights Analyst | applied
 - 2026-05-19: iHeartMedia | Digital Data Analyst | applied
 - 2026-05-19: Costco | Data Analyst - Asset Reporting | rejected
-- 2026-05-19: SharkNinja | Analyst, Retail Excellence | applied
-- 2026-05-19: Walt Disney | Associate Data Analyst (Project Hire/Internal Assignment) | applied
-- 2026-05-19: Zeta Global | Data Analyst, Data Cloud Intelligence | applied
+- 2026-05-19: SharkNinja | Analyst, Retail Excellence | rejected
 
 ## Recommended Opportunity Queue
 
