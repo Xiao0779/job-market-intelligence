@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-21T17:14:10-07:00",
+  "refreshed_at": "2026-05-22T23:49:42-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,9 +12,9 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 405,
-    "active_roles": 196,
-    "response_rate_pct": 1.7,
+    "tracked_roles": 409,
+    "active_roles": 200,
+    "response_rate_pct": 1.6,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 191,
+    "applied": 195,
     "rejected": 44,
     "discarded": 3,
     "skip": 9,
@@ -72,6 +72,34 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-05-22",
+      "company": "DHL",
+      "role": "Business Data Analyst II",
+      "location": "Winston-Salem, NC",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-22",
+      "company": "Verve",
+      "role": "Insight Analyst",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-22",
+      "company": "EchoStar",
+      "role": "Data Analyst",
+      "location": "Englewood, CO",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-22",
+      "company": "Renaissance",
+      "role": "Business Intelligence Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-05-21",
       "company": "CLEAR",
       "role": "Forward Deployed AI Engineer",
@@ -112,34 +140,6 @@
       "role": "Viewer Insights Analyst",
       "location": "Santa Monica",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-05-20",
-      "company": "Disney DTC (Hulu/Disney+)",
-      "role": "Viewer Insights Analyst",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-19",
-      "company": "iHeartMedia",
-      "role": "Digital Data Analyst",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-19",
-      "company": "Costco",
-      "role": "Data Analyst - Asset Reporting",
-      "location": "Seattle",
-      "status": "rejected"
-    },
-    {
-      "date_found": "2026-05-19",
-      "company": "SharkNinja",
-      "role": "Analyst, Retail Excellence",
-      "location": "Needham, MA",
-      "status": "rejected"
     }
   ]
 }
