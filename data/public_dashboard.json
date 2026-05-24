@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-22T23:52:37-07:00",
+  "refreshed_at": "2026-05-24T01:56:57-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 409,
-    "active_roles": 200,
+    "tracked_roles": 413,
+    "active_roles": 205,
     "response_rate_pct": 1.6,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.46
+    "avg_evaluated_score": 3.45
   },
   "status_counts": {
     "interview": 4,
-    "applied": 195,
+    "applied": 200,
     "rejected": 44,
     "discarded": 3,
     "skip": 9,
@@ -72,6 +72,20 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-05-24",
+      "company": "Hayden AI",
+      "role": "Data Analyst",
+      "location": "\u5b9a\u5236\uff08haydenai\uff09+ CL; GIS\u80cc\u666f\u5dee\u5f02\u5316; geospatial/transit domain\u547d\u4e2d; GIS\u8bba\u6587\u4f5c\u4e3a\u7b2c\u4e09\u4e2aproject; San Francisco CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-24",
+      "company": "Brex",
+      "role": "Revenue Operations Analyst",
+      "location": "",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-05-22",
       "company": "DHL",
       "role": "Business Data Analyst II",
@@ -100,45 +114,31 @@
       "status": "applied"
     },
     {
+      "date_found": "2026-05-22",
+      "company": "Renaissance",
+      "role": "BI Analyst",
+      "location": "\u5b9a\u5236\uff08renaissance\uff09; Remote; EdTech\u76f4\u63a5\u547d\u4e2d; Math3B+Vocareum\u6700\u5f3a\u5bf9\u5e94",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-22",
+      "company": "EchoStar (DISH)",
+      "role": "Data Analyst",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-22",
+      "company": "DHL Supply Chain",
+      "role": "Business Data Analyst II",
+      "location": "",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-05-21",
       "company": "CLEAR",
       "role": "Forward Deployed AI Engineer",
       "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-21",
-      "company": "Nscale",
-      "role": "Data Analytics Engineer",
-      "location": "US",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-20",
-      "company": "SHI",
-      "role": "Associate Analytics Engineer - Data & Visualization",
-      "location": "Austin, TX",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-20",
-      "company": "Field AI",
-      "role": "Field Data Analyst",
-      "location": "Irvine",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-20",
-      "company": "Bain & Company",
-      "role": "Data Operations Analyst, Pyxis",
-      "location": "Chicago",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-20",
-      "company": "Walt Disney",
-      "role": "Viewer Insights Analyst",
-      "location": "Santa Monica",
       "status": "applied"
     }
   ]
