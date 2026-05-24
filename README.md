@@ -114,4 +114,4 @@ The local operational files remain in `career-ops` and on the desktop.
 
 ## Project Status
 
-Actively maintained as part of a live job search (201 applications tracked as of May 2026). Pipeline runs locally after each update and automatically on AWS EC2 daily — zero manual intervention end-to-end.
+Actively maintained as part of a live job search (209 applications tracked as of May 2026). Pipeline runs locally after each update and automatically on AWS EC2 daily — zero manual intervention end-to-end.
