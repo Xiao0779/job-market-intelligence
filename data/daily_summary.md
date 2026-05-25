@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-24T01:56:57-07:00_
+_Last refreshed: 2026-05-25T00:45:35-07:00_
 
 ## Positioning
 
@@ -10,35 +10,35 @@ _Last refreshed: 2026-05-24T01:56:57-07:00_
 
 ## Snapshot
 
-- Tracked roles: 413
-- Active roles: 205
+- Tracked roles: 420
+- Active roles: 211
 - Response rate: 1.6%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.45
+- Average evaluated score: 3.43
 
 ## Status Breakdown
 
-- applied: 200
+- applied: 206
 - discarded: 3
 - evaluated: 1
 - interview: 4
-- rejected: 44
+- rejected: 45
 - skip: 9
 
 ## Recent Activity
 
-- 2026-05-24: Hayden AI | Data Analyst | applied
-- 2026-05-24: Brex | Revenue Operations Analyst | applied
+- 2026-05-25: LG Electronics | Network Data Analyst | applied
+- 2026-05-25: Verdantas | Data Analyst I | applied
+- 2026-05-25: Prizeout | Data Analyst | applied
+- 2026-05-25: CNA | Data Insights Analyst - Claims | applied
+- 2026-05-24: YouGov | Survey Operations Analyst I | applied
+- 2026-05-24: CAN | Data Insights Analyst - Claims | applied
+- 2026-05-24: LG | Network Data Analyst | applied
+- 2026-05-23: Brex | Revenue Operations Analyst | applied
+- 2026-05-23: Hayden AI | Data Analyst | applied
 - 2026-05-22: DHL | Business Data Analyst II | applied
-- 2026-05-22: Verve | Insight Analyst | applied
-- 2026-05-22: EchoStar | Data Analyst | applied
-- 2026-05-22: Renaissance | Business Intelligence Analyst | applied
-- 2026-05-22: Renaissance | BI Analyst | applied
-- 2026-05-22: EchoStar (DISH) | Data Analyst | applied
-- 2026-05-22: DHL Supply Chain | Business Data Analyst II | applied
-- 2026-05-21: CLEAR | Forward Deployed AI Engineer | applied
 
 ## Recommended Opportunity Queue
 
@@ -60,13 +60,13 @@ _Last refreshed: 2026-05-24T01:56:57-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 73 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 73 days with no response
-- Google | Software Engineer II, Early Career | 69 days with no response
-- Apple | AIML - Machine Learning Research | 62 days with no response
-- Amazon | Data Engineer II | 60 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 60 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 60 days with no response
-- Amazon | 软件开发工程师（2026届校招）, Beijing | 60 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 60 days with no response
-- Esri | Product Test Engineer II - Feature Server | 60 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 74 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 74 days with no response
+- Google | Software Engineer II, Early Career | 70 days with no response
+- Apple | AIML - Machine Learning Research | 63 days with no response
+- Amazon | Data Engineer II | 61 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 61 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 61 days with no response
+- Amazon | 软件开发工程师（2026届校招）, Beijing | 61 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 61 days with no response
+- Esri | Product Test Engineer II - Feature Server | 61 days with no response

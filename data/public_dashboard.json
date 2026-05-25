@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-24T01:56:57-07:00",
+  "refreshed_at": "2026-05-25T00:45:35-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 413,
-    "active_roles": 205,
+    "tracked_roles": 420,
+    "active_roles": 211,
     "response_rate_pct": 1.6,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.45
+    "avg_evaluated_score": 3.43
   },
   "status_counts": {
     "interview": 4,
-    "applied": 200,
-    "rejected": 44,
+    "applied": 206,
+    "rejected": 45,
     "discarded": 3,
     "skip": 9,
     "evaluated": 1
@@ -72,17 +72,66 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-05-24",
-      "company": "Hayden AI",
+      "date_found": "2026-05-25",
+      "company": "LG Electronics",
+      "role": "Network Data Analyst",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-25",
+      "company": "Verdantas",
+      "role": "Data Analyst I",
+      "location": "\u5b9a\u5236\uff08verdantas\uff09; \u591a\u6e90\u6570\u636e\u6e05\u6d17+\u6587\u6863\u5316; JMI\u2192Olist\u2192Math3B; San Ramon CA hybrid; $65-68K",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-25",
+      "company": "Prizeout",
       "role": "Data Analyst",
-      "location": "\u5b9a\u5236\uff08haydenai\uff09+ CL; GIS\u80cc\u666f\u5dee\u5f02\u5316; geospatial/transit domain\u547d\u4e2d; GIS\u8bba\u6587\u4f5c\u4e3a\u7b2c\u4e09\u4e2aproject; San Francisco CA",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-25",
+      "company": "CNA",
+      "role": "Data Insights Analyst - Claims",
+      "location": "\u5b9a\u5236\uff08cna\uff09; SQL+BI/Reporting framing; Olist\u2192JMI\u2192Math3B; Chicago hybrid; $47-78K",
       "status": "applied"
     },
     {
       "date_found": "2026-05-24",
+      "company": "YouGov",
+      "role": "Survey Operations Analyst I",
+      "location": "Boulder",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-24",
+      "company": "CAN",
+      "role": "Data Insights Analyst - Claims",
+      "location": "Chicago",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-24",
+      "company": "LG",
+      "role": "Network Data Analyst",
+      "location": "Huntsville, AL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-23",
       "company": "Brex",
       "role": "Revenue Operations Analyst",
-      "location": "",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-23",
+      "company": "Hayden AI",
+      "role": "Data Analyst",
+      "location": "San Francisco",
       "status": "applied"
     },
     {
@@ -90,55 +139,6 @@
       "company": "DHL",
       "role": "Business Data Analyst II",
       "location": "Winston-Salem, NC",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-22",
-      "company": "Verve",
-      "role": "Insight Analyst",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-22",
-      "company": "EchoStar",
-      "role": "Data Analyst",
-      "location": "Englewood, CO",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-22",
-      "company": "Renaissance",
-      "role": "Business Intelligence Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-22",
-      "company": "Renaissance",
-      "role": "BI Analyst",
-      "location": "\u5b9a\u5236\uff08renaissance\uff09; Remote; EdTech\u76f4\u63a5\u547d\u4e2d; Math3B+Vocareum\u6700\u5f3a\u5bf9\u5e94",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-22",
-      "company": "EchoStar (DISH)",
-      "role": "Data Analyst",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-22",
-      "company": "DHL Supply Chain",
-      "role": "Business Data Analyst II",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-21",
-      "company": "CLEAR",
-      "role": "Forward Deployed AI Engineer",
-      "location": "New York",
       "status": "applied"
     }
   ]
