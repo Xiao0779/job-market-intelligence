@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-25T00:45:35-07:00_
+_Last refreshed: 2026-05-25T23:51:05-07:00_
 
 ## Positioning
 
@@ -10,17 +10,17 @@ _Last refreshed: 2026-05-25T00:45:35-07:00_
 
 ## Snapshot
 
-- Tracked roles: 420
-- Active roles: 211
-- Response rate: 1.6%
+- Tracked roles: 436
+- Active roles: 227
+- Response rate: 1.5%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.43
+- Average evaluated score: 3.45
 
 ## Status Breakdown
 
-- applied: 206
+- applied: 222
 - discarded: 3
 - evaluated: 1
 - interview: 4
@@ -29,16 +29,16 @@ _Last refreshed: 2026-05-25T00:45:35-07:00_
 
 ## Recent Activity
 
-- 2026-05-25: LG Electronics | Network Data Analyst | applied
-- 2026-05-25: Verdantas | Data Analyst I | applied
-- 2026-05-25: Prizeout | Data Analyst | applied
-- 2026-05-25: CNA | Data Insights Analyst - Claims | applied
-- 2026-05-24: YouGov | Survey Operations Analyst I | applied
-- 2026-05-24: CAN | Data Insights Analyst - Claims | applied
-- 2026-05-24: LG | Network Data Analyst | applied
-- 2026-05-23: Brex | Revenue Operations Analyst | applied
-- 2026-05-23: Hayden AI | Data Analyst | applied
-- 2026-05-22: DHL | Business Data Analyst II | applied
+- 2026-05-25: StepStone | Junior Analyst - AI Initiativees | applied
+- 2026-05-25: Agave | Product Analyst | applied
+- 2026-05-25: Junior AI | Data Scientist | applied
+- 2026-05-25: Numeral | Data Analyst | applied
+- 2026-05-25: ARQ | Data Analyst | applied
+- 2026-05-25: Mercor | Data Scientist | applied
+- 2026-05-25: Clay | Data Analyst | applied
+- 2026-05-25: Shiftsmart | Customer Analyst | applied
+- 2026-05-25: Gamma | Product Analyst | applied
+- 2026-05-25: OpenArt | Data Scientist | applied
 
 ## Recommended Opportunity Queue
 
