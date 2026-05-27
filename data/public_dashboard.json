@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-25T23:51:05-07:00",
+  "refreshed_at": "2026-05-27T00:00:05-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,7 +12,7 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 436,
+    "tracked_roles": 437,
     "active_roles": 227,
     "response_rate_pct": 1.5,
     "linkedin_sent": 28,
@@ -24,6 +24,7 @@
     "interview": 4,
     "applied": 222,
     "rejected": 45,
+    "oa\u5b8c\u6210": 1,
     "discarded": 3,
     "skip": 9,
     "evaluated": 1
@@ -71,6 +72,20 @@
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-05-26",
+      "company": "OpenSesame",
+      "role": "Customer Success Operations Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-26",
+      "company": "Cardless",
+      "role": "Data Analyst",
+      "location": "San Francisco",
+      "status": "applied"
+    },
     {
       "date_found": "2026-05-25",
       "company": "StepStone",
@@ -125,20 +140,6 @@
       "company": "Shiftsmart",
       "role": "Customer Analyst",
       "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-25",
-      "company": "Gamma",
-      "role": "Product Analyst",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-25",
-      "company": "OpenArt",
-      "role": "Data Scientist",
-      "location": "San Francisco",
       "status": "applied"
     }
   ]
