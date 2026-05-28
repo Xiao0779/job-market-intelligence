@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-27T00:00:05-07:00_
+_Last refreshed: 2026-05-27T23:57:03-07:00_
 
 ## Positioning
 
@@ -10,36 +10,36 @@ _Last refreshed: 2026-05-27T00:00:05-07:00_
 
 ## Snapshot
 
-- Tracked roles: 437
-- Active roles: 227
-- Response rate: 1.5%
+- Tracked roles: 457
+- Active roles: 236
+- Response rate: 1.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.45
+- Average evaluated score: 3.38
 
 ## Status Breakdown
 
-- applied: 222
+- applied: 230
 - discarded: 3
 - evaluated: 1
-- interview: 4
+- interview: 5
 - oa完成: 1
-- rejected: 45
-- skip: 9
+- rejected: 48
+- skip: 18
 
 ## Recent Activity
 
-- 2026-05-26: OpenSesame | Customer Success Operations Analyst | applied
-- 2026-05-26: Cardless | Data Analyst | applied
-- 2026-05-25: StepStone | Junior Analyst - AI Initiativees | applied
-- 2026-05-25: Agave | Product Analyst | applied
-- 2026-05-25: Junior AI | Data Scientist | applied
-- 2026-05-25: Numeral | Data Analyst | applied
-- 2026-05-25: ARQ | Data Analyst | applied
-- 2026-05-25: Mercor | Data Scientist | applied
-- 2026-05-25: Clay | Data Analyst | applied
-- 2026-05-25: Shiftsmart | Customer Analyst | applied
+- 2026-05-27: Legora | Data Analyst – GTM & Customer Success | applied
+- 2026-05-27: Scopely | Data Scientist, Marketing | applied
+- 2026-05-27: Resident | Product Analyst | applied
+- 2026-05-27: Contentful | Data Scientist | applied
+- 2026-05-27: Figma | Data Scientist | applied
+- 2026-05-27: Moloco | Growth Analyst | applied
+- 2026-05-27: TIFIN | Junior Data Scientist | applied
+- 2026-05-27: Visa | Data Scientist, FeatureSpace | applied
+- 2026-05-27: Apex | Data Analyst | applied
+- 2026-05-27: Apex Fintech Solutions | Data Analyst | applied
 
 ## Recommended Opportunity Queue
 
@@ -54,7 +54,7 @@ _Last refreshed: 2026-05-27T00:00:05-07:00_
 - Chime | Data Analyst, Financial Crimes & Identity | https://boards.greenhouse.io/chime/jobs/8485895002
 - Discord | Recruiting Data Analyst | https://job-boards.greenhouse.io/discord/jobs/8523903002
 - Figma | AI Applied Scientist | https://boards.greenhouse.io/figma/jobs/5707966004
-- Figma | Data Scientist | https://boards.greenhouse.io/figma/jobs/5552580004
+- Figma | Data Scientist | https://job-boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004
 - Figma | Data Scientist, Core Data - PhD (2026) | https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004
 - Gusto | GTM Analytics Engineer | https://job-boards.greenhouse.io/gusto/jobs/7557049
 - Gusto | Product Data Scientist - Growth | https://job-boards.greenhouse.io/gusto/jobs/6356147

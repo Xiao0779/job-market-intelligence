@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-27T00:00:05-07:00",
+  "refreshed_at": "2026-05-27T23:57:03-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 437,
-    "active_roles": 227,
-    "response_rate_pct": 1.5,
+    "tracked_roles": 457,
+    "active_roles": 236,
+    "response_rate_pct": 1.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.45
+    "avg_evaluated_score": 3.38
   },
   "status_counts": {
-    "interview": 4,
-    "applied": 222,
-    "rejected": 45,
+    "interview": 5,
+    "applied": 230,
+    "rejected": 48,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
-    "skip": 9,
+    "skip": 18,
     "evaluated": 1
   },
   "top_companies": [
@@ -73,73 +73,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-05-26",
-      "company": "OpenSesame",
-      "role": "Customer Success Operations Analyst",
+      "date_found": "2026-05-27",
+      "company": "Legora",
+      "role": "Data Analyst \u2013 GTM & Customer Success",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-27",
+      "company": "Scopely",
+      "role": "Data Scientist, Marketing",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-27",
+      "company": "Resident",
+      "role": "Product Analyst",
       "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-26",
-      "company": "Cardless",
-      "role": "Data Analyst",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-25",
-      "company": "StepStone",
-      "role": "Junior Analyst - AI Initiativees",
-      "location": "La Jolla",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-25",
-      "company": "Agave",
-      "role": "Product Analyst",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-25",
-      "company": "Junior AI",
+      "date_found": "2026-05-27",
+      "company": "Contentful",
       "role": "Data Scientist",
-      "location": "New York",
+      "location": "Denver",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-25",
-      "company": "Numeral",
-      "role": "Data Analyst",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-25",
-      "company": "ARQ",
-      "role": "Data Analyst",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-25",
-      "company": "Mercor",
+      "date_found": "2026-05-27",
+      "company": "Figma",
       "role": "Data Scientist",
       "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-25",
-      "company": "Clay",
-      "role": "Data Analyst",
-      "location": "New York",
+      "date_found": "2026-05-27",
+      "company": "Moloco",
+      "role": "Growth Analyst",
+      "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-25",
-      "company": "Shiftsmart",
-      "role": "Customer Analyst",
-      "location": "New York",
+      "date_found": "2026-05-27",
+      "company": "TIFIN",
+      "role": "Junior Data Scientist",
+      "location": "Charlotte, NC",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-27",
+      "company": "Visa",
+      "role": "Data Scientist, FeatureSpace",
+      "location": "Atlanta, GA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-27",
+      "company": "Apex",
+      "role": "Data Analyst",
+      "location": "Chicago, IL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-27",
+      "company": "Apex Fintech Solutions",
+      "role": "Data Analyst",
+      "location": "\u5b9a\u5236\uff08apex\uff09\u65e0CL; PERM\u683c\u5f0f=\u7b7e\u8bc1\u53cb\u597d; \u76f4\u63a5\u90ae\u4ef6eguerra@; Olist\u2192JMI\u2192Math3B; B1+B3; Chicago hybrid; $74-103K; \u622a\u6b626/1\u7d27\u6025",
       "status": "applied"
     }
   ]
