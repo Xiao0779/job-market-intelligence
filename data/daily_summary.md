@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-30T23:50:00-07:00_
+_Last refreshed: 2026-06-01T23:47:21-07:00_
 
 ## Positioning
 
@@ -61,13 +61,13 @@ _Last refreshed: 2026-05-30T23:50:00-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 79 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 79 days with no response
-- Google | Software Engineer II, Early Career | 75 days with no response
-- Apple | AIML - Machine Learning Research | 68 days with no response
-- Amazon | Data Engineer II | 66 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 66 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 66 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 66 days with no response
-- Esri | Product Test Engineer II - Feature Server | 66 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 66 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 81 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 81 days with no response
+- Google | Software Engineer II, Early Career | 77 days with no response
+- Apple | AIML - Machine Learning Research | 70 days with no response
+- Amazon | Data Engineer II | 68 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 68 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 68 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 68 days with no response
+- Esri | Product Test Engineer II - Feature Server | 68 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 68 days with no response
