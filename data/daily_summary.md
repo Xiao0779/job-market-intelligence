@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-05-29T23:55:17-07:00_
+_Last refreshed: 2026-05-30T23:50:00-07:00_
 
 ## Positioning
 
@@ -10,36 +10,36 @@ _Last refreshed: 2026-05-29T23:55:17-07:00_
 
 ## Snapshot
 
-- Tracked roles: 463
-- Active roles: 236
-- Response rate: 2.1%
+- Tracked roles: 484
+- Active roles: 246
+- Response rate: 2.0%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.35
+- Average evaluated score: 3.33
 
 ## Status Breakdown
 
-- applied: 229
+- applied: 239
 - discarded: 3
 - evaluated: 1
 - interview: 6
 - oa完成: 1
 - rejected: 52
-- skip: 20
+- skip: 31
 
 ## Recent Activity
 
-- 2026-05-29: HP | North America Pursuit Data Analyst & Business Planner | applied
-- 2026-05-29: iSpot | Research Data Scientist 1 | applied
-- 2026-05-29: iHerb | Pricing Data Scientist | skip
-- 2026-05-29: Twilio | Marketing Analyst, PLG & Self-Serve Analytics | skip
-- 2026-05-29: dv01 | Data Analytics Engineer I | skip
-- 2026-05-28: xAI | AI Tutor - Chinese | applied
-- 2026-05-27: Legora | Data Analyst – GTM & Customer Success | applied
-- 2026-05-27: Scopely | Data Scientist, Marketing | applied
-- 2026-05-27: Resident | Product Analyst | applied
-- 2026-05-27: Contentful | Data Scientist | applied
+- 2026-05-30: Murj | Data Analyst (Entry Level) | applied
+- 2026-05-30: LTK | Data Analyst | applied
+- 2026-05-30: NuView | Data Analyst | applied
+- 2026-05-30: QuinStreet | Data Analyst | applied
+- 2026-05-30: Doximity | Data Analyst | applied
+- 2026-05-30: PrizePicks | Revenue Analyst - Lifecycle | applied
+- 2026-05-30: Jump | Data Analyst | applied
+- 2026-05-30: Doximity | Data Analyst, Business Intelligence | applied
+- 2026-05-30: Peloton | Data Scientist, Product Analytics | skip
+- 2026-05-30: TransUnion | Data Scientist, Financial Services Consulting | skip
 
 ## Recommended Opportunity Queue
 
@@ -61,13 +61,13 @@ _Last refreshed: 2026-05-29T23:55:17-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 78 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 78 days with no response
-- Google | Software Engineer II, Early Career | 74 days with no response
-- Apple | AIML - Machine Learning Research | 67 days with no response
-- Amazon | Data Engineer II | 65 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 65 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 65 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 65 days with no response
-- Esri | Product Test Engineer II - Feature Server | 65 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 65 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 79 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 79 days with no response
+- Google | Software Engineer II, Early Career | 75 days with no response
+- Apple | AIML - Machine Learning Research | 68 days with no response
+- Amazon | Data Engineer II | 66 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 66 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 66 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 66 days with no response
+- Esri | Product Test Engineer II - Feature Server | 66 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 66 days with no response

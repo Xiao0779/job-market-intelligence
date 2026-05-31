@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-29T23:55:17-07:00",
+  "refreshed_at": "2026-05-30T23:50:00-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 463,
-    "active_roles": 236,
-    "response_rate_pct": 2.1,
+    "tracked_roles": 484,
+    "active_roles": 246,
+    "response_rate_pct": 2.0,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.35
+    "avg_evaluated_score": 3.33
   },
   "status_counts": {
     "interview": 6,
-    "applied": 229,
+    "applied": 239,
     "rejected": 52,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
-    "skip": 20,
+    "skip": 31,
     "evaluated": 1
   },
   "top_companies": [
@@ -67,80 +67,80 @@
       "count": 7
     },
     {
-      "company": "Gusto",
+      "company": "Cohere",
       "count": 7
     }
   ],
   "recent_roles": [
     {
-      "date_found": "2026-05-29",
-      "company": "HP",
-      "role": "North America Pursuit Data Analyst & Business Planner",
-      "location": "Spring, Texas",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-29",
-      "company": "iSpot",
-      "role": "Research Data Scientist 1",
-      "location": "Bellevue, WA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-29",
-      "company": "iHerb",
-      "role": "Pricing Data Scientist",
-      "location": "10\u5e74\u7ecf\u9a8c\u786c\u95e8\u69db; pricing domain\u5168\u7f3a; Staff\u7ea7\u5c97\u4f4d; $175-198K; Irvine/Remote",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-05-29",
-      "company": "Twilio",
-      "role": "Marketing Analyst, PLG & Self-Serve Analytics",
-      "location": "PLG experience required\u4f46\u65e0\u6b64\u7ecf\u9a8c; CA\u4e0d\u53efhire\u9700\u642c\u5bb6; Remote",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-05-29",
-      "company": "dv01",
-      "role": "Data Analytics Engineer I",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-05-28",
-      "company": "xAI",
-      "role": "AI Tutor - Chinese",
+      "date_found": "2026-05-30",
+      "company": "Murj",
+      "role": "Data Analyst (Entry Level)",
       "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-27",
-      "company": "Legora",
-      "role": "Data Analyst \u2013 GTM & Customer Success",
-      "location": "New York",
+      "date_found": "2026-05-30",
+      "company": "LTK",
+      "role": "Data Analyst",
+      "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-27",
-      "company": "Scopely",
-      "role": "Data Scientist, Marketing",
+      "date_found": "2026-05-30",
+      "company": "NuView",
+      "role": "Data Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-30",
+      "company": "QuinStreet",
+      "role": "Data Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-30",
+      "company": "Doximity",
+      "role": "Data Analyst",
       "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-27",
-      "company": "Resident",
-      "role": "Product Analyst",
+      "date_found": "2026-05-30",
+      "company": "PrizePicks",
+      "role": "Revenue Analyst - Lifecycle",
+      "location": "Atlanta, GA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-05-30",
+      "company": "Jump",
+      "role": "Data Analyst",
       "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-05-27",
-      "company": "Contentful",
-      "role": "Data Scientist",
-      "location": "Denver",
+      "date_found": "2026-05-30",
+      "company": "Doximity",
+      "role": "Data Analyst, Business Intelligence",
+      "location": "San Francisco",
       "status": "applied"
+    },
+    {
+      "date_found": "2026-05-30",
+      "company": "Peloton",
+      "role": "Data Scientist, Product Analytics",
+      "location": "",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-05-30",
+      "company": "TransUnion",
+      "role": "Data Scientist, Financial Services Consulting",
+      "location": "Financial services credit analytics domain gap; Chicago hybrid; \u54a8\u8be2+travel 10-20%; $67-112K",
+      "status": "skip"
     }
   ]
 }
