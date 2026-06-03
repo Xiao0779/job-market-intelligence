@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-06-01T23:47:21-07:00",
+  "refreshed_at": "2026-06-02T23:43:09-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 484,
-    "active_roles": 246,
+    "tracked_roles": 490,
+    "active_roles": 251,
     "response_rate_pct": 2.0,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.33
+    "avg_evaluated_score": 3.32
   },
   "status_counts": {
     "interview": 6,
-    "applied": 239,
+    "applied": 244,
     "rejected": 52,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
-    "skip": 31,
+    "skip": 32,
     "evaluated": 1
   },
   "top_companies": [
@@ -73,6 +73,55 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-06-02",
+      "company": "Hightouch",
+      "role": "Forward Deployed Marketing Data Scientist",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-02",
+      "company": "NMI",
+      "role": "Product Data Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-02",
+      "company": "Resend",
+      "role": "Data Analyst, Trust & Safety",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-02",
+      "company": "Plaud",
+      "role": "Data Analyst, Growth - San Francisco",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-02",
+      "company": "Blue Rose Research",
+      "role": "Data Analyst - Research",
+      "location": "Remote",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-06-02",
+      "company": "Spotify",
+      "role": "Machine Learning Engineer I, Personalization , Minesweeper",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-02",
+      "company": "Vanta",
+      "role": "Revenue Operations Analyst",
+      "location": "",
+      "status": "skip"
+    },
+    {
       "date_found": "2026-05-30",
       "company": "Murj",
       "role": "Data Analyst (Entry Level)",
@@ -92,55 +141,6 @@
       "role": "Data Analyst",
       "location": "Remote",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-05-30",
-      "company": "QuinStreet",
-      "role": "Data Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-30",
-      "company": "Doximity",
-      "role": "Data Analyst",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-30",
-      "company": "PrizePicks",
-      "role": "Revenue Analyst - Lifecycle",
-      "location": "Atlanta, GA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-30",
-      "company": "Jump",
-      "role": "Data Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-30",
-      "company": "Doximity",
-      "role": "Data Analyst, Business Intelligence",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-05-30",
-      "company": "Peloton",
-      "role": "Data Scientist, Product Analytics",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-05-30",
-      "company": "TransUnion",
-      "role": "Data Scientist, Financial Services Consulting",
-      "location": "Financial services credit analytics domain gap; Chicago hybrid; \u54a8\u8be2+travel 10-20%; $67-112K",
-      "status": "skip"
     }
   ]
 }
