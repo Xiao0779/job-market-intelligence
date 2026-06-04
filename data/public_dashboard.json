@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-06-02T23:43:09-07:00",
+  "refreshed_at": "2026-06-03T23:51:17-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 490,
-    "active_roles": 251,
+    "tracked_roles": 503,
+    "active_roles": 255,
     "response_rate_pct": 2.0,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.32
+    "avg_evaluated_score": 3.27
   },
   "status_counts": {
     "interview": 6,
-    "applied": 244,
+    "applied": 248,
     "rejected": 52,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
-    "skip": 32,
+    "skip": 41,
     "evaluated": 1
   },
   "top_companies": [
@@ -73,74 +73,74 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-06-02",
-      "company": "Hightouch",
-      "role": "Forward Deployed Marketing Data Scientist",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-02",
-      "company": "NMI",
-      "role": "Product Data Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-02",
-      "company": "Resend",
-      "role": "Data Analyst, Trust & Safety",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-02",
-      "company": "Plaud",
-      "role": "Data Analyst, Growth - San Francisco",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-02",
-      "company": "Blue Rose Research",
-      "role": "Data Analyst - Research",
-      "location": "Remote",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-06-02",
-      "company": "Spotify",
-      "role": "Machine Learning Engineer I, Personalization , Minesweeper",
+      "date_found": "2026-06-03",
+      "company": "CLEAR",
+      "role": "CRM Marketing Analyst",
       "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-06-02",
-      "company": "Vanta",
-      "role": "Revenue Operations Analyst",
+      "date_found": "2026-06-03",
+      "company": "Book of the Month",
+      "role": "Product Analyst, Data",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-03",
+      "company": "Salesforce",
+      "role": "Business Analyst",
+      "location": "Chicago",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-03",
+      "company": "Ipsos PRS IN VIVO",
+      "role": "Insights Analyst",
       "location": "",
       "status": "skip"
     },
     {
-      "date_found": "2026-05-30",
-      "company": "Murj",
-      "role": "Data Analyst (Entry Level)",
-      "location": "Remote",
-      "status": "applied"
+      "date_found": "2026-06-03",
+      "company": "Comscore",
+      "role": "Associate Data Analyst",
+      "location": "\u786c\u5199\"no sponsorship now or in the future\"\uff1b\u6280\u672f\u96c6\u6210\u5c97\uff08Wireshark/Charles/Java/Swift\uff09\uff1b\u5a92\u4f53\u6d4b\u91cfdomain\uff1bReston VA/Remote East",
+      "status": "skip"
     },
     {
-      "date_found": "2026-05-30",
-      "company": "LTK",
-      "role": "Data Analyst",
-      "location": "Remote",
-      "status": "applied"
+      "date_found": "2026-06-03",
+      "company": "EDO",
+      "role": "Media Analytics Associate",
+      "location": "",
+      "status": "skip"
     },
     {
-      "date_found": "2026-05-30",
-      "company": "NuView",
+      "date_found": "2026-06-03",
+      "company": "Whalar",
       "role": "Data Analyst",
-      "location": "Remote",
-      "status": "applied"
+      "location": "",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-06-03",
+      "company": "IBISWorld",
+      "role": "Industry Research Analyst",
+      "location": "",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-06-03",
+      "company": "Dropbox",
+      "role": "Data Scientist",
+      "location": "Remote-Mexico\u5c97\u4f4d\uff1bF-1 OPT\u65e0\u58a8\u897f\u54e5\u5de5\u4f5c\u6743\uff1b3-5\u5e74\u7ecf\u9a8c\uff1bHadoop\u786c\u8981\u6c42",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-06-03",
+      "company": "OneRail",
+      "role": "Product Analyst",
+      "location": "",
+      "status": "skip"
     }
   ]
 }

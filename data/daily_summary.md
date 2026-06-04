@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-06-02T23:43:09-07:00_
+_Last refreshed: 2026-06-03T23:51:17-07:00_
 
 ## Positioning
 
@@ -10,36 +10,36 @@ _Last refreshed: 2026-06-02T23:43:09-07:00_
 
 ## Snapshot
 
-- Tracked roles: 490
-- Active roles: 251
+- Tracked roles: 503
+- Active roles: 255
 - Response rate: 2.0%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.32
+- Average evaluated score: 3.27
 
 ## Status Breakdown
 
-- applied: 244
+- applied: 248
 - discarded: 3
 - evaluated: 1
 - interview: 6
 - oa完成: 1
 - rejected: 52
-- skip: 32
+- skip: 41
 
 ## Recent Activity
 
-- 2026-06-02: Hightouch | Forward Deployed Marketing Data Scientist | applied
-- 2026-06-02: NMI | Product Data Analyst | applied
-- 2026-06-02: Resend | Data Analyst, Trust & Safety | applied
-- 2026-06-02: Plaud | Data Analyst, Growth - San Francisco | applied
-- 2026-06-02: Blue Rose Research | Data Analyst - Research | skip
-- 2026-06-02: Spotify | Machine Learning Engineer I, Personalization , Minesweeper | applied
-- 2026-06-02: Vanta | Revenue Operations Analyst | skip
-- 2026-05-30: Murj | Data Analyst (Entry Level) | applied
-- 2026-05-30: LTK | Data Analyst | applied
-- 2026-05-30: NuView | Data Analyst | applied
+- 2026-06-03: CLEAR | CRM Marketing Analyst | applied
+- 2026-06-03: Book of the Month | Product Analyst, Data | applied
+- 2026-06-03: Salesforce | Business Analyst | applied
+- 2026-06-03: Ipsos PRS IN VIVO | Insights Analyst | skip
+- 2026-06-03: Comscore | Associate Data Analyst | skip
+- 2026-06-03: EDO | Media Analytics Associate | skip
+- 2026-06-03: Whalar | Data Analyst | skip
+- 2026-06-03: IBISWorld | Industry Research Analyst | skip
+- 2026-06-03: Dropbox | Data Scientist | skip
+- 2026-06-03: OneRail | Product Analyst | skip
 
 ## Recommended Opportunity Queue
 
@@ -61,13 +61,13 @@ _Last refreshed: 2026-06-02T23:43:09-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 82 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 82 days with no response
-- Google | Software Engineer II, Early Career | 78 days with no response
-- Apple | AIML - Machine Learning Research | 71 days with no response
-- Amazon | Data Engineer II | 69 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 69 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 69 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 69 days with no response
-- Esri | Product Test Engineer II - Feature Server | 69 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 69 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 83 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 83 days with no response
+- Google | Software Engineer II, Early Career | 79 days with no response
+- Apple | AIML - Machine Learning Research | 72 days with no response
+- Amazon | Data Engineer II | 70 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 70 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 70 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 70 days with no response
+- Esri | Product Test Engineer II - Feature Server | 70 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 70 days with no response
