@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-06-03T23:51:17-07:00",
+  "refreshed_at": "2026-06-04T23:57:10-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,9 +12,9 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 503,
-    "active_roles": 255,
-    "response_rate_pct": 2.0,
+    "tracked_roles": 508,
+    "active_roles": 259,
+    "response_rate_pct": 1.9,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
@@ -22,11 +22,12 @@
   },
   "status_counts": {
     "interview": 6,
-    "applied": 248,
+    "applied": 252,
     "rejected": 52,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
     "skip": 41,
+    "applied \u2705": 1,
     "evaluated": 1
   },
   "top_companies": [
@@ -73,6 +74,41 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-06-04",
+      "company": "EchoStar",
+      "role": "Data Scientist I - Customer Lifecycle",
+      "location": "Littleton, CO",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-04",
+      "company": "GM Financial",
+      "role": "Data Analyst I - Model Management",
+      "location": "Fort Worth, TX (Hybrid)",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-04",
+      "company": "Accela",
+      "role": "Associate Data Scientist - AI Submission Analysis",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-04",
+      "company": "Morningstar",
+      "role": "Associate AI Engineer",
+      "location": "Chicago",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-04",
+      "company": "EchoStar (Boost Mobile)",
+      "role": "Data Scientist I - Customer Lifecycle",
+      "location": "",
+      "status": "applied \u2705"
+    },
+    {
       "date_found": "2026-06-03",
       "company": "CLEAR",
       "role": "CRM Marketing Analyst",
@@ -105,41 +141,6 @@
       "company": "Comscore",
       "role": "Associate Data Analyst",
       "location": "\u786c\u5199\"no sponsorship now or in the future\"\uff1b\u6280\u672f\u96c6\u6210\u5c97\uff08Wireshark/Charles/Java/Swift\uff09\uff1b\u5a92\u4f53\u6d4b\u91cfdomain\uff1bReston VA/Remote East",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-06-03",
-      "company": "EDO",
-      "role": "Media Analytics Associate",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-06-03",
-      "company": "Whalar",
-      "role": "Data Analyst",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-06-03",
-      "company": "IBISWorld",
-      "role": "Industry Research Analyst",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-06-03",
-      "company": "Dropbox",
-      "role": "Data Scientist",
-      "location": "Remote-Mexico\u5c97\u4f4d\uff1bF-1 OPT\u65e0\u58a8\u897f\u54e5\u5de5\u4f5c\u6743\uff1b3-5\u5e74\u7ecf\u9a8c\uff1bHadoop\u786c\u8981\u6c42",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-06-03",
-      "company": "OneRail",
-      "role": "Product Analyst",
-      "location": "",
       "status": "skip"
     }
   ]
