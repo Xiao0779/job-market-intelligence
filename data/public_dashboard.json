@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-06-04T23:57:10-07:00",
+  "refreshed_at": "2026-06-06T23:48:59-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 508,
-    "active_roles": 259,
+    "tracked_roles": 511,
+    "active_roles": 261,
     "response_rate_pct": 1.9,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,8 +22,8 @@
   },
   "status_counts": {
     "interview": 6,
-    "applied": 252,
-    "rejected": 52,
+    "applied": 254,
+    "rejected": 53,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
     "skip": 41,
@@ -74,11 +74,32 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-06-06",
+      "company": "Profound",
+      "role": "AI Strategist, Data",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-06",
+      "company": "GLS",
+      "role": "Data Scientist",
+      "location": "Greenville, South Carolina",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-05",
+      "company": "UL Solutions",
+      "role": "Associate Data Scientist",
+      "location": "Northbrook, IL",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-06-04",
       "company": "EchoStar",
       "role": "Data Scientist I - Customer Lifecycle",
       "location": "Littleton, CO",
-      "status": "applied"
+      "status": "rejected"
     },
     {
       "date_found": "2026-06-04",
@@ -121,27 +142,6 @@
       "role": "Product Analyst, Data",
       "location": "New York",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-06-03",
-      "company": "Salesforce",
-      "role": "Business Analyst",
-      "location": "Chicago",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-03",
-      "company": "Ipsos PRS IN VIVO",
-      "role": "Insights Analyst",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-06-03",
-      "company": "Comscore",
-      "role": "Associate Data Analyst",
-      "location": "\u786c\u5199\"no sponsorship now or in the future\"\uff1b\u6280\u672f\u96c6\u6210\u5c97\uff08Wireshark/Charles/Java/Swift\uff09\uff1b\u5a92\u4f53\u6d4b\u91cfdomain\uff1bReston VA/Remote East",
-      "status": "skip"
     }
   ]
 }
