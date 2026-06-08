@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-06-06T23:48:59-07:00",
+  "refreshed_at": "2026-06-07T23:54:26-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 511,
-    "active_roles": 261,
+    "tracked_roles": 515,
+    "active_roles": 265,
     "response_rate_pct": 1.9,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 6,
-    "applied": 254,
+    "applied": 258,
     "rejected": 53,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
@@ -74,6 +74,34 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-06-07",
+      "company": "JPMorganChase",
+      "role": "Associate \u2013 Product Analyst, Machine Learning & Intelligent Operations",
+      "location": "Columbus, OH",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-07",
+      "company": "Crumbl",
+      "role": "Data Analyst",
+      "location": "Provo, UT",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-07",
+      "company": "Sapiom",
+      "role": "Data Analyst",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-07",
+      "company": "Citizens",
+      "role": "Data Analyst",
+      "location": "Coralville, IA",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-06-06",
       "company": "Profound",
       "role": "AI Strategist, Data",
@@ -113,34 +141,6 @@
       "company": "Accela",
       "role": "Associate Data Scientist - AI Submission Analysis",
       "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-04",
-      "company": "Morningstar",
-      "role": "Associate AI Engineer",
-      "location": "Chicago",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-04",
-      "company": "EchoStar (Boost Mobile)",
-      "role": "Data Scientist I - Customer Lifecycle",
-      "location": "",
-      "status": "applied \u2705"
-    },
-    {
-      "date_found": "2026-06-03",
-      "company": "CLEAR",
-      "role": "CRM Marketing Analyst",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-03",
-      "company": "Book of the Month",
-      "role": "Product Analyst, Data",
-      "location": "New York",
       "status": "applied"
     }
   ]
