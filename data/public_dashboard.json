@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-06-07T23:54:26-07:00",
+  "refreshed_at": "2026-06-09T20:24:33-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 515,
-    "active_roles": 265,
-    "response_rate_pct": 1.9,
+    "tracked_roles": 520,
+    "active_roles": 267,
+    "response_rate_pct": 1.6,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
     "avg_evaluated_score": 3.27
   },
   "status_counts": {
-    "interview": 6,
-    "applied": 258,
-    "rejected": 53,
+    "interview": 5,
+    "applied": 261,
+    "rejected": 56,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
     "skip": 41,
@@ -74,6 +74,41 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-06-09",
+      "company": "Order",
+      "role": "Data Strategy & Sourcing Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-09",
+      "company": "Expedia",
+      "role": "Data Analyst II - Agentic Experiences",
+      "location": "Seattle",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-09",
+      "company": "USC",
+      "role": "Associate Data Scientist",
+      "location": "Los Angeles",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-09",
+      "company": "Konrad",
+      "role": "Data Analyst",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-06-08",
+      "company": "Lightcast",
+      "role": "Data Analyst - Taxonomy and Classification - 1030",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-06-07",
       "company": "JPMorganChase",
       "role": "Associate \u2013 Product Analyst, Machine Learning & Intelligent Operations",
@@ -92,7 +127,7 @@
       "company": "Sapiom",
       "role": "Data Analyst",
       "location": "San Francisco",
-      "status": "applied"
+      "status": "rejected"
     },
     {
       "date_found": "2026-06-07",
@@ -106,41 +141,6 @@
       "company": "Profound",
       "role": "AI Strategist, Data",
       "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-06",
-      "company": "GLS",
-      "role": "Data Scientist",
-      "location": "Greenville, South Carolina",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-05",
-      "company": "UL Solutions",
-      "role": "Associate Data Scientist",
-      "location": "Northbrook, IL",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-04",
-      "company": "EchoStar",
-      "role": "Data Scientist I - Customer Lifecycle",
-      "location": "Littleton, CO",
-      "status": "rejected"
-    },
-    {
-      "date_found": "2026-06-04",
-      "company": "GM Financial",
-      "role": "Data Analyst I - Model Management",
-      "location": "Fort Worth, TX (Hybrid)",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-04",
-      "company": "Accela",
-      "role": "Associate Data Scientist - AI Submission Analysis",
-      "location": "Remote",
       "status": "applied"
     }
   ]

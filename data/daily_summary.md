@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-06-07T23:54:26-07:00_
+_Last refreshed: 2026-06-09T20:24:33-07:00_
 
 ## Positioning
 
@@ -10,9 +10,9 @@ _Last refreshed: 2026-06-07T23:54:26-07:00_
 
 ## Snapshot
 
-- Tracked roles: 515
-- Active roles: 265
-- Response rate: 1.9%
+- Tracked roles: 520
+- Active roles: 267
+- Response rate: 1.6%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
@@ -20,27 +20,27 @@ _Last refreshed: 2026-06-07T23:54:26-07:00_
 
 ## Status Breakdown
 
-- applied: 258
+- applied: 261
 - applied ✅: 1
 - discarded: 3
 - evaluated: 1
-- interview: 6
+- interview: 5
 - oa完成: 1
-- rejected: 53
+- rejected: 56
 - skip: 41
 
 ## Recent Activity
 
+- 2026-06-09: Order | Data Strategy & Sourcing Analyst | applied
+- 2026-06-09: Expedia | Data Analyst II - Agentic Experiences | applied
+- 2026-06-09: USC | Associate Data Scientist | applied
+- 2026-06-09: Konrad | Data Analyst | applied
+- 2026-06-08: Lightcast | Data Analyst - Taxonomy and Classification - 1030 | applied
 - 2026-06-07: JPMorganChase | Associate – Product Analyst, Machine Learning & Intelligent Operations | applied
 - 2026-06-07: Crumbl | Data Analyst | applied
-- 2026-06-07: Sapiom | Data Analyst | applied
+- 2026-06-07: Sapiom | Data Analyst | rejected
 - 2026-06-07: Citizens | Data Analyst | applied
 - 2026-06-06: Profound | AI Strategist, Data | applied
-- 2026-06-06: GLS | Data Scientist | applied
-- 2026-06-05: UL Solutions | Associate Data Scientist | applied
-- 2026-06-04: EchoStar | Data Scientist I - Customer Lifecycle | rejected
-- 2026-06-04: GM Financial | Data Analyst I - Model Management | applied
-- 2026-06-04: Accela | Associate Data Scientist - AI Submission Analysis | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-06-07T23:54:26-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 87 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 87 days with no response
-- Google | Software Engineer II, Early Career | 83 days with no response
-- Apple | AIML - Machine Learning Research | 76 days with no response
-- Amazon | Data Engineer II | 74 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 74 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 74 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 74 days with no response
-- Esri | Product Test Engineer II - Feature Server | 74 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 74 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 89 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 89 days with no response
+- Google | Software Engineer II, Early Career | 85 days with no response
+- Apple | AIML - Machine Learning Research | 78 days with no response
+- Amazon | Data Engineer II | 76 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 76 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 76 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 76 days with no response
+- Esri | Product Test Engineer II - Feature Server | 76 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 76 days with no response
