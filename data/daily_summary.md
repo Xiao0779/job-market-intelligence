@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-06-09T20:24:33-07:00_
+_Last refreshed: 2026-07-04T19:08:32-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-06-09T20:24:33-07:00_
 
 ## Snapshot
 
-- Tracked roles: 520
-- Active roles: 267
-- Response rate: 1.6%
+- Tracked roles: 572
+- Active roles: 288
+- Response rate: 1.1%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.27
+- Average evaluated score: 3.3
 
 ## Status Breakdown
 
-- applied: 261
+- applied: 281
 - applied ✅: 1
 - discarded: 3
-- evaluated: 1
-- interview: 5
+- evaluated: 3
+- interview: 4
 - oa完成: 1
-- rejected: 56
-- skip: 41
+- rejected: 73
+- skip: 55
 
 ## Recent Activity
 
-- 2026-06-09: Order | Data Strategy & Sourcing Analyst | applied
-- 2026-06-09: Expedia | Data Analyst II - Agentic Experiences | applied
-- 2026-06-09: USC | Associate Data Scientist | applied
-- 2026-06-09: Konrad | Data Analyst | applied
-- 2026-06-08: Lightcast | Data Analyst - Taxonomy and Classification - 1030 | applied
-- 2026-06-07: JPMorganChase | Associate – Product Analyst, Machine Learning & Intelligent Operations | applied
-- 2026-06-07: Crumbl | Data Analyst | applied
-- 2026-06-07: Sapiom | Data Analyst | rejected
-- 2026-06-07: Citizens | Data Analyst | applied
-- 2026-06-06: Profound | AI Strategist, Data | applied
+- 2026-07-05: Caterpillar | Business Intelligence Analyst (TIS Innovation) | applied
+- 2026-07-05: When We All Vote (Civic Nation) | Experimentation Data Analyst, Party At The Polls | applied
+- 2026-07-04: Maersk | Data Analyst | applied
+- 2026-07-04: BRG | Data Analyst | applied
+- 2026-07-04: Integra FEC | Data Analyst / Associate Data Scientist | applied
+- 2026-07-04: Higher Logic | Associate Data Solutions Engineer | applied
+- 2026-07-04: AlphaLife Sciences | AI Software Engineer | applied
+- 2026-07-04: Tauck | Associate Applied AI Engineer | applied
+- 2026-07-04: Fortinet | Junior Applied AI Engineer- HRIS | applied
+- 2026-07-04: Clarium | AI Engineer - Data Intelligence | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-06-09T20:24:33-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 89 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 89 days with no response
-- Google | Software Engineer II, Early Career | 85 days with no response
-- Apple | AIML - Machine Learning Research | 78 days with no response
-- Amazon | Data Engineer II | 76 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 76 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 76 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 76 days with no response
-- Esri | Product Test Engineer II - Feature Server | 76 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 76 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 114 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 114 days with no response
+- Google | Software Engineer II, Early Career | 110 days with no response
+- Apple | AIML - Machine Learning Research | 103 days with no response
+- Amazon | Data Engineer II | 101 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 101 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 101 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 101 days with no response
+- Esri | Product Test Engineer II - Feature Server | 101 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 101 days with no response

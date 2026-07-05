@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-06-09T20:24:33-07:00",
+  "refreshed_at": "2026-07-04T19:08:32-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,23 +12,23 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 520,
-    "active_roles": 267,
-    "response_rate_pct": 1.6,
+    "tracked_roles": 572,
+    "active_roles": 288,
+    "response_rate_pct": 1.1,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.27
+    "avg_evaluated_score": 3.3
   },
   "status_counts": {
-    "interview": 5,
-    "applied": 261,
-    "rejected": 56,
+    "interview": 4,
+    "applied": 281,
+    "rejected": 73,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
-    "skip": 41,
-    "applied \u2705": 1,
-    "evaluated": 1
+    "skip": 55,
+    "evaluated": 3,
+    "applied \u2705": 1
   },
   "top_companies": [
     {
@@ -74,73 +74,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-06-09",
-      "company": "Order",
-      "role": "Data Strategy & Sourcing Analyst",
+      "date_found": "2026-07-05",
+      "company": "Caterpillar",
+      "role": "Business Intelligence Analyst (TIS Innovation)",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-05",
+      "company": "When We All Vote (Civic Nation)",
+      "role": "Experimentation Data Analyst, Party At The Polls",
+      "location": "\u65e0\u515a\u6d3e\u6295\u7968\u53c2\u4e0e\u5021\u5bfc\u7ec4\u7ec7; 1yr temp\u5c97(\u81f32027-07-30); \u5e74\u9650\u8981\u6c42\u53ef\u7528coursework\u66ff\u4ee3; Causal(\u6253\u5934)\u2192\u672c\u79d1GIS\u8bba\u6587(\u9996\u6b21\u7528\u4e8e\u5730\u7406\u6570\u636e\u5206\u6790\u8981\u6c42,regla12)\u2192Olist\u89d2\u5ea6; B1+B3; CSS\u5b66\u4f4ddomain\u5929\u7136\u5bf9\u53e3; \u65e0visa\u6761\u6b3e; CL\u62ac\u5934Ruair\u00ed \u00d3 Cear\u00fail; Remote; $65-72K; \u5b9a\u5236\u7b80\u5386+CL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-04",
+      "company": "Maersk",
+      "role": "Data Analyst",
+      "location": "Hopedale, MA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-04",
+      "company": "BRG",
+      "role": "Data Analyst",
       "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-06-09",
-      "company": "Expedia",
-      "role": "Data Analyst II - Agentic Experiences",
-      "location": "Seattle",
+      "date_found": "2026-07-04",
+      "company": "Integra FEC",
+      "role": "Data Analyst / Associate Data Scientist",
+      "location": "Austin, TX",
       "status": "applied"
     },
     {
-      "date_found": "2026-06-09",
-      "company": "USC",
-      "role": "Associate Data Scientist",
-      "location": "Los Angeles",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-09",
-      "company": "Konrad",
-      "role": "Data Analyst",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-06-08",
-      "company": "Lightcast",
-      "role": "Data Analyst - Taxonomy and Classification - 1030",
+      "date_found": "2026-07-04",
+      "company": "Higher Logic",
+      "role": "Associate Data Solutions Engineer",
       "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-06-07",
-      "company": "JPMorganChase",
-      "role": "Associate \u2013 Product Analyst, Machine Learning & Intelligent Operations",
-      "location": "Columbus, OH",
+      "date_found": "2026-07-04",
+      "company": "AlphaLife Sciences",
+      "role": "AI Software Engineer",
+      "location": "Iselin, NJ",
       "status": "applied"
     },
     {
-      "date_found": "2026-06-07",
-      "company": "Crumbl",
-      "role": "Data Analyst",
-      "location": "Provo, UT",
+      "date_found": "2026-07-04",
+      "company": "Tauck",
+      "role": "Associate Applied AI Engineer",
+      "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-06-07",
-      "company": "Sapiom",
-      "role": "Data Analyst",
-      "location": "San Francisco",
-      "status": "rejected"
-    },
-    {
-      "date_found": "2026-06-07",
-      "company": "Citizens",
-      "role": "Data Analyst",
-      "location": "Coralville, IA",
+      "date_found": "2026-07-04",
+      "company": "Fortinet",
+      "role": "Junior Applied AI Engineer- HRIS",
+      "location": "Sunnyvale, CA",
       "status": "applied"
     },
     {
-      "date_found": "2026-06-06",
-      "company": "Profound",
-      "role": "AI Strategist, Data",
-      "location": "New York",
+      "date_found": "2026-07-04",
+      "company": "Clarium",
+      "role": "AI Engineer - Data Intelligence",
+      "location": "Remote",
       "status": "applied"
     }
   ]
