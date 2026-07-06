@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-04T19:08:32-07:00",
+  "refreshed_at": "2026-07-05T22:52:49-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 572,
-    "active_roles": 288,
+    "tracked_roles": 584,
+    "active_roles": 299,
     "response_rate_pct": 1.1,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.3
+    "avg_evaluated_score": 3.33
   },
   "status_counts": {
     "interview": 4,
-    "applied": 281,
-    "rejected": 73,
+    "applied": 292,
+    "rejected": 74,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
     "skip": 55,
@@ -75,72 +75,72 @@
   "recent_roles": [
     {
       "date_found": "2026-07-05",
-      "company": "Caterpillar",
-      "role": "Business Intelligence Analyst (TIS Innovation)",
-      "location": "",
+      "company": "Turquoise",
+      "role": "Data Science Engineer, Analytics",
+      "location": "Remote",
       "status": "applied"
     },
     {
       "date_found": "2026-07-05",
-      "company": "When We All Vote (Civic Nation)",
-      "role": "Experimentation Data Analyst, Party At The Polls",
-      "location": "\u65e0\u515a\u6d3e\u6295\u7968\u53c2\u4e0e\u5021\u5bfc\u7ec4\u7ec7; 1yr temp\u5c97(\u81f32027-07-30); \u5e74\u9650\u8981\u6c42\u53ef\u7528coursework\u66ff\u4ee3; Causal(\u6253\u5934)\u2192\u672c\u79d1GIS\u8bba\u6587(\u9996\u6b21\u7528\u4e8e\u5730\u7406\u6570\u636e\u5206\u6790\u8981\u6c42,regla12)\u2192Olist\u89d2\u5ea6; B1+B3; CSS\u5b66\u4f4ddomain\u5929\u7136\u5bf9\u53e3; \u65e0visa\u6761\u6b3e; CL\u62ac\u5934Ruair\u00ed \u00d3 Cear\u00fail; Remote; $65-72K; \u5b9a\u5236\u7b80\u5386+CL",
+      "company": "CooperVision",
+      "role": "Data Analyst 1",
+      "location": "Henrietta, NY",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-04",
-      "company": "Maersk",
-      "role": "Data Analyst",
-      "location": "Hopedale, MA",
+      "date_found": "2026-07-05",
+      "company": "StepStone Group",
+      "role": "Junior Analyst - Data & Technology Solutions",
+      "location": "La Jolla",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-04",
-      "company": "BRG",
-      "role": "Data Analyst",
-      "location": "Remote",
+      "date_found": "2026-07-05",
+      "company": "BD",
+      "role": "Commercial Analytics Engineer Business Decision Intelligence",
+      "location": "San Diego",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-04",
-      "company": "Integra FEC",
-      "role": "Data Analyst / Associate Data Scientist",
-      "location": "Austin, TX",
+      "date_found": "2026-07-05",
+      "company": "The Home Depot",
+      "role": "Associate Data Scientist",
+      "location": "Atlanta, GA",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-04",
-      "company": "Higher Logic",
-      "role": "Associate Data Solutions Engineer",
-      "location": "Remote",
+      "date_found": "2026-07-05",
+      "company": "Internet Brands",
+      "role": "Associate AI Software Engineer",
+      "location": "Newark, NJ",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-04",
-      "company": "AlphaLife Sciences",
-      "role": "AI Software Engineer",
-      "location": "Iselin, NJ",
+      "date_found": "2026-07-05",
+      "company": "OneStream Software",
+      "role": "Associate AI Engineer",
+      "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-04",
-      "company": "Tauck",
-      "role": "Associate Applied AI Engineer",
-      "location": "Remote",
+      "date_found": "2026-07-05",
+      "company": "SCP Health",
+      "role": "Business Data Analyst I",
+      "location": "Dallas, TX",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-04",
-      "company": "Fortinet",
-      "role": "Junior Applied AI Engineer- HRIS",
-      "location": "Sunnyvale, CA",
+      "date_found": "2026-07-05",
+      "company": "UNOS",
+      "role": "Associate Biostatistician / Associate Data Scientist",
+      "location": "Richmond, VA",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-04",
-      "company": "Clarium",
-      "role": "AI Engineer - Data Intelligence",
-      "location": "Remote",
+      "date_found": "2026-07-05",
+      "company": "Berkley Oil & Gas",
+      "role": "Junior Data Scientist",
+      "location": "Houston, TX",
       "status": "applied"
     }
   ]

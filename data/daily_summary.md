@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-04T19:08:32-07:00_
+_Last refreshed: 2026-07-05T22:52:49-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-07-04T19:08:32-07:00_
 
 ## Snapshot
 
-- Tracked roles: 572
-- Active roles: 288
+- Tracked roles: 584
+- Active roles: 299
 - Response rate: 1.1%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.3
+- Average evaluated score: 3.33
 
 ## Status Breakdown
 
-- applied: 281
+- applied: 292
 - applied ✅: 1
 - discarded: 3
 - evaluated: 3
 - interview: 4
 - oa完成: 1
-- rejected: 73
+- rejected: 74
 - skip: 55
 
 ## Recent Activity
 
-- 2026-07-05: Caterpillar | Business Intelligence Analyst (TIS Innovation) | applied
-- 2026-07-05: When We All Vote (Civic Nation) | Experimentation Data Analyst, Party At The Polls | applied
-- 2026-07-04: Maersk | Data Analyst | applied
-- 2026-07-04: BRG | Data Analyst | applied
-- 2026-07-04: Integra FEC | Data Analyst / Associate Data Scientist | applied
-- 2026-07-04: Higher Logic | Associate Data Solutions Engineer | applied
-- 2026-07-04: AlphaLife Sciences | AI Software Engineer | applied
-- 2026-07-04: Tauck | Associate Applied AI Engineer | applied
-- 2026-07-04: Fortinet | Junior Applied AI Engineer- HRIS | applied
-- 2026-07-04: Clarium | AI Engineer - Data Intelligence | applied
+- 2026-07-05: Turquoise | Data Science Engineer, Analytics | applied
+- 2026-07-05: CooperVision | Data Analyst 1 | applied
+- 2026-07-05: StepStone Group | Junior Analyst - Data & Technology Solutions | applied
+- 2026-07-05: BD | Commercial Analytics Engineer Business Decision Intelligence | applied
+- 2026-07-05: The Home Depot | Associate Data Scientist | applied
+- 2026-07-05: Internet Brands | Associate AI Software Engineer | applied
+- 2026-07-05: OneStream Software | Associate AI Engineer | applied
+- 2026-07-05: SCP Health | Business Data Analyst I | applied
+- 2026-07-05: UNOS | Associate Biostatistician / Associate Data Scientist | applied
+- 2026-07-05: Berkley Oil & Gas | Junior Data Scientist | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-07-04T19:08:32-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 114 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 114 days with no response
-- Google | Software Engineer II, Early Career | 110 days with no response
-- Apple | AIML - Machine Learning Research | 103 days with no response
-- Amazon | Data Engineer II | 101 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 101 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 101 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 101 days with no response
-- Esri | Product Test Engineer II - Feature Server | 101 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 101 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 115 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 115 days with no response
+- Google | Software Engineer II, Early Career | 111 days with no response
+- Apple | AIML - Machine Learning Research | 104 days with no response
+- Amazon | Data Engineer II | 102 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 102 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 102 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 102 days with no response
+- Esri | Product Test Engineer II - Feature Server | 102 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 102 days with no response
