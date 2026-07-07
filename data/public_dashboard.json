@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-05T22:52:49-07:00",
+  "refreshed_at": "2026-07-06T23:44:03-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,22 +12,22 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 584,
-    "active_roles": 299,
+    "tracked_roles": 597,
+    "active_roles": 311,
     "response_rate_pct": 1.1,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.33
+    "avg_evaluated_score": 3.34
   },
   "status_counts": {
     "interview": 4,
-    "applied": 292,
+    "applied": 302,
     "rejected": 74,
     "oa\u5b8c\u6210": 1,
     "discarded": 3,
-    "skip": 55,
-    "evaluated": 3,
+    "skip": 56,
+    "evaluated": 5,
     "applied \u2705": 1
   },
   "top_companies": [
@@ -48,12 +48,12 @@
       "count": 14
     },
     {
-      "company": "Reddit",
+      "company": "Chime",
       "count": 13
     },
     {
-      "company": "Chime",
-      "count": 11
+      "company": "Reddit",
+      "count": 13
     },
     {
       "company": "Robinhood",
@@ -74,73 +74,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-07-05",
-      "company": "Turquoise",
-      "role": "Data Science Engineer, Analytics",
-      "location": "Remote",
+      "date_found": "2026-07-06",
+      "company": "Centennial Technologies",
+      "role": "AI Engineer \u2013 Entry Level",
+      "location": "Tysons Corner, VA",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-05",
-      "company": "CooperVision",
-      "role": "Data Analyst 1",
-      "location": "Henrietta, NY",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-05",
-      "company": "StepStone Group",
-      "role": "Junior Analyst - Data & Technology Solutions",
-      "location": "La Jolla",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-05",
-      "company": "BD",
-      "role": "Commercial Analytics Engineer Business Decision Intelligence",
-      "location": "San Diego",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-05",
-      "company": "The Home Depot",
-      "role": "Associate Data Scientist",
-      "location": "Atlanta, GA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-05",
-      "company": "Internet Brands",
-      "role": "Associate AI Software Engineer",
-      "location": "Newark, NJ",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-05",
-      "company": "OneStream Software",
-      "role": "Associate AI Engineer",
+      "date_found": "2026-07-06",
+      "company": "Columbia University",
+      "role": "Associate Data Analyst",
       "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-05",
-      "company": "SCP Health",
-      "role": "Business Data Analyst I",
-      "location": "Dallas, TX",
+      "date_found": "2026-07-06",
+      "company": "D3V Technology Solutions",
+      "role": "Associate AI/ML Engineer",
+      "location": "Plano, TX",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-05",
-      "company": "UNOS",
-      "role": "Associate Biostatistician / Associate Data Scientist",
-      "location": "Richmond, VA",
+      "date_found": "2026-07-06",
+      "company": "Illumin",
+      "role": "AI Engineer",
+      "location": "San Diego",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-05",
-      "company": "Berkley Oil & Gas",
-      "role": "Junior Data Scientist",
-      "location": "Houston, TX",
+      "date_found": "2026-07-06",
+      "company": "Burford Capital",
+      "role": "AI Engineer",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-06",
+      "company": "TRISTAR Insurance Group",
+      "role": "Data Analyst I",
+      "location": "Signal Hill, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-06",
+      "company": "Chime",
+      "role": "AI/ML Engineer",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-06",
+      "company": "Blue River Technology (John Deere)",
+      "role": "CVML Engineer, See & Spray",
+      "location": "\u7eafComputer Vision\u5c97(CNN/Transformer vision models\u505a\u9664\u8349\u8bc6\u522b)\uff1bXiao\u65e0\u4efb\u4f55CV\u9879\u76ee\u7ecf\u9a8c(\u73b0\u6709portfolio\u5168\u662fNLP/tabular)\uff1b\u5b50\u9886\u57df\u6280\u672fgap\u800c\u975e\u5de5\u5177\u5dee\u5f02\uff1b\u867d\u7136open to visa sponsorship+remote+entry\u53cb\u597d\uff0cXiao\u4e3b\u52a8\u9009\u62e9\u4e0d\u6295",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-07-06",
+      "company": "Chime",
+      "role": "AI/ML Engineer (Trust & Safety)",
+      "location": "\u5b9a\u5236\u7b80\u5386+CL\uff1bJD\u76f4\u63a5\u70b9\u540dClaude Code(\u89c4\u5f8b15)\uff1bAWS+ML fundamentals+embeddings/sequence models\u5168\u5339\u914d\uff1bSubliminal\u2192JMI\u2192Math3B\uff1bB1+B2\uff1bSan Francisco 4\u5929\u5230\u5c97+\u5468\u4e94remote\uff1b$125-173K\uff1b\u65e0\u7b7e\u8bc1\u6761\u6b3e",
+      "status": "evaluated"
+    },
+    {
+      "date_found": "2026-07-06",
+      "company": "Workers Comp Insurance (Signal Hill CA, via Paycom)",
+      "role": "Data Analyst I",
+      "location": "\u516c\u53f8\u540d\u672a\u5728Paycom\u9875\u9762\u663e\u793a,Signal Hill CA\u5de5\u4f24\u8d54\u507f\u4fdd\u9669domain\u5df2\u6838\u5b9e\u4e3a\u771f\u5b9e\u6d3b\u8dc3\u5c97\u4f4d; Churn(\u98ce\u9669\u5206\u7fa4\u76f4\u63a5\u7c7b\u6bd4claims triage/fraud detection)\u2192Olist(SQL/dashboard)\u2192JMI(\u6570\u636e\u6e05\u6d17\u5408\u5e76/data integrity)\u89d2\u5ea6; B1+B3; CL\u8bda\u5b9e\u627f\u8ba4\u65e0workers comp/\u4fdd\u9669\u884c\u4e1a\u7ecf\u9a8c; Fully Remote(Signal Hill\u529e\u516c\u5ba4); $114-140K(entry\u7ea7\u522b\u504f\u9ad8); \u5b9a\u5236\u7b80\u5386+CL",
       "status": "applied"
     }
   ]

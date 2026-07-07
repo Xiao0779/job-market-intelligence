@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-05T22:52:49-07:00_
+_Last refreshed: 2026-07-06T23:44:03-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-07-05T22:52:49-07:00_
 
 ## Snapshot
 
-- Tracked roles: 584
-- Active roles: 299
+- Tracked roles: 597
+- Active roles: 311
 - Response rate: 1.1%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.33
+- Average evaluated score: 3.34
 
 ## Status Breakdown
 
-- applied: 292
+- applied: 302
 - applied ✅: 1
 - discarded: 3
-- evaluated: 3
+- evaluated: 5
 - interview: 4
 - oa完成: 1
 - rejected: 74
-- skip: 55
+- skip: 56
 
 ## Recent Activity
 
-- 2026-07-05: Turquoise | Data Science Engineer, Analytics | applied
-- 2026-07-05: CooperVision | Data Analyst 1 | applied
-- 2026-07-05: StepStone Group | Junior Analyst - Data & Technology Solutions | applied
-- 2026-07-05: BD | Commercial Analytics Engineer Business Decision Intelligence | applied
-- 2026-07-05: The Home Depot | Associate Data Scientist | applied
-- 2026-07-05: Internet Brands | Associate AI Software Engineer | applied
-- 2026-07-05: OneStream Software | Associate AI Engineer | applied
-- 2026-07-05: SCP Health | Business Data Analyst I | applied
-- 2026-07-05: UNOS | Associate Biostatistician / Associate Data Scientist | applied
-- 2026-07-05: Berkley Oil & Gas | Junior Data Scientist | applied
+- 2026-07-06: Centennial Technologies | AI Engineer – Entry Level | applied
+- 2026-07-06: Columbia University | Associate Data Analyst | applied
+- 2026-07-06: D3V Technology Solutions | Associate AI/ML Engineer | applied
+- 2026-07-06: Illumin | AI Engineer | applied
+- 2026-07-06: Burford Capital | AI Engineer | applied
+- 2026-07-06: TRISTAR Insurance Group | Data Analyst I | applied
+- 2026-07-06: Chime | AI/ML Engineer | applied
+- 2026-07-06: Blue River Technology (John Deere) | CVML Engineer, See & Spray | skip
+- 2026-07-06: Chime | AI/ML Engineer (Trust & Safety) | evaluated
+- 2026-07-06: Workers Comp Insurance (Signal Hill CA, via Paycom) | Data Analyst I | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-07-05T22:52:49-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 115 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 115 days with no response
-- Google | Software Engineer II, Early Career | 111 days with no response
-- Apple | AIML - Machine Learning Research | 104 days with no response
-- Amazon | Data Engineer II | 102 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 102 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 102 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 102 days with no response
-- Esri | Product Test Engineer II - Feature Server | 102 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 102 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 116 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 116 days with no response
+- Google | Software Engineer II, Early Career | 112 days with no response
+- Apple | AIML - Machine Learning Research | 105 days with no response
+- Amazon | Data Engineer II | 103 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 103 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 103 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 103 days with no response
+- Esri | Product Test Engineer II - Feature Server | 103 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 103 days with no response
