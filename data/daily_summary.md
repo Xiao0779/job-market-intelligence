@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-06T23:44:03-07:00_
+_Last refreshed: 2026-07-07T23:28:05-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-07-06T23:44:03-07:00_
 
 ## Snapshot
 
-- Tracked roles: 597
-- Active roles: 311
-- Response rate: 1.1%
+- Tracked roles: 616
+- Active roles: 326
+- Response rate: 1.0%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.34
+- Average evaluated score: 3.33
 
 ## Status Breakdown
 
-- applied: 302
+- applied: 312
 - applied ✅: 1
-- discarded: 3
-- evaluated: 5
+- discarded: 4
+- evaluated: 10
 - interview: 4
 - oa完成: 1
 - rejected: 74
-- skip: 56
+- skip: 59
 
 ## Recent Activity
 
-- 2026-07-06: Centennial Technologies | AI Engineer – Entry Level | applied
-- 2026-07-06: Columbia University | Associate Data Analyst | applied
-- 2026-07-06: D3V Technology Solutions | Associate AI/ML Engineer | applied
-- 2026-07-06: Illumin | AI Engineer | applied
-- 2026-07-06: Burford Capital | AI Engineer | applied
-- 2026-07-06: TRISTAR Insurance Group | Data Analyst I | applied
-- 2026-07-06: Chime | AI/ML Engineer | applied
-- 2026-07-06: Blue River Technology (John Deere) | CVML Engineer, See & Spray | skip
-- 2026-07-06: Chime | AI/ML Engineer (Trust & Safety) | evaluated
-- 2026-07-06: Workers Comp Insurance (Signal Hill CA, via Paycom) | Data Analyst I | applied
+- 2026-07-07: University of Pittsburgh | Data Analyst I | applied
+- 2026-07-07: Paramount | Associate Data Scientist | applied
+- 2026-07-07: Upgrade | Junior Business & Data Analyst | applied
+- 2026-07-07: Recidiviz | Data Analyst | evaluated
+- 2026-07-07: Daikin | Data Scientist 1 | applied
+- 2026-07-07: Cox | Business Intelligence Analyst I | applied
+- 2026-07-07: UL Solutions | Associate Business Data Analyst | applied
+- 2026-07-07: GLS | Business Analyst | applied
+- 2026-07-07: GLS (Global Lending Services) | Business Analyst | applied
+- 2026-07-07: TREND Health Partners | BI Engineer I | skip
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-07-06T23:44:03-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 116 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 116 days with no response
-- Google | Software Engineer II, Early Career | 112 days with no response
-- Apple | AIML - Machine Learning Research | 105 days with no response
-- Amazon | Data Engineer II | 103 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 103 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 103 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 103 days with no response
-- Esri | Product Test Engineer II - Feature Server | 103 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 103 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 117 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 117 days with no response
+- Google | Software Engineer II, Early Career | 113 days with no response
+- Apple | AIML - Machine Learning Research | 106 days with no response
+- Amazon | Data Engineer II | 104 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 104 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 104 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 104 days with no response
+- Esri | Product Test Engineer II - Feature Server | 104 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 104 days with no response
