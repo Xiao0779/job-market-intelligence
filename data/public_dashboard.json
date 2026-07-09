@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-07T23:28:05-07:00",
+  "refreshed_at": "2026-07-08T23:35:16-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 616,
-    "active_roles": 326,
+    "tracked_roles": 626,
+    "active_roles": 329,
     "response_rate_pct": 1.0,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,11 +22,11 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 312,
-    "rejected": 74,
+    "applied": 315,
+    "rejected": 78,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
-    "skip": 59,
+    "skip": 62,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,73 +74,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-07-07",
-      "company": "University of Pittsburgh",
-      "role": "Data Analyst I",
-      "location": "Pittsburgh, PA",
+      "date_found": "2026-07-08",
+      "company": "AcuityMD",
+      "role": "Data Analyst, Software Engineering Track",
+      "location": "Boston",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-07",
-      "company": "Paramount",
-      "role": "Associate Data Scientist",
-      "location": "Burbank, CA",
+      "date_found": "2026-07-08",
+      "company": "Lamons",
+      "role": "Business Intelligence Analyst",
+      "location": "Houston, TX",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-07",
-      "company": "Upgrade",
-      "role": "Junior Business & Data Analyst",
+      "date_found": "2026-07-08",
+      "company": "Kiss Beauty Group",
+      "role": "Junior Business Analyst",
+      "location": "Port Washington, NY",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-08",
+      "company": "Formica",
+      "role": "Business Intelligence Analyst",
+      "location": "Cincinnati, OH",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-08",
+      "company": "Digiinfotek",
+      "role": "Junior Business Analyst",
       "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-07",
-      "company": "Recidiviz",
-      "role": "Data Analyst",
-      "location": "Oakland, CA",
-      "status": "evaluated"
-    },
-    {
-      "date_found": "2026-07-07",
-      "company": "Daikin",
-      "role": "Data Scientist 1",
-      "location": "WALLER, TX",
+      "date_found": "2026-07-08",
+      "company": "Keller Postman",
+      "role": "Strategic Operations Business Analyst",
+      "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-07",
-      "company": "Cox",
-      "role": "Business Intelligence Analyst I",
-      "location": "Hapeville, GA",
+      "date_found": "2026-07-08",
+      "company": "Kiss Beauty Group (KDC/Ivy Enterprises)",
+      "role": "Junior Business Analyst",
+      "location": "\u5b9a\u5236\u7b80\u5386(\u65e0CL)\uff1bChurn\u2192JMI\u2192Olist\u89d2\u5ea6\uff1bPort Washington NY HQ\uff1b**\u7f55\u89c1\u4eae\u70b9\uff1aJD\u660e\u786e\u5199100%\u4ed8\u8d39H-1B/O-1/Green Card sponsorship**\uff1bPreferred\u70b9\u540dChatGPT/Claude API\u89e6\u53d1\u89c4\u5f8b15,\u5199Claude Code\uff1bPython/SQL/Power BI\u6280\u80fd\u5f3a\u5339\u914d\uff1bSales/CRM(Odoo/Salesforce) domain\u96f6\u7ecf\u9a8c\uff1b\u7ed3\u6784\u5316\u6807\u7b7e\"Experience Range II 2-4\u5e74\"\u4e0e\u6b63\u6587\"0-2\u5e74\"\u4e0d\u4e00\u81f4\uff0c\u4ee5\u6b63\u6587\u4e3a\u51c6\uff1b\u6807\u7b7e\u91cc\"Korean\"\u7591\u4f3cATS\u6a21\u677f\u9057\u7559\u975e\u771f\u5b9e\u8981\u6c42\uff1b\u85aa\u8d44\u6807\u7b7e\"$12-50/hour\"\u660e\u663e\u662f\u516c\u53f8\u901a\u7528\u6a21\u677f\u4e0d\u53ef\u4fe1(comp\u9898\u6309NY entry-level\u7b54$55-68K)",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-07",
-      "company": "UL Solutions",
-      "role": "Associate Business Data Analyst",
-      "location": "Raleigh, NC",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-07",
-      "company": "GLS",
-      "role": "Business Analyst",
-      "location": "Greenville, South Carolina",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-07",
-      "company": "GLS (Global Lending Services)",
+      "date_found": "2026-07-08",
+      "company": "Hexaware Technologies",
       "role": "Business Analyst",
       "location": "",
-      "status": "applied"
+      "status": "skip"
     },
     {
-      "date_found": "2026-07-07",
-      "company": "TREND Health Partners",
-      "role": "BI Engineer I",
-      "location": "\u6807\u9898\u6302BI Engineer\u4f46\u5b9e\u8d28\u662f\u4e1a\u52a1\u7cfb\u7edf\u8fd0\u7ef4/\u8d26\u53f7\u7ba1\u7406(SFTP\u8d26\u53f7/job\u8c03\u5ea6/QA IT\u62a5\u8868)\uff0c\u975e\u6570\u636e\u5206\u6790\u5c97\uff1bSQL/\u6570\u636e\u5e93\u4ec5preferred\uff1bhealthcare payment integrity/provider denials domain\u96f6\u7ecf\u9a8c\uff1bRemote\uff1b$80-100K\uff1b\u672a\u5b9a\u5236\u7b80\u5386",
+      "date_found": "2026-07-08",
+      "company": "Matricstek Inc.",
+      "role": "Entry Level Data Analyst",
+      "location": "",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-07-08",
+      "company": "SDG Group",
+      "role": "Data Analyst",
+      "location": "",
       "status": "skip"
     }
   ]

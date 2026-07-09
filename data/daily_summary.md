@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-07T23:28:05-07:00_
+_Last refreshed: 2026-07-08T23:35:16-07:00_
 
 ## Positioning
 
@@ -10,8 +10,8 @@ _Last refreshed: 2026-07-07T23:28:05-07:00_
 
 ## Snapshot
 
-- Tracked roles: 616
-- Active roles: 326
+- Tracked roles: 626
+- Active roles: 329
 - Response rate: 1.0%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
@@ -20,27 +20,27 @@ _Last refreshed: 2026-07-07T23:28:05-07:00_
 
 ## Status Breakdown
 
-- applied: 312
+- applied: 315
 - applied ✅: 1
 - discarded: 4
 - evaluated: 10
 - interview: 4
 - oa完成: 1
-- rejected: 74
-- skip: 59
+- rejected: 78
+- skip: 62
 
 ## Recent Activity
 
-- 2026-07-07: University of Pittsburgh | Data Analyst I | applied
-- 2026-07-07: Paramount | Associate Data Scientist | applied
-- 2026-07-07: Upgrade | Junior Business & Data Analyst | applied
-- 2026-07-07: Recidiviz | Data Analyst | evaluated
-- 2026-07-07: Daikin | Data Scientist 1 | applied
-- 2026-07-07: Cox | Business Intelligence Analyst I | applied
-- 2026-07-07: UL Solutions | Associate Business Data Analyst | applied
-- 2026-07-07: GLS | Business Analyst | applied
-- 2026-07-07: GLS (Global Lending Services) | Business Analyst | applied
-- 2026-07-07: TREND Health Partners | BI Engineer I | skip
+- 2026-07-08: AcuityMD | Data Analyst, Software Engineering Track | applied
+- 2026-07-08: Lamons | Business Intelligence Analyst | applied
+- 2026-07-08: Kiss Beauty Group | Junior Business Analyst | applied
+- 2026-07-08: Formica | Business Intelligence Analyst | applied
+- 2026-07-08: Digiinfotek | Junior Business Analyst | applied
+- 2026-07-08: Keller Postman | Strategic Operations Business Analyst | applied
+- 2026-07-08: Kiss Beauty Group (KDC/Ivy Enterprises) | Junior Business Analyst | applied
+- 2026-07-08: Hexaware Technologies | Business Analyst | skip
+- 2026-07-08: Matricstek Inc. | Entry Level Data Analyst | skip
+- 2026-07-08: SDG Group | Data Analyst | skip
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-07-07T23:28:05-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 117 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 117 days with no response
-- Google | Software Engineer II, Early Career | 113 days with no response
-- Apple | AIML - Machine Learning Research | 106 days with no response
-- Amazon | Data Engineer II | 104 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 104 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 104 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 104 days with no response
-- Esri | Product Test Engineer II - Feature Server | 104 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 104 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 118 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 118 days with no response
+- Google | Software Engineer II, Early Career | 114 days with no response
+- Apple | AIML - Machine Learning Research | 107 days with no response
+- Amazon | Data Engineer II | 105 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 105 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 105 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 105 days with no response
+- Esri | Product Test Engineer II - Feature Server | 105 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 105 days with no response
