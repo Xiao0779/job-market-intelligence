@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-08T23:35:16-07:00",
+  "refreshed_at": "2026-07-09T23:46:27-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 626,
-    "active_roles": 329,
+    "tracked_roles": 631,
+    "active_roles": 333,
     "response_rate_pct": 1.0,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,8 +22,8 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 315,
-    "rejected": 78,
+    "applied": 319,
+    "rejected": 79,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
     "skip": 62,
@@ -74,6 +74,41 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-09",
+      "company": "Further",
+      "role": "Graduate Leadership Program | Data Analyst",
+      "location": "Cleveland, Ohio",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-09",
+      "company": "Celonis",
+      "role": "Associate Technology Consultant - Galaxy Graduate Program",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-09",
+      "company": "Monticello",
+      "role": "Business Analyst",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-09",
+      "company": "CarMax",
+      "role": "Strategy Analyst",
+      "location": "Richmond, VA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-09",
+      "company": "Judi Health",
+      "role": "Business Analyst",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-08",
       "company": "AcuityMD",
       "role": "Data Analyst, Software Engineering Track",
@@ -107,41 +142,6 @@
       "role": "Junior Business Analyst",
       "location": "Remote",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-07-08",
-      "company": "Keller Postman",
-      "role": "Strategic Operations Business Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-08",
-      "company": "Kiss Beauty Group (KDC/Ivy Enterprises)",
-      "role": "Junior Business Analyst",
-      "location": "\u5b9a\u5236\u7b80\u5386(\u65e0CL)\uff1bChurn\u2192JMI\u2192Olist\u89d2\u5ea6\uff1bPort Washington NY HQ\uff1b**\u7f55\u89c1\u4eae\u70b9\uff1aJD\u660e\u786e\u5199100%\u4ed8\u8d39H-1B/O-1/Green Card sponsorship**\uff1bPreferred\u70b9\u540dChatGPT/Claude API\u89e6\u53d1\u89c4\u5f8b15,\u5199Claude Code\uff1bPython/SQL/Power BI\u6280\u80fd\u5f3a\u5339\u914d\uff1bSales/CRM(Odoo/Salesforce) domain\u96f6\u7ecf\u9a8c\uff1b\u7ed3\u6784\u5316\u6807\u7b7e\"Experience Range II 2-4\u5e74\"\u4e0e\u6b63\u6587\"0-2\u5e74\"\u4e0d\u4e00\u81f4\uff0c\u4ee5\u6b63\u6587\u4e3a\u51c6\uff1b\u6807\u7b7e\u91cc\"Korean\"\u7591\u4f3cATS\u6a21\u677f\u9057\u7559\u975e\u771f\u5b9e\u8981\u6c42\uff1b\u85aa\u8d44\u6807\u7b7e\"$12-50/hour\"\u660e\u663e\u662f\u516c\u53f8\u901a\u7528\u6a21\u677f\u4e0d\u53ef\u4fe1(comp\u9898\u6309NY entry-level\u7b54$55-68K)",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-08",
-      "company": "Hexaware Technologies",
-      "role": "Business Analyst",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-07-08",
-      "company": "Matricstek Inc.",
-      "role": "Entry Level Data Analyst",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-07-08",
-      "company": "SDG Group",
-      "role": "Data Analyst",
-      "location": "",
-      "status": "skip"
     }
   ]
 }
