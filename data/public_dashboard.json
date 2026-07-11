@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-09T23:46:27-07:00",
+  "refreshed_at": "2026-07-10T23:39:57-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 631,
-    "active_roles": 333,
+    "tracked_roles": 638,
+    "active_roles": 338,
     "response_rate_pct": 1.0,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,8 +22,8 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 319,
-    "rejected": 79,
+    "applied": 324,
+    "rejected": 81,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
     "skip": 62,
@@ -74,6 +74,55 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-10",
+      "company": "Boston Red Sox",
+      "role": "Data Scientist, Baseball Analytics",
+      "location": "Boston, MA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-10",
+      "company": "CCT",
+      "role": "Data Scientist",
+      "location": "Tulsa",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-10",
+      "company": "Bluesight",
+      "role": "Data Scientist",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-10",
+      "company": "Topsort",
+      "role": "Product Associate",
+      "location": "Somerville, MA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-10",
+      "company": "SupplyHouse",
+      "role": "Pricing Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-10",
+      "company": "PURE Insurance",
+      "role": "State Management Product Analyst",
+      "location": "Chicago",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-10",
+      "company": "Google",
+      "role": "Strategy and Operations Associate, Planning and Intelligence",
+      "location": "Sunnyvale, CA",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-09",
       "company": "Further",
       "role": "Graduate Leadership Program | Data Analyst",
@@ -92,55 +141,6 @@
       "company": "Monticello",
       "role": "Business Analyst",
       "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-09",
-      "company": "CarMax",
-      "role": "Strategy Analyst",
-      "location": "Richmond, VA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-09",
-      "company": "Judi Health",
-      "role": "Business Analyst",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-08",
-      "company": "AcuityMD",
-      "role": "Data Analyst, Software Engineering Track",
-      "location": "Boston",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-08",
-      "company": "Lamons",
-      "role": "Business Intelligence Analyst",
-      "location": "Houston, TX",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-08",
-      "company": "Kiss Beauty Group",
-      "role": "Junior Business Analyst",
-      "location": "Port Washington, NY",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-08",
-      "company": "Formica",
-      "role": "Business Intelligence Analyst",
-      "location": "Cincinnati, OH",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-08",
-      "company": "Digiinfotek",
-      "role": "Junior Business Analyst",
-      "location": "Remote",
       "status": "applied"
     }
   ]
