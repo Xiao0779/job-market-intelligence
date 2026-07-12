@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-10T23:39:57-07:00",
+  "refreshed_at": "2026-07-11T23:32:28-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 638,
-    "active_roles": 338,
+    "tracked_roles": 643,
+    "active_roles": 343,
     "response_rate_pct": 1.0,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 324,
+    "applied": 329,
     "rejected": 81,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
@@ -74,6 +74,41 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-11",
+      "company": "Molina Healthcare",
+      "role": "Analyst, Data & Analytics (Remote)",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-11",
+      "company": "USC",
+      "role": "Business Data Analyst",
+      "location": "Los Angeles",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-11",
+      "company": "MERS Goodwill",
+      "role": "Junior Data Platform Administrator",
+      "location": "Kansas City, MO",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-11",
+      "company": "Caterpillar",
+      "role": "Data Science/Analyst",
+      "location": "Chicago",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-11",
+      "company": "IMA",
+      "role": "Business Intelligence Developer",
+      "location": "Wichita, KS",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-10",
       "company": "Boston Red Sox",
       "role": "Data Scientist, Baseball Analytics",
@@ -106,41 +141,6 @@
       "company": "SupplyHouse",
       "role": "Pricing Analyst",
       "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-10",
-      "company": "PURE Insurance",
-      "role": "State Management Product Analyst",
-      "location": "Chicago",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-10",
-      "company": "Google",
-      "role": "Strategy and Operations Associate, Planning and Intelligence",
-      "location": "Sunnyvale, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-09",
-      "company": "Further",
-      "role": "Graduate Leadership Program | Data Analyst",
-      "location": "Cleveland, Ohio",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-09",
-      "company": "Celonis",
-      "role": "Associate Technology Consultant - Galaxy Graduate Program",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-09",
-      "company": "Monticello",
-      "role": "Business Analyst",
-      "location": "New York",
       "status": "applied"
     }
   ]
