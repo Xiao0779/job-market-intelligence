@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-11T23:32:28-07:00",
+  "refreshed_at": "2026-07-13T21:32:55-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 643,
-    "active_roles": 343,
+    "tracked_roles": 650,
+    "active_roles": 350,
     "response_rate_pct": 1.0,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 329,
+    "applied": 336,
     "rejected": 81,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
@@ -64,15 +64,64 @@
       "count": 11
     },
     {
-      "company": "Ramp",
+      "company": "Brex",
       "count": 7
     },
     {
-      "company": "Cohere",
+      "company": "Ramp",
       "count": 7
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-07-13",
+      "company": "New York Life",
+      "role": "Associate - Data Scientist",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-13",
+      "company": "Datafied",
+      "role": "Junior Data Analyst",
+      "location": "Anaheim, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-13",
+      "company": "Brex",
+      "role": "Brex Rotational Program",
+      "location": "Salt Lake City",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-13",
+      "company": "Moab",
+      "role": "Data & AI Analyst",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-13",
+      "company": "Eversource Energy",
+      "role": "IT Associate Data Analyst",
+      "location": "Westwood, MA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-13",
+      "company": "FanDuel",
+      "role": "Data Scientist, Experimentation",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-12",
+      "company": "PTC",
+      "role": "Junior Data Analyst/Analytics Engineer",
+      "location": "Boston",
+      "status": "applied"
+    },
     {
       "date_found": "2026-07-11",
       "company": "Molina Healthcare",
@@ -92,55 +141,6 @@
       "company": "MERS Goodwill",
       "role": "Junior Data Platform Administrator",
       "location": "Kansas City, MO",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-11",
-      "company": "Caterpillar",
-      "role": "Data Science/Analyst",
-      "location": "Chicago",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-11",
-      "company": "IMA",
-      "role": "Business Intelligence Developer",
-      "location": "Wichita, KS",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-10",
-      "company": "Boston Red Sox",
-      "role": "Data Scientist, Baseball Analytics",
-      "location": "Boston, MA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-10",
-      "company": "CCT",
-      "role": "Data Scientist",
-      "location": "Tulsa",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-10",
-      "company": "Bluesight",
-      "role": "Data Scientist",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-10",
-      "company": "Topsort",
-      "role": "Product Associate",
-      "location": "Somerville, MA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-10",
-      "company": "SupplyHouse",
-      "role": "Pricing Analyst",
-      "location": "Remote",
       "status": "applied"
     }
   ]
