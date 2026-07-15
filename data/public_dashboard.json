@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-13T21:32:55-07:00",
+  "refreshed_at": "2026-07-15T00:01:50-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 650,
-    "active_roles": 350,
-    "response_rate_pct": 1.0,
+    "tracked_roles": 654,
+    "active_roles": 353,
+    "response_rate_pct": 1.2,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
     "avg_evaluated_score": 3.33
   },
   "status_counts": {
-    "interview": 4,
-    "applied": 336,
-    "rejected": 81,
+    "interview": 5,
+    "applied": 338,
+    "rejected": 82,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
     "skip": 62,
@@ -74,6 +74,34 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-14",
+      "company": "SewerAI",
+      "role": "Junior Analytics Engineer",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-14",
+      "company": "RT Specialty",
+      "role": "Data Analyst",
+      "location": "Richmond, VA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-14",
+      "company": "RELX",
+      "role": "Content Performance Analyst",
+      "location": "Ohio",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-14",
+      "company": "1Password",
+      "role": "Data Analyst, Product",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-13",
       "company": "New York Life",
       "role": "Associate - Data Scientist",
@@ -113,34 +141,6 @@
       "company": "FanDuel",
       "role": "Data Scientist, Experimentation",
       "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-12",
-      "company": "PTC",
-      "role": "Junior Data Analyst/Analytics Engineer",
-      "location": "Boston",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-11",
-      "company": "Molina Healthcare",
-      "role": "Analyst, Data & Analytics (Remote)",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-11",
-      "company": "USC",
-      "role": "Business Data Analyst",
-      "location": "Los Angeles",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-11",
-      "company": "MERS Goodwill",
-      "role": "Junior Data Platform Administrator",
-      "location": "Kansas City, MO",
       "status": "applied"
     }
   ]
