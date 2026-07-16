@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-15T00:01:50-07:00_
+_Last refreshed: 2026-07-15T21:50:38-07:00_
 
 ## Positioning
 
@@ -10,8 +10,8 @@ _Last refreshed: 2026-07-15T00:01:50-07:00_
 
 ## Snapshot
 
-- Tracked roles: 654
-- Active roles: 353
+- Tracked roles: 662
+- Active roles: 358
 - Response rate: 1.2%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
@@ -20,27 +20,27 @@ _Last refreshed: 2026-07-15T00:01:50-07:00_
 
 ## Status Breakdown
 
-- applied: 338
+- applied: 343
 - applied ✅: 1
 - discarded: 4
 - evaluated: 10
 - interview: 5
 - oa完成: 1
-- rejected: 82
+- rejected: 85
 - skip: 62
 
 ## Recent Activity
 
+- 2026-07-15: iCare Health | Business Data Analyst | applied
+- 2026-07-15: Net Health | Business Intelligence Analyst I | applied
+- 2026-07-15: Unum | Business Intelligence Analyst I – AI & Model Monitoring | applied
+- 2026-07-15: Ticketmaster | Pricing Data Analyst | applied
+- 2026-07-15: Kpler | Junior Data Analyst - Nat Gas/LNG | applied
+- 2026-07-15: EquipmentShare | Data Analyst - People | applied
+- 2026-07-15: AssetMark | Associate Data Engineer | applied
+- 2026-07-15: Burlington | AI Data Scientist | applied
 - 2026-07-14: SewerAI | Junior Analytics Engineer | applied
-- 2026-07-14: RT Specialty | Data Analyst | applied
-- 2026-07-14: RELX | Content Performance Analyst | applied
-- 2026-07-14: 1Password | Data Analyst, Product | applied
-- 2026-07-13: New York Life | Associate - Data Scientist | applied
-- 2026-07-13: Datafied | Junior Data Analyst | applied
-- 2026-07-13: Brex | Brex Rotational Program | applied
-- 2026-07-13: Moab | Data & AI Analyst | applied
-- 2026-07-13: Eversource Energy | IT Associate Data Analyst | applied
-- 2026-07-13: FanDuel | Data Scientist, Experimentation | applied
+- 2026-07-14: RT Specialty | Data Analyst | rejected
 
 ## Recommended Opportunity Queue
 

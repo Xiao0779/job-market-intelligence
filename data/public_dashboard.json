@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-15T00:01:50-07:00",
+  "refreshed_at": "2026-07-15T21:50:38-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 654,
-    "active_roles": 353,
+    "tracked_roles": 662,
+    "active_roles": 358,
     "response_rate_pct": 1.2,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,8 +22,8 @@
   },
   "status_counts": {
     "interview": 5,
-    "applied": 338,
-    "rejected": 82,
+    "applied": 343,
+    "rejected": 85,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
     "skip": 62,
@@ -74,6 +74,62 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-15",
+      "company": "iCare Health",
+      "role": "Business Data Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-15",
+      "company": "Net Health",
+      "role": "Business Intelligence Analyst I",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-15",
+      "company": "Unum",
+      "role": "Business Intelligence Analyst I \u2013 AI & Model Monitoring",
+      "location": "Atlanta",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-15",
+      "company": "Ticketmaster",
+      "role": "Pricing Data Analyst",
+      "location": "Los Angeles",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-15",
+      "company": "Kpler",
+      "role": "Junior Data Analyst - Nat Gas/LNG",
+      "location": "Houston",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-15",
+      "company": "EquipmentShare",
+      "role": "Data Analyst - People",
+      "location": "Kansas City, MO",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-15",
+      "company": "AssetMark",
+      "role": "Associate Data Engineer",
+      "location": "Charlotte, NC",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-15",
+      "company": "Burlington",
+      "role": "AI Data Scientist",
+      "location": "Edgewater Park, NJ",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-14",
       "company": "SewerAI",
       "role": "Junior Analytics Engineer",
@@ -85,63 +141,7 @@
       "company": "RT Specialty",
       "role": "Data Analyst",
       "location": "Richmond, VA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-14",
-      "company": "RELX",
-      "role": "Content Performance Analyst",
-      "location": "Ohio",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-14",
-      "company": "1Password",
-      "role": "Data Analyst, Product",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-13",
-      "company": "New York Life",
-      "role": "Associate - Data Scientist",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-13",
-      "company": "Datafied",
-      "role": "Junior Data Analyst",
-      "location": "Anaheim, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-13",
-      "company": "Brex",
-      "role": "Brex Rotational Program",
-      "location": "Salt Lake City",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-13",
-      "company": "Moab",
-      "role": "Data & AI Analyst",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-13",
-      "company": "Eversource Energy",
-      "role": "IT Associate Data Analyst",
-      "location": "Westwood, MA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-13",
-      "company": "FanDuel",
-      "role": "Data Scientist, Experimentation",
-      "location": "New York",
-      "status": "applied"
+      "status": "rejected"
     }
   ]
 }
