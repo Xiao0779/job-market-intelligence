@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-15T21:50:38-07:00_
+_Last refreshed: 2026-07-16T22:20:55-07:00_
 
 ## Positioning
 
@@ -10,9 +10,9 @@ _Last refreshed: 2026-07-15T21:50:38-07:00_
 
 ## Snapshot
 
-- Tracked roles: 662
-- Active roles: 358
-- Response rate: 1.2%
+- Tracked roles: 668
+- Active roles: 363
+- Response rate: 1.1%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
@@ -20,27 +20,27 @@ _Last refreshed: 2026-07-15T21:50:38-07:00_
 
 ## Status Breakdown
 
-- applied: 343
+- applied: 348
 - applied ✅: 1
 - discarded: 4
 - evaluated: 10
 - interview: 5
 - oa完成: 1
-- rejected: 85
+- rejected: 86
 - skip: 62
 
 ## Recent Activity
 
-- 2026-07-15: iCare Health | Business Data Analyst | applied
+- 2026-07-16: COUNTRY | Product Analyst | applied
+- 2026-07-16: Pattern Data | Data Solutions Analyst | applied
+- 2026-07-16: Chamber Cardio | Data Analyst | applied
+- 2026-07-16: Amplify | Associate Data Scientist | applied
+- 2026-07-16: Tokio Marine HCC | Associate Catastrophic Risk Analyst | applied
+- 2026-07-16: Brattle | Data and AI Engineer | applied
+- 2026-07-15: iCare Health | Business Data Analyst | rejected
 - 2026-07-15: Net Health | Business Intelligence Analyst I | applied
 - 2026-07-15: Unum | Business Intelligence Analyst I – AI & Model Monitoring | applied
 - 2026-07-15: Ticketmaster | Pricing Data Analyst | applied
-- 2026-07-15: Kpler | Junior Data Analyst - Nat Gas/LNG | applied
-- 2026-07-15: EquipmentShare | Data Analyst - People | applied
-- 2026-07-15: AssetMark | Associate Data Engineer | applied
-- 2026-07-15: Burlington | AI Data Scientist | applied
-- 2026-07-14: SewerAI | Junior Analytics Engineer | applied
-- 2026-07-14: RT Specialty | Data Analyst | rejected
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-07-15T21:50:38-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 125 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 125 days with no response
-- Google | Software Engineer II, Early Career | 121 days with no response
-- Apple | AIML - Machine Learning Research | 114 days with no response
-- Amazon | Data Engineer II | 112 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 112 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 112 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 112 days with no response
-- Esri | Product Test Engineer II - Feature Server | 112 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 112 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 126 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 126 days with no response
+- Google | Software Engineer II, Early Career | 122 days with no response
+- Apple | AIML - Machine Learning Research | 115 days with no response
+- Amazon | Data Engineer II | 113 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 113 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 113 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 113 days with no response
+- Esri | Product Test Engineer II - Feature Server | 113 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 113 days with no response

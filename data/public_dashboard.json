@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-15T21:50:38-07:00",
+  "refreshed_at": "2026-07-16T22:20:55-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,9 +12,9 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 662,
-    "active_roles": 358,
-    "response_rate_pct": 1.2,
+    "tracked_roles": 668,
+    "active_roles": 363,
+    "response_rate_pct": 1.1,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
@@ -22,8 +22,8 @@
   },
   "status_counts": {
     "interview": 5,
-    "applied": 343,
-    "rejected": 85,
+    "applied": 348,
+    "rejected": 86,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
     "skip": 62,
@@ -74,11 +74,53 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-16",
+      "company": "COUNTRY",
+      "role": "Product Analyst",
+      "location": "Bloomington, IL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-16",
+      "company": "Pattern Data",
+      "role": "Data Solutions Analyst",
+      "location": "Pittsburgh, PA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-16",
+      "company": "Chamber Cardio",
+      "role": "Data Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-16",
+      "company": "Amplify",
+      "role": "Associate Data Scientist",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-16",
+      "company": "Tokio Marine HCC",
+      "role": "Associate Catastrophic Risk Analyst",
+      "location": "Duluth, GA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-16",
+      "company": "Brattle",
+      "role": "Data and AI Engineer",
+      "location": "Boston",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-15",
       "company": "iCare Health",
       "role": "Business Data Analyst",
       "location": "Remote",
-      "status": "applied"
+      "status": "rejected"
     },
     {
       "date_found": "2026-07-15",
@@ -100,48 +142,6 @@
       "role": "Pricing Data Analyst",
       "location": "Los Angeles",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-07-15",
-      "company": "Kpler",
-      "role": "Junior Data Analyst - Nat Gas/LNG",
-      "location": "Houston",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-15",
-      "company": "EquipmentShare",
-      "role": "Data Analyst - People",
-      "location": "Kansas City, MO",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-15",
-      "company": "AssetMark",
-      "role": "Associate Data Engineer",
-      "location": "Charlotte, NC",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-15",
-      "company": "Burlington",
-      "role": "AI Data Scientist",
-      "location": "Edgewater Park, NJ",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-14",
-      "company": "SewerAI",
-      "role": "Junior Analytics Engineer",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-14",
-      "company": "RT Specialty",
-      "role": "Data Analyst",
-      "location": "Richmond, VA",
-      "status": "rejected"
     }
   ]
 }
