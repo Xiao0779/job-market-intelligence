@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-16T22:20:55-07:00",
+  "refreshed_at": "2026-07-17T22:04:46-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 668,
-    "active_roles": 363,
+    "tracked_roles": 670,
+    "active_roles": 365,
     "response_rate_pct": 1.1,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 5,
-    "applied": 348,
+    "applied": 350,
     "rejected": 86,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
@@ -74,6 +74,27 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-17",
+      "company": "AIR",
+      "role": "Data Engineer Associate",
+      "location": "Arlington, VA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-17",
+      "company": "Doximity",
+      "role": "Data Analyst, Reporting Partnerships",
+      "location": "San Francisco",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-07-17",
+      "company": "NCD",
+      "role": "Data Analyst",
+      "location": "Dallas, TX",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-16",
       "company": "COUNTRY",
       "role": "Product Analyst",
@@ -121,27 +142,6 @@
       "role": "Business Data Analyst",
       "location": "Remote",
       "status": "rejected"
-    },
-    {
-      "date_found": "2026-07-15",
-      "company": "Net Health",
-      "role": "Business Intelligence Analyst I",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-15",
-      "company": "Unum",
-      "role": "Business Intelligence Analyst I \u2013 AI & Model Monitoring",
-      "location": "Atlanta",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-15",
-      "company": "Ticketmaster",
-      "role": "Pricing Data Analyst",
-      "location": "Los Angeles",
-      "status": "applied"
     }
   ]
 }
