@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-17T22:04:46-07:00",
+  "refreshed_at": "2026-07-18T22:47:42-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 670,
-    "active_roles": 365,
+    "tracked_roles": 673,
+    "active_roles": 368,
     "response_rate_pct": 1.1,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 5,
-    "applied": 350,
+    "applied": 353,
     "rejected": 86,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
@@ -74,6 +74,27 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-18",
+      "company": "Vytalize Health",
+      "role": "Associate Data Engineer",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-18",
+      "company": "San Jacinto College",
+      "role": "Data Analyst I",
+      "location": "Pasadena, TX",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-18",
+      "company": "First Financial",
+      "role": "Data Analyst I",
+      "location": "",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-17",
       "company": "AIR",
       "role": "Data Engineer Associate",
@@ -121,27 +142,6 @@
       "role": "Associate Data Scientist",
       "location": "New York",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-07-16",
-      "company": "Tokio Marine HCC",
-      "role": "Associate Catastrophic Risk Analyst",
-      "location": "Duluth, GA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-16",
-      "company": "Brattle",
-      "role": "Data and AI Engineer",
-      "location": "Boston",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-15",
-      "company": "iCare Health",
-      "role": "Business Data Analyst",
-      "location": "Remote",
-      "status": "rejected"
     }
   ]
 }
