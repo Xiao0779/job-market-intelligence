@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-18T22:47:42-07:00",
+  "refreshed_at": "2026-07-19T23:09:30-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 673,
-    "active_roles": 368,
+    "tracked_roles": 674,
+    "active_roles": 370,
     "response_rate_pct": 1.1,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,8 +22,8 @@
   },
   "status_counts": {
     "interview": 5,
-    "applied": 353,
-    "rejected": 86,
+    "applied": 355,
+    "rejected": 85,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
     "skip": 62,
@@ -74,6 +74,13 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-19",
+      "company": "ALTEN",
+      "role": "Data Analyst \u2013 Quality & Customer Satisfaction",
+      "location": "Greensboro",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-18",
       "company": "Vytalize Health",
       "role": "Associate Data Engineer",
@@ -91,7 +98,7 @@
       "date_found": "2026-07-18",
       "company": "First Financial",
       "role": "Data Analyst I",
-      "location": "",
+      "location": "Abilene, Texas",
       "status": "applied"
     },
     {
@@ -134,13 +141,6 @@
       "company": "Chamber Cardio",
       "role": "Data Analyst",
       "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-16",
-      "company": "Amplify",
-      "role": "Associate Data Scientist",
-      "location": "New York",
       "status": "applied"
     }
   ]

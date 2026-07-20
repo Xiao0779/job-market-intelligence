@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-18T22:47:42-07:00_
+_Last refreshed: 2026-07-19T23:09:30-07:00_
 
 ## Positioning
 
@@ -10,8 +10,8 @@ _Last refreshed: 2026-07-18T22:47:42-07:00_
 
 ## Snapshot
 
-- Tracked roles: 673
-- Active roles: 368
+- Tracked roles: 674
+- Active roles: 370
 - Response rate: 1.1%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
@@ -20,17 +20,18 @@ _Last refreshed: 2026-07-18T22:47:42-07:00_
 
 ## Status Breakdown
 
-- applied: 353
+- applied: 355
 - applied ✅: 1
 - discarded: 4
 - evaluated: 10
 - interview: 5
 - oa完成: 1
-- rejected: 86
+- rejected: 85
 - skip: 62
 
 ## Recent Activity
 
+- 2026-07-19: ALTEN | Data Analyst – Quality & Customer Satisfaction | applied
 - 2026-07-18: Vytalize Health | Associate Data Engineer | applied
 - 2026-07-18: San Jacinto College | Data Analyst I | applied
 - 2026-07-18: First Financial | Data Analyst I | applied
@@ -40,7 +41,6 @@ _Last refreshed: 2026-07-18T22:47:42-07:00_
 - 2026-07-16: COUNTRY | Product Analyst | applied
 - 2026-07-16: Pattern Data | Data Solutions Analyst | applied
 - 2026-07-16: Chamber Cardio | Data Analyst | applied
-- 2026-07-16: Amplify | Associate Data Scientist | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-07-18T22:47:42-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 128 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 128 days with no response
-- Google | Software Engineer II, Early Career | 124 days with no response
-- Apple | AIML - Machine Learning Research | 117 days with no response
-- Amazon | Data Engineer II | 115 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 115 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 115 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 115 days with no response
-- Esri | Product Test Engineer II - Feature Server | 115 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 115 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 129 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 129 days with no response
+- Google | Software Engineer II, Early Career | 125 days with no response
+- Apple | AIML - Machine Learning Research | 118 days with no response
+- Amazon | Data Engineer II | 116 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 116 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 116 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 116 days with no response
+- Esri | Product Test Engineer II - Feature Server | 116 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 116 days with no response
