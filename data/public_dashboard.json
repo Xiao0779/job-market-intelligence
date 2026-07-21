@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-19T23:09:30-07:00",
+  "refreshed_at": "2026-07-20T21:57:46-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 674,
-    "active_roles": 370,
-    "response_rate_pct": 1.1,
+    "tracked_roles": 684,
+    "active_roles": 375,
+    "response_rate_pct": 0.9,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
     "avg_evaluated_score": 3.33
   },
   "status_counts": {
-    "interview": 5,
-    "applied": 355,
-    "rejected": 85,
+    "interview": 4,
+    "applied": 361,
+    "rejected": 90,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
     "skip": 62,
@@ -74,73 +74,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-07-19",
-      "company": "ALTEN",
-      "role": "Data Analyst \u2013 Quality & Customer Satisfaction",
-      "location": "Greensboro",
+      "date_found": "2026-07-20",
+      "company": "Onpoint Health Data",
+      "role": "Analyst Engineer",
+      "location": "Portland, ME",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-18",
-      "company": "Vytalize Health",
-      "role": "Associate Data Engineer",
+      "date_found": "2026-07-20",
+      "company": "4P Consulting",
+      "role": "Data Analytics Analyst I",
+      "location": "Birmingham, AL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-20",
+      "company": "PTP",
+      "role": "Data Analyst",
       "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-18",
-      "company": "San Jacinto College",
-      "role": "Data Analyst I",
-      "location": "Pasadena, TX",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-18",
-      "company": "First Financial",
-      "role": "Data Analyst I",
-      "location": "Abilene, Texas",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-17",
-      "company": "AIR",
-      "role": "Data Engineer Associate",
-      "location": "Arlington, VA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-17",
-      "company": "Doximity",
-      "role": "Data Analyst, Reporting Partnerships",
-      "location": "San Francisco",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-07-17",
-      "company": "NCD",
+      "date_found": "2026-07-20",
+      "company": "Weiser Memorial Hospital",
       "role": "Data Analyst",
-      "location": "Dallas, TX",
+      "location": "WEISER, ID",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-16",
-      "company": "COUNTRY",
+      "date_found": "2026-07-20",
+      "company": "Best Egg",
+      "role": "Decisioning Execution Analyst",
+      "location": "Wilmington, DE",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-20",
+      "company": "Voltus",
+      "role": "Energy Markets Analyst (NYISO)",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-20",
+      "company": "Buildkite",
+      "role": "Data Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-20",
+      "company": "Artefact",
+      "role": "Junior Data Consultant",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-20",
+      "company": "LifeStance Health",
       "role": "Product Analyst",
-      "location": "Bloomington, IL",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-16",
-      "company": "Pattern Data",
-      "role": "Data Solutions Analyst",
-      "location": "Pittsburgh, PA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-16",
-      "company": "Chamber Cardio",
-      "role": "Data Analyst",
       "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-20",
+      "company": "Good Culture",
+      "role": "Quality Data Analyst",
+      "location": "La Crosse, WI",
       "status": "applied"
     }
   ]
