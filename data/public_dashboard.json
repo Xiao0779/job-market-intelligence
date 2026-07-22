@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-20T21:57:46-07:00",
+  "refreshed_at": "2026-07-21T22:20:59-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 684,
-    "active_roles": 375,
+    "tracked_roles": 688,
+    "active_roles": 379,
     "response_rate_pct": 0.9,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 361,
+    "applied": 365,
     "rejected": 90,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
@@ -74,6 +74,34 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-21",
+      "company": "Clinical Architecture",
+      "role": "Product Analyst (Entry Level)",
+      "location": "Indianapolis, Indiana",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-21",
+      "company": "Healthfirst",
+      "role": "Data Analyst, Clinical Eligibility (Hybrid NY)",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-21",
+      "company": "eBay",
+      "role": "Data Science Analyst",
+      "location": "San Jose",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-21",
+      "company": "Tactile Medical",
+      "role": "Data Analyst",
+      "location": "New Brighton, Minnesota",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-20",
       "company": "Onpoint Health Data",
       "role": "Analyst Engineer",
@@ -113,34 +141,6 @@
       "company": "Voltus",
       "role": "Energy Markets Analyst (NYISO)",
       "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-20",
-      "company": "Buildkite",
-      "role": "Data Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-20",
-      "company": "Artefact",
-      "role": "Junior Data Consultant",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-20",
-      "company": "LifeStance Health",
-      "role": "Product Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-20",
-      "company": "Good Culture",
-      "role": "Quality Data Analyst",
-      "location": "La Crosse, WI",
       "status": "applied"
     }
   ]
