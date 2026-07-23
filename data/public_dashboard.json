@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-21T22:20:59-07:00",
+  "refreshed_at": "2026-07-22T21:51:29-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 688,
-    "active_roles": 379,
+    "tracked_roles": 695,
+    "active_roles": 383,
     "response_rate_pct": 0.9,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,8 +22,8 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 365,
-    "rejected": 90,
+    "applied": 369,
+    "rejected": 93,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
     "skip": 62,
@@ -74,6 +74,55 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-22",
+      "company": "Google",
+      "role": "Data Engineer, GCS Data Science",
+      "location": "San Francisco",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-22",
+      "company": "University of Rochester",
+      "role": "Data Scientist",
+      "location": "Rochester, New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-22",
+      "company": "Grant Street",
+      "role": "Business Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-22",
+      "company": "QuestBridge",
+      "role": "Data Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-22",
+      "company": "Vistra",
+      "role": "Associate Data Analyst-Retail",
+      "location": "Irving, Texas",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-22",
+      "company": "Impiricus",
+      "role": "Data Analyst",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-22",
+      "company": "Truemed",
+      "role": "Data Analyst",
+      "location": "Los Angeles",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-21",
       "company": "Clinical Architecture",
       "role": "Product Analyst (Entry Level)",
@@ -92,55 +141,6 @@
       "company": "eBay",
       "role": "Data Science Analyst",
       "location": "San Jose",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-21",
-      "company": "Tactile Medical",
-      "role": "Data Analyst",
-      "location": "New Brighton, Minnesota",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-20",
-      "company": "Onpoint Health Data",
-      "role": "Analyst Engineer",
-      "location": "Portland, ME",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-20",
-      "company": "4P Consulting",
-      "role": "Data Analytics Analyst I",
-      "location": "Birmingham, AL",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-20",
-      "company": "PTP",
-      "role": "Data Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-20",
-      "company": "Weiser Memorial Hospital",
-      "role": "Data Analyst",
-      "location": "WEISER, ID",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-20",
-      "company": "Best Egg",
-      "role": "Decisioning Execution Analyst",
-      "location": "Wilmington, DE",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-20",
-      "company": "Voltus",
-      "role": "Energy Markets Analyst (NYISO)",
-      "location": "Remote",
       "status": "applied"
     }
   ]
