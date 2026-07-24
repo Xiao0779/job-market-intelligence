@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-22T21:51:29-07:00",
+  "refreshed_at": "2026-07-23T22:00:17-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 695,
-    "active_roles": 383,
+    "tracked_roles": 698,
+    "active_roles": 381,
     "response_rate_pct": 0.9,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,8 +22,8 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 369,
-    "rejected": 93,
+    "applied": 367,
+    "rejected": 98,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
     "skip": 62,
@@ -74,6 +74,27 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-07-23",
+      "company": "Comagine Health",
+      "role": "Healthcare Data Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-23",
+      "company": "Kalshi",
+      "role": "Surveillance Analyst",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-23",
+      "company": "Stride",
+      "role": "Data Science Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-07-22",
       "company": "Google",
       "role": "Data Engineer, GCS Data Science",
@@ -120,27 +141,6 @@
       "company": "Truemed",
       "role": "Data Analyst",
       "location": "Los Angeles",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-21",
-      "company": "Clinical Architecture",
-      "role": "Product Analyst (Entry Level)",
-      "location": "Indianapolis, Indiana",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-21",
-      "company": "Healthfirst",
-      "role": "Data Analyst, Clinical Eligibility (Hybrid NY)",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-21",
-      "company": "eBay",
-      "role": "Data Science Analyst",
-      "location": "San Jose",
       "status": "applied"
     }
   ]
