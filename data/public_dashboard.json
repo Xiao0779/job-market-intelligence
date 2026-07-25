@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-24T23:56:21-07:00",
+  "refreshed_at": "2026-07-25T00:09:54-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 705,
-    "active_roles": 388,
+    "tracked_roles": 707,
+    "active_roles": 390,
     "response_rate_pct": 0.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.33
+    "avg_evaluated_score": 3.44
   },
   "status_counts": {
     "interview": 4,
-    "applied": 374,
-    "rejected": 98,
+    "applied": 376,
+    "rejected": 99,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
-    "skip": 62,
+    "skip": 61,
     "evaluated": 10,
     "applied \u2705": 1
   },
