@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-25T00:09:54-07:00",
+  "refreshed_at": "2026-07-25T22:54:28-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 707,
-    "active_roles": 390,
+    "tracked_roles": 725,
+    "active_roles": 400,
     "response_rate_pct": 0.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.44
+    "avg_evaluated_score": 3.41
   },
   "status_counts": {
     "interview": 4,
-    "applied": 376,
+    "applied": 386,
     "rejected": 99,
     "oa\u5b8c\u6210": 1,
     "discarded": 4,
-    "skip": 61,
+    "skip": 69,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,73 +74,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-07-24",
-      "company": "Tapcheck",
-      "role": "Data Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-24",
-      "company": "Liberty Mutual",
-      "role": "Analyst/Senior Analyst, Advanced Analytics",
-      "location": "Seattle",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-24",
-      "company": "Fanatics",
-      "role": "Data Scientist",
-      "location": "Los Angeles",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-24",
-      "company": "Patterson-UTI",
-      "role": "Drilling Data Analyst- MSD",
-      "location": "Conroe, TX",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-24",
-      "company": "Finch",
+      "date_found": "2026-07-25",
+      "company": "David Joseph & Company",
       "role": "Product Analyst",
       "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-24",
-      "company": "Hyundai",
-      "role": "Application Data Quality Associate",
-      "location": "Irvine",
+      "date_found": "2026-07-25",
+      "company": "Uncountable",
+      "role": "Scientific Data Engineer",
+      "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-24",
-      "company": "Prime Healthcare",
-      "role": "Business Analyst I",
-      "location": "Ontario, CA",
+      "date_found": "2026-07-25",
+      "company": "Nomi Health",
+      "role": "Associate Data Analyst",
+      "location": "Salt Lake City",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-23",
-      "company": "Comagine Health",
-      "role": "Healthcare Data Analyst",
-      "location": "Remote",
+      "date_found": "2026-07-25",
+      "company": "GRAIL",
+      "role": "Data Analytics Engineer",
+      "location": "Durham, NC",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-23",
-      "company": "Kalshi",
-      "role": "Surveillance Analyst",
-      "location": "New York",
+      "date_found": "2026-07-25",
+      "company": "Fanatics",
+      "role": "Data Scientist I",
+      "location": "Denver, CO",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-23",
-      "company": "Stride",
-      "role": "Data Science Analyst",
-      "location": "Remote",
+      "date_found": "2026-07-25",
+      "company": "Judge Group",
+      "role": "Data Analyst: I",
+      "location": "San Diego",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-25",
+      "company": "California FAIR Plan",
+      "role": "Billing Technical Analyst I",
+      "location": "Los Angeles(Remote)\uff1b\u6838\u5fc3\u662f\u4fdd\u9669billing\u7cfb\u7edf\u8fd0\u7ef4+UAT\u6d4b\u8bd5+\u5408\u89c4\u68c0\u67e5\uff0cSQL\u53ea\u662fpreferred\u4e0d\u662frequired\uff1bDuck Creek\u4e13\u6709\u8d26\u5355\u7cfb\u7edf\u662f\u771f\u5b9edomain\u7a7a\u767d\u975e\u5de5\u5177\u4e92\u901a\u95ee\u9898\uff1b$78.5-83.5K\uff1b\u672a\u5b9a\u5236\u7b80\u5386",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-07-25",
+      "company": "Irvine Company",
+      "role": "Data Engineer",
+      "location": "",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-07-25",
+      "company": "Paciolan (Learfield)",
+      "role": "Business Intelligence Engineer",
+      "location": "Irvine/Atlanta/Dallas\uff1bMinimum Qualifications\"4+ years\"\u65e0\u8f6f\u5316+\"ticketing/live events/sports space\"\u884c\u4e1a\u7ecf\u9a8c\u4e5f\u662fRequired\u975ePreferred\uff0c\u53cc\u91cd\u786c\u95e8\u69db\uff1b$100-120K\uff1b\u672a\u5b9a\u5236\u7b80\u5386",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-07-25",
+      "company": "David Joseph & Company (client: construction data infra startup)",
+      "role": "Product Analyst",
+      "location": "",
       "status": "applied"
     }
   ]

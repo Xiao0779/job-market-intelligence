@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-25T00:09:54-07:00_
+_Last refreshed: 2026-07-25T22:54:28-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-07-25T00:09:54-07:00_
 
 ## Snapshot
 
-- Tracked roles: 707
-- Active roles: 390
+- Tracked roles: 725
+- Active roles: 400
 - Response rate: 0.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.44
+- Average evaluated score: 3.41
 
 ## Status Breakdown
 
-- applied: 376
+- applied: 386
 - applied ✅: 1
 - discarded: 4
 - evaluated: 10
 - interview: 4
 - oa完成: 1
 - rejected: 99
-- skip: 61
+- skip: 69
 
 ## Recent Activity
 
-- 2026-07-24: Tapcheck | Data Analyst | applied
-- 2026-07-24: Liberty Mutual | Analyst/Senior Analyst, Advanced Analytics | applied
-- 2026-07-24: Fanatics | Data Scientist | applied
-- 2026-07-24: Patterson-UTI | Drilling Data Analyst- MSD | applied
-- 2026-07-24: Finch | Product Analyst | applied
-- 2026-07-24: Hyundai | Application Data Quality Associate | applied
-- 2026-07-24: Prime Healthcare | Business Analyst I | applied
-- 2026-07-23: Comagine Health | Healthcare Data Analyst | applied
-- 2026-07-23: Kalshi | Surveillance Analyst | applied
-- 2026-07-23: Stride | Data Science Analyst | applied
+- 2026-07-25: David Joseph & Company | Product Analyst | applied
+- 2026-07-25: Uncountable | Scientific Data Engineer | applied
+- 2026-07-25: Nomi Health | Associate Data Analyst | applied
+- 2026-07-25: GRAIL | Data Analytics Engineer | applied
+- 2026-07-25: Fanatics | Data Scientist I | applied
+- 2026-07-25: Judge Group | Data Analyst: I | applied
+- 2026-07-25: California FAIR Plan | Billing Technical Analyst I | skip
+- 2026-07-25: Irvine Company | Data Engineer | skip
+- 2026-07-25: Paciolan (Learfield) | Business Intelligence Engineer | skip
+- 2026-07-25: David Joseph & Company (client: construction data infra startup) | Product Analyst | applied
 
 ## Recommended Opportunity Queue
 
