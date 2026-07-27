@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-25T22:54:28-07:00",
+  "refreshed_at": "2026-07-26T22:15:09-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 725,
-    "active_roles": 400,
+    "tracked_roles": 738,
+    "active_roles": 405,
     "response_rate_pct": 0.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.41
+    "avg_evaluated_score": 3.39
   },
   "status_counts": {
     "interview": 4,
-    "applied": 386,
+    "applied": 391,
     "rejected": 99,
     "oa\u5b8c\u6210": 1,
-    "discarded": 4,
-    "skip": 69,
+    "discarded": 5,
+    "skip": 76,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,73 +74,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-07-25",
-      "company": "David Joseph & Company",
-      "role": "Product Analyst",
-      "location": "San Francisco",
+      "date_found": "2026-07-26",
+      "company": "NextGen",
+      "role": "Data Analyst II",
+      "location": "Remote GA",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-25",
-      "company": "Uncountable",
-      "role": "Scientific Data Engineer",
-      "location": "San Francisco",
+      "date_found": "2026-07-26",
+      "company": "T-Mobile",
+      "role": "Analyst, Business Intelligence",
+      "location": "Bellevue",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-25",
-      "company": "Nomi Health",
-      "role": "Associate Data Analyst",
-      "location": "Salt Lake City",
+      "date_found": "2026-07-26",
+      "company": "Morning Star",
+      "role": "Dashboard and Report Developer",
+      "location": "Woodland, CA",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-25",
-      "company": "GRAIL",
-      "role": "Data Analytics Engineer",
-      "location": "Durham, NC",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-25",
-      "company": "Fanatics",
-      "role": "Data Scientist I",
-      "location": "Denver, CO",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-25",
-      "company": "Judge Group",
-      "role": "Data Analyst: I",
-      "location": "San Diego",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-25",
-      "company": "California FAIR Plan",
-      "role": "Billing Technical Analyst I",
-      "location": "Los Angeles(Remote)\uff1b\u6838\u5fc3\u662f\u4fdd\u9669billing\u7cfb\u7edf\u8fd0\u7ef4+UAT\u6d4b\u8bd5+\u5408\u89c4\u68c0\u67e5\uff0cSQL\u53ea\u662fpreferred\u4e0d\u662frequired\uff1bDuck Creek\u4e13\u6709\u8d26\u5355\u7cfb\u7edf\u662f\u771f\u5b9edomain\u7a7a\u767d\u975e\u5de5\u5177\u4e92\u901a\u95ee\u9898\uff1b$78.5-83.5K\uff1b\u672a\u5b9a\u5236\u7b80\u5386",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-07-25",
-      "company": "Irvine Company",
-      "role": "Data Engineer",
+      "date_found": "2026-07-26",
+      "company": "Principal Financial Group",
+      "role": "Analyst, Data Management",
       "location": "",
       "status": "skip"
     },
     {
-      "date_found": "2026-07-25",
-      "company": "Paciolan (Learfield)",
-      "role": "Business Intelligence Engineer",
-      "location": "Irvine/Atlanta/Dallas\uff1bMinimum Qualifications\"4+ years\"\u65e0\u8f6f\u5316+\"ticketing/live events/sports space\"\u884c\u4e1a\u7ecf\u9a8c\u4e5f\u662fRequired\u975ePreferred\uff0c\u53cc\u91cd\u786c\u95e8\u69db\uff1b$100-120K\uff1b\u672a\u5b9a\u5236\u7b80\u5386",
+      "date_found": "2026-07-26",
+      "company": "CorVel Corporation",
+      "role": "Data Analyst",
+      "location": "",
+      "status": "discarded"
+    },
+    {
+      "date_found": "2026-07-26",
+      "company": "Epoch AI",
+      "role": "Data Scientist (Contract)",
+      "location": "Remote\uff1bpart-time contract(1099,10-30hrs/\u5468)\u975e\u5168\u804cW-2\uff1b\u5185\u5bb9\u5339\u914d\u5ea6\u9ad8(\u8bfbML\u8bba\u6587/\u8ffd\u8e2abenchmark/AI infra\u5206\u6790\uff0csubliminal-learning-experiments\u9879\u76ee\u76f4\u63a5\u76f8\u5173)\uff1bChina\u5883\u5185\u5019\u9009\u4eba\u88ab\u6392\u9664\u4f46Xiao\u4eba\u5728SD\u4e0d\u53d7\u5f71\u54cd\uff1bXiao\u51b3\u5b9a\u8df3\u8fc7\u56e0\u4e3a\u6c42\u804c\u76ee\u6807\u662f\u5168\u804c\u5de5\u4f5c\uff1b\u672a\u5b9a\u5236\u7b80\u5386",
       "status": "skip"
     },
     {
-      "date_found": "2026-07-25",
-      "company": "David Joseph & Company (client: construction data infra startup)",
-      "role": "Product Analyst",
+      "date_found": "2026-07-26",
+      "company": "NextGen Healthcare",
+      "role": "Data Analyst II",
+      "location": "Remote GA(\u4e0d\u786e\u5b9a\u662f\u5426\u9650\u5dde\u5c45\u6c11)\uff1b\"2+ years\"\u662fRequired\u4e14\u6ca1\u6709\u50cf\u5b66\u5386\u90a3\u6837\u7684equivalency\u8f6f\u5316\uff0c\"II\"\u7ea7\u522btitle\u914d2\u5e74\u95e8\u69db\u6bd4entry\u7a0d\u9ad8\u4e00\u6863\uff0c\u771f\u5b9egap\u4f46\u672a\u52303\u5e74\u9ed1\u540d\u5355\u7ea2\u7ebf\uff1bTableau/Power BI\u7b49BI\u5de5\u5177\u547d\u4e2d\uff1bOlist\u2192JMI\u2192Math3B\u89d2\u5ea6\uff1b\u4ec5\u7b80\u5386\u65e0CL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-26",
+      "company": "Harper",
+      "role": "Data Analyst / GTM Engineer",
       "location": "",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-07-26",
+      "company": "Talent Software Services (client\u672a\u62ab\u9732)",
+      "role": "Business Analyst",
+      "location": "SF/Remote, Contract($35-38/hr)\uff1bSQL(intermediate)+Excel\u95e8\u69db\u4f4e\uff0c\u4f46\u5408\u540c\u8d77\u59cb\u65e5\"7/20/2026\"\u5df2\u8fc7\u53bb6\u5929\uff0c\u77ed\u671f3\u4e2a\u6708\u5408\u540c(\u81f310/30)\u65e0\u8f6c\u6b63\u63d0\u53ca\uff0c\u5ba2\u6237\u516c\u53f8\u540d\u5b8c\u5168\u672a\u62ab\u9732(\u53ea\u6709\u730e\u5934\u516c\u53f8\u540d)\uff0c\u547d\u4e2d\u7387\u548c\u6295\u9012\u4ef7\u503c\u90fd\u5b58\u7591\uff1bXiao\u4e3b\u52a8\u786e\u8ba4\u8df3\u8fc7\uff1b\u672a\u5b9a\u5236\u7b80\u5386",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-07-26",
+      "company": "The Morning Star Company",
+      "role": "Dashboard and Report Developer",
+      "location": "Woodland, CA on-site(no remote)\uff1b\u26a0\ufe0f\"No remote, no relocations, no sponsorship\"\u4e09\u8fde\u786c\u6027\u8868\u8ff0\uff0c\"no relocations\"\u63aa\u8f9e\u6bd4\u4e00\u822c\"no relocation assistance\"\u66f4\u5f3a\u786c\uff0cXiao\u77e5\u60c5\u540e\u4ecd\u9009\u62e9\u6295\u9012\uff1b\"1-3 years\"floor\u4e3a1\u672a\u8e29\u9ed1\u540d\u5355\u7ebf\uff1bSQL\u547d\u4e2d\uff0cPowerBI/SSRS/SSMS\u5fae\u8f6fBI\u6808\u65e0\u76f4\u63a5\u7ecf\u9a8c\u4f46CL\u8bda\u5b9e\u8bf4\u660e+\u5f3a\u8c03\u53ef\u8fc1\u79fb\u80fd\u529b\uff1b$75-100K DOQ\uff1b\u8457\u540d\u7684\"\u65e0title\u65e0\u5c42\u7ea7\"\u81ea\u6211\u7ba1\u7406\u578b\u516c\u53f8(Mission Focused Self-Management)\uff1bOlist\u2192JMI\u2192Math3B\u89d2\u5ea6\uff1b\u5b9a\u5236\u7b80\u5386+CL",
       "status": "applied"
     }
   ]
