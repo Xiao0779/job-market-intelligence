@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-28T18:23:02-07:00",
+  "refreshed_at": "2026-07-28T22:22:47-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 742,
-    "active_roles": 407,
+    "tracked_roles": 767,
+    "active_roles": 421,
     "response_rate_pct": 0.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.39
+    "avg_evaluated_score": 3.37
   },
   "status_counts": {
     "interview": 4,
-    "applied": 393,
-    "rejected": 99,
+    "applied": 407,
+    "rejected": 100,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
-    "skip": 78,
+    "skip": 88,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,74 +74,74 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-07-27",
-      "company": "JRK",
-      "role": "Analyst - Business Intelligence (47934)",
+      "date_found": "2026-07-28",
+      "company": "Alta",
+      "role": "Civic Data Analyst (Sustainable Mobility)",
       "location": "Los Angeles",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-27",
-      "company": "Billtrust",
-      "role": "Associate Data Scientist",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-07-27",
-      "company": "Centrillion Technologies",
-      "role": "Bioinformatics Analyst",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-07-27",
-      "company": "JRK Property Holdings",
-      "role": "Analyst - Business Intelligence",
-      "location": "Los Angeles, CA\uff1b\"Up to two years of experience...is required\"\u53cb\u597d\uff1bPython/SQL/Excel\u5168\u547d\u4e2d\uff0cTableau\u5bf9\u5e94Power BI(\u89c4\u5f8b11)\uff1b\"Understanding of commercial real estate industry is preferred but not required\"\u660e\u786e\u4e0d\u8bbedomain\u95e8\u69db\uff1bPreferred\u91ccETL/data warehousing(\u5bf9\u5e94JMI)+ML/predictive analytics(\u5bf9\u5e94Math3B)\u90fd\u662f\u52a0\u5206\u9879\uff1b$125,000-$140,000\u85aa\u8d44\u5728entry/associate\u7ea7\u522b\u91cc\u975e\u5e38\u7a81\u51fa\uff0c\u672a\u51fa\u73b0PERM\u6cd5\u5f8b\u6a21\u677f\u63aa\u8f9e\u5224\u65ad\u662f\u771f\u5b9e\u5730\u4ea7\u79c1\u52df\u884c\u4e1a\u85aa\u8d44\u6c34\u5e73\u975ePERM\u4fe1\u53f7\uff1b\u65e0\u7b7e\u8bc1\u6761\u6b3e\uff1bOlist\u2192JMI\u2192Math3B\u89d2\u5ea6\uff1b\u5b9a\u5236\u7b80\u5386+CL",
+      "date_found": "2026-07-28",
+      "company": "Omega",
+      "role": "Junior Data Analyst - Healthcare Operations & Process Analytics",
+      "location": "San Luis Obispo, CA",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-26",
-      "company": "NextGen",
-      "role": "Data Analyst II",
-      "location": "Remote GA",
+      "date_found": "2026-07-28",
+      "company": "WSP",
+      "role": "Early Career Project Controls Data Analyst",
+      "location": "Seattle",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-26",
-      "company": "T-Mobile",
-      "role": "Analyst, Business Intelligence",
-      "location": "Bellevue",
+      "date_found": "2026-07-28",
+      "company": "Core Specialty",
+      "role": "Actuarial Data Analyst",
+      "location": "Chicago, IL",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-26",
-      "company": "Morning Star",
-      "role": "Dashboard and Report Developer",
-      "location": "Woodland, CA",
+      "date_found": "2026-07-28",
+      "company": "LexisNexis",
+      "role": "Data Scientist I (DSAP)",
+      "location": "Alpharetta, GA",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-26",
-      "company": "Principal Financial Group",
-      "role": "Analyst, Data Management",
-      "location": "",
-      "status": "skip"
+      "date_found": "2026-07-28",
+      "company": "Flatiron Health",
+      "role": "Data Analyst - Product Data Science",
+      "location": "New York",
+      "status": "applied"
     },
     {
-      "date_found": "2026-07-26",
-      "company": "CorVel Corporation",
+      "date_found": "2026-07-28",
+      "company": "Cornerstone Research",
       "role": "Data Analyst",
-      "location": "",
-      "status": "discarded"
+      "location": "Los Angeles",
+      "status": "applied"
     },
     {
-      "date_found": "2026-07-26",
-      "company": "Epoch AI",
-      "role": "Data Scientist (Contract)",
-      "location": "Remote\uff1bpart-time contract(1099,10-30hrs/\u5468)\u975e\u5168\u804cW-2\uff1b\u5185\u5bb9\u5339\u914d\u5ea6\u9ad8(\u8bfbML\u8bba\u6587/\u8ffd\u8e2abenchmark/AI infra\u5206\u6790\uff0csubliminal-learning-experiments\u9879\u76ee\u76f4\u63a5\u76f8\u5173)\uff1bChina\u5883\u5185\u5019\u9009\u4eba\u88ab\u6392\u9664\u4f46Xiao\u4eba\u5728SD\u4e0d\u53d7\u5f71\u54cd\uff1bXiao\u51b3\u5b9a\u8df3\u8fc7\u56e0\u4e3a\u6c42\u804c\u76ee\u6807\u662f\u5168\u804c\u5de5\u4f5c\uff1b\u672a\u5b9a\u5236\u7b80\u5386",
-      "status": "skip"
+      "date_found": "2026-07-28",
+      "company": "Foxconn",
+      "role": "Data Analyst",
+      "location": "Houston, TX",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-28",
+      "company": "Capgemini",
+      "role": "Junior Data Engineer/Junior Data Scientist",
+      "location": "Atlanta, GA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-28",
+      "company": "University of Chicago",
+      "role": "Data Scientist I supporting social science research, analytics, and AI initiatives",
+      "location": "Chicago",
+      "status": "applied"
     }
   ]
 }

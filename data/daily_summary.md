@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-28T18:23:02-07:00_
+_Last refreshed: 2026-07-28T22:22:47-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-07-28T18:23:02-07:00_
 
 ## Snapshot
 
-- Tracked roles: 742
-- Active roles: 407
+- Tracked roles: 767
+- Active roles: 421
 - Response rate: 0.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.39
+- Average evaluated score: 3.37
 
 ## Status Breakdown
 
-- applied: 393
+- applied: 407
 - applied ✅: 1
 - discarded: 5
 - evaluated: 10
 - interview: 4
 - oa完成: 1
-- rejected: 99
-- skip: 78
+- rejected: 100
+- skip: 88
 
 ## Recent Activity
 
-- 2026-07-27: JRK | Analyst - Business Intelligence (47934) | applied
-- 2026-07-27: Billtrust | Associate Data Scientist | skip
-- 2026-07-27: Centrillion Technologies | Bioinformatics Analyst | skip
-- 2026-07-27: JRK Property Holdings | Analyst - Business Intelligence | applied
-- 2026-07-26: NextGen | Data Analyst II | applied
-- 2026-07-26: T-Mobile | Analyst, Business Intelligence | applied
-- 2026-07-26: Morning Star | Dashboard and Report Developer | applied
-- 2026-07-26: Principal Financial Group | Analyst, Data Management | skip
-- 2026-07-26: CorVel Corporation | Data Analyst | discarded
-- 2026-07-26: Epoch AI | Data Scientist (Contract) | skip
+- 2026-07-28: Alta | Civic Data Analyst (Sustainable Mobility) | applied
+- 2026-07-28: Omega | Junior Data Analyst - Healthcare Operations & Process Analytics | applied
+- 2026-07-28: WSP | Early Career Project Controls Data Analyst | applied
+- 2026-07-28: Core Specialty | Actuarial Data Analyst | applied
+- 2026-07-28: LexisNexis | Data Scientist I (DSAP) | applied
+- 2026-07-28: Flatiron Health | Data Analyst - Product Data Science | applied
+- 2026-07-28: Cornerstone Research | Data Analyst | applied
+- 2026-07-28: Foxconn | Data Analyst | applied
+- 2026-07-28: Capgemini | Junior Data Engineer/Junior Data Scientist | applied
+- 2026-07-28: University of Chicago | Data Scientist I supporting social science research, analytics, and AI initiatives | applied
 
 ## Recommended Opportunity Queue
 
