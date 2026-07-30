@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-28T22:22:47-07:00_
+_Last refreshed: 2026-07-29T22:14:06-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-07-28T22:22:47-07:00_
 
 ## Snapshot
 
-- Tracked roles: 767
-- Active roles: 421
+- Tracked roles: 774
+- Active roles: 427
 - Response rate: 0.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.37
+- Average evaluated score: 3.38
 
 ## Status Breakdown
 
-- applied: 407
+- applied: 413
 - applied ✅: 1
 - discarded: 5
 - evaluated: 10
 - interview: 4
 - oa完成: 1
 - rejected: 100
-- skip: 88
+- skip: 89
 
 ## Recent Activity
 
+- 2026-07-29: Kemper | Associate, Audit Data Analyst | applied
+- 2026-07-29: Socure | Data Scientist II | skip
+- 2026-07-29: Cruisebound | Data Scientist | applied
+- 2026-07-29: Goldman Sachs | Tax, Business and Data Intelligence, Analyst | applied
+- 2026-07-29: Emory Healthcare | Data Analyst II | applied
+- 2026-07-29: EPCVIP | Product Analyst | applied
+- 2026-07-29: Mattel | Consumer Data Analyst | applied
 - 2026-07-28: Alta | Civic Data Analyst (Sustainable Mobility) | applied
 - 2026-07-28: Omega | Junior Data Analyst - Healthcare Operations & Process Analytics | applied
 - 2026-07-28: WSP | Early Career Project Controls Data Analyst | applied
-- 2026-07-28: Core Specialty | Actuarial Data Analyst | applied
-- 2026-07-28: LexisNexis | Data Scientist I (DSAP) | applied
-- 2026-07-28: Flatiron Health | Data Analyst - Product Data Science | applied
-- 2026-07-28: Cornerstone Research | Data Analyst | applied
-- 2026-07-28: Foxconn | Data Analyst | applied
-- 2026-07-28: Capgemini | Junior Data Engineer/Junior Data Scientist | applied
-- 2026-07-28: University of Chicago | Data Scientist I supporting social science research, analytics, and AI initiatives | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-07-28T22:22:47-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 138 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 138 days with no response
-- Google | Software Engineer II, Early Career | 134 days with no response
-- Apple | AIML - Machine Learning Research | 127 days with no response
-- Amazon | Data Engineer II | 125 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 125 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 125 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 125 days with no response
-- Esri | Product Test Engineer II - Feature Server | 125 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 125 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 139 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 139 days with no response
+- Google | Software Engineer II, Early Career | 135 days with no response
+- Apple | AIML - Machine Learning Research | 128 days with no response
+- Amazon | Data Engineer II | 126 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 126 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 126 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 126 days with no response
+- Esri | Product Test Engineer II - Feature Server | 126 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 126 days with no response
