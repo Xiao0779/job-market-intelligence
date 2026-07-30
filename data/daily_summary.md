@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-29T22:14:06-07:00_
+_Last refreshed: 2026-07-29T23:18:38-07:00_
 
 ## Positioning
 
@@ -10,8 +10,8 @@ _Last refreshed: 2026-07-29T22:14:06-07:00_
 
 ## Snapshot
 
-- Tracked roles: 774
-- Active roles: 427
+- Tracked roles: 777
+- Active roles: 429
 - Response rate: 0.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
@@ -20,27 +20,27 @@ _Last refreshed: 2026-07-29T22:14:06-07:00_
 
 ## Status Breakdown
 
-- applied: 413
+- applied: 415
 - applied ✅: 1
 - discarded: 5
 - evaluated: 10
 - interview: 4
 - oa完成: 1
-- rejected: 100
+- rejected: 101
 - skip: 89
 
 ## Recent Activity
 
 - 2026-07-29: Kemper | Associate, Audit Data Analyst | applied
-- 2026-07-29: Socure | Data Scientist II | skip
 - 2026-07-29: Cruisebound | Data Scientist | applied
+- 2026-07-29: Fabletics | Data Analyst II | applied
 - 2026-07-29: Goldman Sachs | Tax, Business and Data Intelligence, Analyst | applied
 - 2026-07-29: Emory Healthcare | Data Analyst II | applied
 - 2026-07-29: EPCVIP | Product Analyst | applied
 - 2026-07-29: Mattel | Consumer Data Analyst | applied
-- 2026-07-28: Alta | Civic Data Analyst (Sustainable Mobility) | applied
-- 2026-07-28: Omega | Junior Data Analyst - Healthcare Operations & Process Analytics | applied
-- 2026-07-28: WSP | Early Career Project Controls Data Analyst | applied
+- 2026-07-29: SWBC | Data Analyst | applied
+- 2026-07-29: KIPP SoCal Public Schools | Data Analyst | applied
+- 2026-07-29: Socure | Data Scientist II | skip
 
 ## Recommended Opportunity Queue
 

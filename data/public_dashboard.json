@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-29T22:14:06-07:00",
+  "refreshed_at": "2026-07-29T23:18:38-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 774,
-    "active_roles": 427,
+    "tracked_roles": 777,
+    "active_roles": 429,
     "response_rate_pct": 0.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,8 +22,8 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 413,
-    "rejected": 100,
+    "applied": 415,
+    "rejected": 101,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
     "skip": 89,
@@ -77,7 +77,63 @@
       "date_found": "2026-07-29",
       "company": "Kemper",
       "role": "Associate, Audit Data Analyst",
-      "location": "Chicago, IL hybrid(65\u5929remote-day bank)\uff1bMinimum Job Requirements\u5b8c\u5168\u6ca1\u6709\u5e74\u9650\u8981\u6c42\uff0c\u53ea\u5199\"Experience using SQL, Python or other data query languages\"\uff1bprevious internship/certifications\u90fd\u662fpreferred\uff1b\u6838\u5fc3\u5de5\u4f5c\u662f\u5185\u90e8\u5ba1\u8ba1data testing/root cause\u5206\u6790/data quality\u8bc4\u4f30\uff1b20%\u51fa\u5dee\u8981\u6c42\uff1bKemper\u662f\u771f\u5b9e\u4fdd\u9669\u516c\u53f8(~$12B\u8d44\u4ea7)\uff1bJMI\u2192Olist\u2192Math3B\u89d2\u5ea6(5-fold CV\u5f3a\u8c03\u9a8c\u8bc1\u4e25\u8c28\u6027\u547c\u5e94audit\u6027\u8d28)\uff1b\u4ec5\u7b80\u5386\u65e0CL",
+      "location": "Chicago",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-29",
+      "company": "Cruisebound",
+      "role": "Data Scientist",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-29",
+      "company": "Fabletics",
+      "role": "Data Analyst II",
+      "location": "El Segundo, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-29",
+      "company": "Goldman Sachs",
+      "role": "Tax, Business and Data Intelligence, Analyst",
+      "location": "Jersey City, NJ",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-29",
+      "company": "Emory Healthcare",
+      "role": "Data Analyst II",
+      "location": "Atlanta, GA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-29",
+      "company": "EPCVIP",
+      "role": "Product Analyst",
+      "location": "Calabasas, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-29",
+      "company": "Mattel",
+      "role": "Consumer Data Analyst",
+      "location": "El Segundo, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-29",
+      "company": "SWBC",
+      "role": "Data Analyst",
+      "location": "San Antonio, TX",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-29",
+      "company": "KIPP SoCal Public Schools",
+      "role": "Data Analyst",
+      "location": "Los Angeles, CA (Hybrid); Regional Support - no explicit years requirement, education/nonprofit domain preferred (real Vocareum EdTech match); Math3B->Olist->JMI angle; SQL/Tableau strong match, dbt/BigQuery/WordPress gaps softened as preferred/familiarity; no sponsorship clause; $69,076-$93,252",
       "status": "applied"
     },
     {
@@ -86,62 +142,6 @@
       "role": "Data Scientist II",
       "location": "SF/Miami/NY/Seattle hybrid\uff1btitle\u660e\u786e\"II\"\u7ea7\u522b\uff0c\"Master's degree with 2+ years of experience, or Ph.D. with 1+ years\"\u662fRequired\u5e94\u5c4a\u751f\u771f\u5b9egap\uff1bPython/SQL/ML\u5e93(scikit-learn/PyTorch)\u547d\u4e2d\uff0cSpark/PySpark/graph databases(Neo4j/Neptune)\u5168\u65b0\uff1b\"must be located within 45 miles of a talent hub\"\u9700\u8981\u5b9e\u9645\u9760\u8fd1hub\u57ce\u5e02\uff1b$140-170K+equity+bonus\uff1b\u7b7e\u8bc1\u6807\u51c6\u578b\u672a\u70b9\u540dOPT\uff1b\u672a\u5b9a\u5236\u7b80\u5386",
       "status": "skip"
-    },
-    {
-      "date_found": "2026-07-29",
-      "company": "Cruisebound",
-      "role": "Data Scientist",
-      "location": "East Coast US remote\uff1b\u660e\u786e\u6807\u6ce8\"Entry Level\"\uff0cJD\u5168\u7bc7\u65e0\u5e74\u9650\u8981\u6c42\uff1bSQL/Python(strong proficiency)+Tableau\u547d\u4e2d\uff1b**\"Desire to use AI to accelerate your work\"+\"using AI-assisted development\"JD\u53cd\u590d\u5f3a\u8c03AI-native\u6587\u5316**\uff1b$90,000-110,000+equity+\u6700\u9ad820%\u5956\u91d1\uff1b\u521b\u59cb\u56e2\u961f\u66fe\u628aRocket Travel\u505a\u5230$900M\u5356\u7ed9Booking Holdings\uff0c\u6295\u8d44\u4eba\u542bBooking.com/SPG/TripAdvisor\u9ad8\u7ba1\uff1bMath3B\u2192Olist\u2192JMI\u89d2\u5ea6\uff1b\u5b9a\u5236\u7b80\u5386(\u65e0CL)",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-29",
-      "company": "Goldman Sachs",
-      "role": "Tax, Business and Data Intelligence, Analyst",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-29",
-      "company": "Emory Healthcare",
-      "role": "Data Analyst II",
-      "location": "Atlanta, GA\uff1b**\"Bachelor's degree and 0 years of experience\"**\uff0c\u8fd9\u6279\u95e8\u69db\u6700\u53cb\u597d\u7684\u8868\u8ff0\u4e4b\u4e00\uff1b\"novice familiarity with at least one programming language\"\u8981\u6c42\u6781\u4f4e\uff0c\u4f60\u8fdc\u8d85\uff1b\u6838\u5fc3\u662fautomated reporting(\u660e\u786e\"does not require cutting & pasting\")+data exploration\u627etrend/\u5f02\u5e38\uff1b\u65f6\u85aa$32.16-39.95(\u5e74\u5316\u7ea6$66.9K-83.1K)\uff1b\u771f\u5b9e\u5927\u578b\u533b\u7597\u7cfb\u7edf\uff1bJMI\u2192Olist\u2192Math3B\u89d2\u5ea6\uff1b\u5b9a\u5236\u7b80\u5386+CL",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-29",
-      "company": "EPCVIP",
-      "role": "Product Analyst",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-29",
-      "company": "Mattel",
-      "role": "Consumer Data Analyst",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-28",
-      "company": "Alta",
-      "role": "Civic Data Analyst (Sustainable Mobility)",
-      "location": "Los Angeles",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-28",
-      "company": "Omega",
-      "role": "Junior Data Analyst - Healthcare Operations & Process Analytics",
-      "location": "San Luis Obispo, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-28",
-      "company": "WSP",
-      "role": "Early Career Project Controls Data Analyst",
-      "location": "Seattle",
-      "status": "applied"
     }
   ]
 }
