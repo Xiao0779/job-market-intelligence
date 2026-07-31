@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-30T19:39:33-07:00",
+  "refreshed_at": "2026-07-30T23:11:10-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 777,
-    "active_roles": 429,
+    "tracked_roles": 778,
+    "active_roles": 430,
     "response_rate_pct": 0.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 415,
+    "applied": 416,
     "rejected": 101,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
@@ -73,6 +73,13 @@
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-07-30",
+      "company": "Medpace",
+      "role": "Junior Data Governance Analyst",
+      "location": "Cincinnati, OH",
+      "status": "applied"
+    },
     {
       "date_found": "2026-07-29",
       "company": "Kemper",
@@ -133,15 +140,8 @@
       "date_found": "2026-07-29",
       "company": "KIPP SoCal Public Schools",
       "role": "Data Analyst",
-      "location": "Los Angeles, CA (Hybrid); Regional Support - no explicit years requirement, education/nonprofit domain preferred (real Vocareum EdTech match); Math3B->Olist->JMI angle; SQL/Tableau strong match, dbt/BigQuery/WordPress gaps softened as preferred/familiarity; no sponsorship clause; $69,076-$93,252",
+      "location": "Los Angeles, CA",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-07-29",
-      "company": "Socure",
-      "role": "Data Scientist II",
-      "location": "SF/Miami/NY/Seattle hybrid\uff1btitle\u660e\u786e\"II\"\u7ea7\u522b\uff0c\"Master's degree with 2+ years of experience, or Ph.D. with 1+ years\"\u662fRequired\u5e94\u5c4a\u751f\u771f\u5b9egap\uff1bPython/SQL/ML\u5e93(scikit-learn/PyTorch)\u547d\u4e2d\uff0cSpark/PySpark/graph databases(Neo4j/Neptune)\u5168\u65b0\uff1b\"must be located within 45 miles of a talent hub\"\u9700\u8981\u5b9e\u9645\u9760\u8fd1hub\u57ce\u5e02\uff1b$140-170K+equity+bonus\uff1b\u7b7e\u8bc1\u6807\u51c6\u578b\u672a\u70b9\u540dOPT\uff1b\u672a\u5b9a\u5236\u7b80\u5386",
-      "status": "skip"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-30T19:39:33-07:00_
+_Last refreshed: 2026-07-30T23:11:10-07:00_
 
 ## Positioning
 
@@ -10,8 +10,8 @@ _Last refreshed: 2026-07-30T19:39:33-07:00_
 
 ## Snapshot
 
-- Tracked roles: 777
-- Active roles: 429
+- Tracked roles: 778
+- Active roles: 430
 - Response rate: 0.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
@@ -20,7 +20,7 @@ _Last refreshed: 2026-07-30T19:39:33-07:00_
 
 ## Status Breakdown
 
-- applied: 415
+- applied: 416
 - applied ✅: 1
 - discarded: 5
 - evaluated: 10
@@ -31,6 +31,7 @@ _Last refreshed: 2026-07-30T19:39:33-07:00_
 
 ## Recent Activity
 
+- 2026-07-30: Medpace | Junior Data Governance Analyst | applied
 - 2026-07-29: Kemper | Associate, Audit Data Analyst | applied
 - 2026-07-29: Cruisebound | Data Scientist | applied
 - 2026-07-29: Fabletics | Data Analyst II | applied
@@ -40,7 +41,6 @@ _Last refreshed: 2026-07-30T19:39:33-07:00_
 - 2026-07-29: Mattel | Consumer Data Analyst | applied
 - 2026-07-29: SWBC | Data Analyst | applied
 - 2026-07-29: KIPP SoCal Public Schools | Data Analyst | applied
-- 2026-07-29: Socure | Data Scientist II | skip
 
 ## Recommended Opportunity Queue
 
