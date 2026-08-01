@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-30T23:11:10-07:00_
+_Last refreshed: 2026-07-31T23:15:47-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-07-30T23:11:10-07:00_
 
 ## Snapshot
 
-- Tracked roles: 778
-- Active roles: 430
-- Response rate: 0.8%
+- Tracked roles: 798
+- Active roles: 442
+- Response rate: 0.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.38
+- Average evaluated score: 3.4
 
 ## Status Breakdown
 
-- applied: 416
+- applied: 428
 - applied ✅: 1
 - discarded: 5
 - evaluated: 10
 - interview: 4
 - oa完成: 1
-- rejected: 101
-- skip: 89
+- rejected: 104
+- skip: 94
 
 ## Recent Activity
 
-- 2026-07-30: Medpace | Junior Data Governance Analyst | applied
-- 2026-07-29: Kemper | Associate, Audit Data Analyst | applied
-- 2026-07-29: Cruisebound | Data Scientist | applied
-- 2026-07-29: Fabletics | Data Analyst II | applied
-- 2026-07-29: Goldman Sachs | Tax, Business and Data Intelligence, Analyst | applied
-- 2026-07-29: Emory Healthcare | Data Analyst II | applied
-- 2026-07-29: EPCVIP | Product Analyst | applied
-- 2026-07-29: Mattel | Consumer Data Analyst | applied
-- 2026-07-29: SWBC | Data Analyst | applied
-- 2026-07-29: KIPP SoCal Public Schools | Data Analyst | applied
+- 2026-07-31: Summit Line Construction | Junior Data Analyst in Heber | applied
+- 2026-07-31: Ace | Data and Analytics Engineer | applied
+- 2026-07-31: Brown and Caldwell | Associate Data Analyst | applied
+- 2026-07-31: RPM | Associate, AI Analyst | applied
+- 2026-07-31: Perry Homes | Business Intelligence Analyst | applied
+- 2026-07-31: RaceTrac | Business Intelligence & Systems Analyst | applied
+- 2026-07-31: ISS STOXX | Enterprise Data and Operations Analyst | applied
+- 2026-07-31: NBCUniversal | Jr. Data Scientist, Business Analytics & Research | applied
+- 2026-07-31: Wedbush | Analyst, Strategy & Data Analytics | applied
+- 2026-07-31: Gridsight | Customer Data Analyst | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-07-30T23:11:10-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 140 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 140 days with no response
-- Google | Software Engineer II, Early Career | 136 days with no response
-- Apple | AIML - Machine Learning Research | 129 days with no response
-- Amazon | Data Engineer II | 127 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 127 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 127 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 127 days with no response
-- Esri | Product Test Engineer II - Feature Server | 127 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 127 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 141 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 141 days with no response
+- Google | Software Engineer II, Early Career | 137 days with no response
+- Apple | AIML - Machine Learning Research | 130 days with no response
+- Amazon | Data Engineer II | 128 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 128 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 128 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 128 days with no response
+- Esri | Product Test Engineer II - Feature Server | 128 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 128 days with no response

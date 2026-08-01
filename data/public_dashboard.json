@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-30T23:11:10-07:00",
+  "refreshed_at": "2026-07-31T23:15:47-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 778,
-    "active_roles": 430,
-    "response_rate_pct": 0.8,
+    "tracked_roles": 798,
+    "active_roles": 442,
+    "response_rate_pct": 0.7,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.38
+    "avg_evaluated_score": 3.4
   },
   "status_counts": {
     "interview": 4,
-    "applied": 416,
-    "rejected": 101,
+    "applied": 428,
+    "rejected": 104,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
-    "skip": 89,
+    "skip": 94,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,73 +74,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-07-30",
-      "company": "Medpace",
-      "role": "Junior Data Governance Analyst",
-      "location": "Cincinnati, OH",
+      "date_found": "2026-07-31",
+      "company": "Summit Line Construction",
+      "role": "Junior Data Analyst in Heber",
+      "location": "Heber",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-29",
-      "company": "Kemper",
-      "role": "Associate, Audit Data Analyst",
-      "location": "Chicago",
+      "date_found": "2026-07-31",
+      "company": "Ace",
+      "role": "Data and Analytics Engineer",
+      "location": "San Diego",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-29",
-      "company": "Cruisebound",
-      "role": "Data Scientist",
-      "location": "Remote",
+      "date_found": "2026-07-31",
+      "company": "Brown and Caldwell",
+      "role": "Associate Data Analyst",
+      "location": "Seattle",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-29",
-      "company": "Fabletics",
-      "role": "Data Analyst II",
-      "location": "El Segundo, CA",
+      "date_found": "2026-07-31",
+      "company": "RPM",
+      "role": "Associate, AI Analyst",
+      "location": "Medina, OH",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-29",
-      "company": "Goldman Sachs",
-      "role": "Tax, Business and Data Intelligence, Analyst",
-      "location": "Jersey City, NJ",
+      "date_found": "2026-07-31",
+      "company": "Perry Homes",
+      "role": "Business Intelligence Analyst",
+      "location": "Houston, TX",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-29",
-      "company": "Emory Healthcare",
-      "role": "Data Analyst II",
+      "date_found": "2026-07-31",
+      "company": "RaceTrac",
+      "role": "Business Intelligence & Systems Analyst",
       "location": "Atlanta, GA",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-29",
-      "company": "EPCVIP",
-      "role": "Product Analyst",
-      "location": "Calabasas, CA",
+      "date_found": "2026-07-31",
+      "company": "ISS STOXX",
+      "role": "Enterprise Data and Operations Analyst",
+      "location": "Norman, OK",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-29",
-      "company": "Mattel",
-      "role": "Consumer Data Analyst",
-      "location": "El Segundo, CA",
+      "date_found": "2026-07-31",
+      "company": "NBCUniversal",
+      "role": "Jr. Data Scientist, Business Analytics & Research",
+      "location": "Universal City, CA",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-29",
-      "company": "SWBC",
-      "role": "Data Analyst",
-      "location": "San Antonio, TX",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-29",
-      "company": "KIPP SoCal Public Schools",
-      "role": "Data Analyst",
+      "date_found": "2026-07-31",
+      "company": "Wedbush",
+      "role": "Analyst, Strategy & Data Analytics",
       "location": "Los Angeles, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-07-31",
+      "company": "Gridsight",
+      "role": "Customer Data Analyst",
+      "location": "San Francisco",
       "status": "applied"
     }
   ]
