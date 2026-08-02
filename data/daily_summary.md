@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-07-31T23:15:47-07:00_
+_Last refreshed: 2026-08-01T22:58:32-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-07-31T23:15:47-07:00_
 
 ## Snapshot
 
-- Tracked roles: 798
-- Active roles: 442
+- Tracked roles: 815
+- Active roles: 455
 - Response rate: 0.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.4
+- Average evaluated score: 3.41
 
 ## Status Breakdown
 
-- applied: 428
+- applied: 441
 - applied ✅: 1
 - discarded: 5
 - evaluated: 10
 - interview: 4
 - oa完成: 1
-- rejected: 104
-- skip: 94
+- rejected: 105
+- skip: 97
 
 ## Recent Activity
 
-- 2026-07-31: Summit Line Construction | Junior Data Analyst in Heber | applied
-- 2026-07-31: Ace | Data and Analytics Engineer | applied
-- 2026-07-31: Brown and Caldwell | Associate Data Analyst | applied
-- 2026-07-31: RPM | Associate, AI Analyst | applied
-- 2026-07-31: Perry Homes | Business Intelligence Analyst | applied
-- 2026-07-31: RaceTrac | Business Intelligence & Systems Analyst | applied
-- 2026-07-31: ISS STOXX | Enterprise Data and Operations Analyst | applied
-- 2026-07-31: NBCUniversal | Jr. Data Scientist, Business Analytics & Research | applied
-- 2026-07-31: Wedbush | Analyst, Strategy & Data Analytics | applied
-- 2026-07-31: Gridsight | Customer Data Analyst | applied
+- 2026-08-01: Nexxen | Analyst, Discovery | applied
+- 2026-08-01: Curinos | Data Analyst, Technical Success | applied
+- 2026-08-01: Gas South | Operations Analyst | applied
+- 2026-08-01: Maverick Quantum | Business Analyst - Entry Level | applied
+- 2026-08-01: Great American | Data Reporting Analyst - Financial Institution Services | applied
+- 2026-08-01: Kinetik | Financial Systems & Analytics Analyst | applied
+- 2026-08-01: Lumber | Junior Product Analyst (FinTech & Platform) | applied
+- 2026-08-01: Boston Children’s Hospital | Healthcare Data Analyst I | applied
+- 2026-08-01: NYU Langone | Data Analyst, Center of Surgical and Transplant Applied Research (CSTAR) | applied
+- 2026-08-01: Zynga | Data Analyst | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-07-31T23:15:47-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 141 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 141 days with no response
-- Google | Software Engineer II, Early Career | 137 days with no response
-- Apple | AIML - Machine Learning Research | 130 days with no response
-- Amazon | Data Engineer II | 128 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 128 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 128 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 128 days with no response
-- Esri | Product Test Engineer II - Feature Server | 128 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 128 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 142 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 142 days with no response
+- Google | Software Engineer II, Early Career | 138 days with no response
+- Apple | AIML - Machine Learning Research | 131 days with no response
+- Amazon | Data Engineer II | 129 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 129 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 129 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 129 days with no response
+- Esri | Product Test Engineer II - Feature Server | 129 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 129 days with no response

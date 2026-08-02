@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-31T23:15:47-07:00",
+  "refreshed_at": "2026-08-01T22:58:32-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 798,
-    "active_roles": 442,
+    "tracked_roles": 815,
+    "active_roles": 455,
     "response_rate_pct": 0.7,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.4
+    "avg_evaluated_score": 3.41
   },
   "status_counts": {
     "interview": 4,
-    "applied": 428,
-    "rejected": 104,
+    "applied": 441,
+    "rejected": 105,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
-    "skip": 94,
+    "skip": 97,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,73 +74,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-07-31",
-      "company": "Summit Line Construction",
-      "role": "Junior Data Analyst in Heber",
-      "location": "Heber",
+      "date_found": "2026-08-01",
+      "company": "Nexxen",
+      "role": "Analyst, Discovery",
+      "location": "Los Angeles",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-31",
-      "company": "Ace",
-      "role": "Data and Analytics Engineer",
-      "location": "San Diego",
+      "date_found": "2026-08-01",
+      "company": "Curinos",
+      "role": "Data Analyst, Technical Success",
+      "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-31",
-      "company": "Brown and Caldwell",
-      "role": "Associate Data Analyst",
-      "location": "Seattle",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-31",
-      "company": "RPM",
-      "role": "Associate, AI Analyst",
-      "location": "Medina, OH",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-31",
-      "company": "Perry Homes",
-      "role": "Business Intelligence Analyst",
-      "location": "Houston, TX",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-07-31",
-      "company": "RaceTrac",
-      "role": "Business Intelligence & Systems Analyst",
+      "date_found": "2026-08-01",
+      "company": "Gas South",
+      "role": "Operations Analyst",
       "location": "Atlanta, GA",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-31",
-      "company": "ISS STOXX",
-      "role": "Enterprise Data and Operations Analyst",
-      "location": "Norman, OK",
+      "date_found": "2026-08-01",
+      "company": "Maverick Quantum",
+      "role": "Business Analyst - Entry Level",
+      "location": "Schenectady, NY",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-31",
-      "company": "NBCUniversal",
-      "role": "Jr. Data Scientist, Business Analytics & Research",
-      "location": "Universal City, CA",
+      "date_found": "2026-08-01",
+      "company": "Great American",
+      "role": "Data Reporting Analyst - Financial Institution Services",
+      "location": "Cincinnati, OH",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-31",
-      "company": "Wedbush",
-      "role": "Analyst, Strategy & Data Analytics",
-      "location": "Los Angeles, CA",
+      "date_found": "2026-08-01",
+      "company": "Kinetik",
+      "role": "Financial Systems & Analytics Analyst",
+      "location": "Houston, TX",
       "status": "applied"
     },
     {
-      "date_found": "2026-07-31",
-      "company": "Gridsight",
-      "role": "Customer Data Analyst",
-      "location": "San Francisco",
+      "date_found": "2026-08-01",
+      "company": "Lumber",
+      "role": "Junior Product Analyst (FinTech & Platform)",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-01",
+      "company": "Boston Children\u2019s Hospital",
+      "role": "Healthcare Data Analyst I",
+      "location": "Boston",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-01",
+      "company": "NYU Langone",
+      "role": "Data Analyst, Center of Surgical and Transplant Applied Research (CSTAR)",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-01",
+      "company": "Zynga",
+      "role": "Data Analyst",
+      "location": "Chicago",
       "status": "applied"
     }
   ]
