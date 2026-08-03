@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-01T22:58:32-07:00_
+_Last refreshed: 2026-08-02T23:25:46-07:00_
 
 ## Positioning
 
@@ -10,8 +10,8 @@ _Last refreshed: 2026-08-01T22:58:32-07:00_
 
 ## Snapshot
 
-- Tracked roles: 815
-- Active roles: 455
+- Tracked roles: 826
+- Active roles: 463
 - Response rate: 0.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
@@ -20,27 +20,27 @@ _Last refreshed: 2026-08-01T22:58:32-07:00_
 
 ## Status Breakdown
 
-- applied: 441
+- applied: 449
 - applied ✅: 1
 - discarded: 5
 - evaluated: 10
 - interview: 4
 - oa完成: 1
 - rejected: 105
-- skip: 97
+- skip: 100
 
 ## Recent Activity
 
-- 2026-08-01: Nexxen | Analyst, Discovery | applied
-- 2026-08-01: Curinos | Data Analyst, Technical Success | applied
-- 2026-08-01: Gas South | Operations Analyst | applied
-- 2026-08-01: Maverick Quantum | Business Analyst - Entry Level | applied
-- 2026-08-01: Great American | Data Reporting Analyst - Financial Institution Services | applied
-- 2026-08-01: Kinetik | Financial Systems & Analytics Analyst | applied
-- 2026-08-01: Lumber | Junior Product Analyst (FinTech & Platform) | applied
-- 2026-08-01: Boston Children’s Hospital | Healthcare Data Analyst I | applied
-- 2026-08-01: NYU Langone | Data Analyst, Center of Surgical and Transplant Applied Research (CSTAR) | applied
-- 2026-08-01: Zynga | Data Analyst | applied
+- 2026-08-02: Petco | Analyst, Business Intelligence - Stores | applied
+- 2026-08-02: PWX Solutions | Junior Data Analyst | applied
+- 2026-08-02: Mayo Clinic | Associate Data Science Analyst | applied
+- 2026-08-02: Turner & Townsend | Digital Construction Project Analyst – Graduate Development Program | applied
+- 2026-08-02: Defender Association | Data Analyst | applied
+- 2026-08-02: PWX Solutions (a PubWorX Company) | Junior Data Analyst | applied
+- 2026-08-02: Mayo Clinic | Associate Data Science Analyst - AI & Informatics | applied
+- 2026-08-02: The Defender Association of Philadelphia | Data Analyst - Police Accountability Unit | applied
+- 2026-08-02: SRS Acquiom | Data Imports Analyst | skip
+- 2026-08-02: City of Roseville (CA) | Database Analyst I/II | skip
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-08-01T22:58:32-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 142 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 142 days with no response
-- Google | Software Engineer II, Early Career | 138 days with no response
-- Apple | AIML - Machine Learning Research | 131 days with no response
-- Amazon | Data Engineer II | 129 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 129 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 129 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 129 days with no response
-- Esri | Product Test Engineer II - Feature Server | 129 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 129 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 143 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 143 days with no response
+- Google | Software Engineer II, Early Career | 139 days with no response
+- Apple | AIML - Machine Learning Research | 132 days with no response
+- Amazon | Data Engineer II | 130 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 130 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 130 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 130 days with no response
+- Esri | Product Test Engineer II - Feature Server | 130 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 130 days with no response

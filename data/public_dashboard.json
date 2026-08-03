@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-01T22:58:32-07:00",
+  "refreshed_at": "2026-08-02T23:25:46-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 815,
-    "active_roles": 455,
+    "tracked_roles": 826,
+    "active_roles": 463,
     "response_rate_pct": 0.7,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,11 +22,11 @@
   },
   "status_counts": {
     "interview": 4,
-    "applied": 441,
+    "applied": 449,
     "rejected": 105,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
-    "skip": 97,
+    "skip": 100,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,74 +74,74 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-08-01",
-      "company": "Nexxen",
-      "role": "Analyst, Discovery",
-      "location": "Los Angeles",
+      "date_found": "2026-08-02",
+      "company": "Petco",
+      "role": "Analyst, Business Intelligence - Stores",
+      "location": "San Diego",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-01",
-      "company": "Curinos",
-      "role": "Data Analyst, Technical Success",
+      "date_found": "2026-08-02",
+      "company": "PWX Solutions",
+      "role": "Junior Data Analyst",
       "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-01",
-      "company": "Gas South",
-      "role": "Operations Analyst",
-      "location": "Atlanta, GA",
+      "date_found": "2026-08-02",
+      "company": "Mayo Clinic",
+      "role": "Associate Data Science Analyst",
+      "location": "Jacksonville, FL",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-01",
-      "company": "Maverick Quantum",
-      "role": "Business Analyst - Entry Level",
-      "location": "Schenectady, NY",
+      "date_found": "2026-08-02",
+      "company": "Turner & Townsend",
+      "role": "Digital Construction Project Analyst \u2013 Graduate Development Program",
+      "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-01",
-      "company": "Great American",
-      "role": "Data Reporting Analyst - Financial Institution Services",
-      "location": "Cincinnati, OH",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-01",
-      "company": "Kinetik",
-      "role": "Financial Systems & Analytics Analyst",
-      "location": "Houston, TX",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-01",
-      "company": "Lumber",
-      "role": "Junior Product Analyst (FinTech & Platform)",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-01",
-      "company": "Boston Children\u2019s Hospital",
-      "role": "Healthcare Data Analyst I",
-      "location": "Boston",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-01",
-      "company": "NYU Langone",
-      "role": "Data Analyst, Center of Surgical and Transplant Applied Research (CSTAR)",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-01",
-      "company": "Zynga",
+      "date_found": "2026-08-02",
+      "company": "Defender Association",
       "role": "Data Analyst",
-      "location": "Chicago",
+      "location": "Philadelphia, PA",
       "status": "applied"
+    },
+    {
+      "date_found": "2026-08-02",
+      "company": "PWX Solutions (a PubWorX Company)",
+      "role": "Junior Data Analyst",
+      "location": "NY, mostly remote (2-3x/month office); real company (Hearst/Conde Nast JV founded 2016) but Glassdoor 1.4/5 parent + poor PWX-specific reviews (\"Avoid at all costs\"); JD itself friendly - portfolio/self-directed projects explicitly count as experience, SQL+Python+Git core match, AI-assisted tools valued; JMI->Olist->Math3B angle; applied via direct email to amanda.maguire@pwxsolutions.com",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-02",
+      "company": "Mayo Clinic",
+      "role": "Associate Data Science Analyst - AI & Informatics",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-02",
+      "company": "The Defender Association of Philadelphia",
+      "role": "Data Analyst - Police Accountability Unit",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-02",
+      "company": "SRS Acquiom",
+      "role": "Data Imports Analyst",
+      "location": "Remote (Pacific Time strongly preferred - matches Xiao's actual timezone, unusual positive); real M&A/loan agency transaction services co; \"1 year\" friendly but core role is Excel-only data entry/NetSuite import validation, zero SQL/Python/dashboard use, same pattern as SLA/PSS Cross Country cases; Xiao agreed skip",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-08-02",
+      "company": "City of Roseville (CA)",
+      "role": "Database Analyst I/II",
+      "location": "",
+      "status": "skip"
     }
   ]
 }
