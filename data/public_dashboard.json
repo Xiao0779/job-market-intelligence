@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-02T23:25:46-07:00",
+  "refreshed_at": "2026-08-03T23:33:47-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 826,
-    "active_roles": 463,
+    "tracked_roles": 830,
+    "active_roles": 466,
     "response_rate_pct": 0.7,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.41
+    "avg_evaluated_score": 3.42
   },
   "status_counts": {
     "interview": 4,
-    "applied": 449,
+    "applied": 452,
     "rejected": 105,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
-    "skip": 100,
+    "skip": 101,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,6 +74,34 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-08-03",
+      "company": "Google",
+      "role": "Analytical Lead Associate, Sales Associate Program (English)",
+      "location": "Chicago IL; Large Customer Sales team, ad sales analytics support (short-term assignments/rotational); Google\u6700\u540e1\u4e2a\u5185\u63a8\u540d\u989d(\u5468\u6960, 8/8\u622a\u6b62); customer segmentation/lifetime-value/attribution match JD directly; Olist(cohort retention+seller segmentation\u91cd\u5199)->Churn->JMI(data integration); Vocareum B1+B3(\u53bbB2); CL required",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-03",
+      "company": "University of Arizona",
+      "role": "Data Analyst, Level I (Institutional Research)",
+      "location": "Remote; Office of Institutional Research reporting to leadership/faculty/staff; domain\u51e0\u4e4e\u5b8c\u7f8e\u5339\u914dMath3B(\u771f\u5b9e\u5b66\u751f\u6570\u636einstitutional research\u6027\u8d28); Bachelor's\u8d77\u70b9+\"1yr may be required\"\u8f6f\u95e8\u69db; Math3B(institutional research\u89d2\u5ea6\u91cd\u5199)->Olist->JMI; \u6807\u51c6no-sponsorship\u672a\u70b9\u540dOPT; deadline 8/10; $53,039-$66,299",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-03",
+      "company": "Garmin",
+      "role": "Data Scientist 1",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-03",
+      "company": "Stanford University",
+      "role": "Research Data Analyst 1 (Lattice team, CZ CELLxGENE Discover)",
+      "location": "",
+      "status": "skip"
+    },
+    {
       "date_found": "2026-08-02",
       "company": "Petco",
       "role": "Analyst, Business Intelligence - Stores",
@@ -114,34 +142,6 @@
       "role": "Junior Data Analyst",
       "location": "NY, mostly remote (2-3x/month office); real company (Hearst/Conde Nast JV founded 2016) but Glassdoor 1.4/5 parent + poor PWX-specific reviews (\"Avoid at all costs\"); JD itself friendly - portfolio/self-directed projects explicitly count as experience, SQL+Python+Git core match, AI-assisted tools valued; JMI->Olist->Math3B angle; applied via direct email to amanda.maguire@pwxsolutions.com",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-08-02",
-      "company": "Mayo Clinic",
-      "role": "Associate Data Science Analyst - AI & Informatics",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-02",
-      "company": "The Defender Association of Philadelphia",
-      "role": "Data Analyst - Police Accountability Unit",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-02",
-      "company": "SRS Acquiom",
-      "role": "Data Imports Analyst",
-      "location": "Remote (Pacific Time strongly preferred - matches Xiao's actual timezone, unusual positive); real M&A/loan agency transaction services co; \"1 year\" friendly but core role is Excel-only data entry/NetSuite import validation, zero SQL/Python/dashboard use, same pattern as SLA/PSS Cross Country cases; Xiao agreed skip",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-02",
-      "company": "City of Roseville (CA)",
-      "role": "Database Analyst I/II",
-      "location": "",
-      "status": "skip"
     }
   ]
 }

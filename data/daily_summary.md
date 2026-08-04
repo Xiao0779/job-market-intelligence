@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-02T23:25:46-07:00_
+_Last refreshed: 2026-08-03T23:33:47-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-08-02T23:25:46-07:00_
 
 ## Snapshot
 
-- Tracked roles: 826
-- Active roles: 463
+- Tracked roles: 830
+- Active roles: 466
 - Response rate: 0.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.41
+- Average evaluated score: 3.42
 
 ## Status Breakdown
 
-- applied: 449
+- applied: 452
 - applied ✅: 1
 - discarded: 5
 - evaluated: 10
 - interview: 4
 - oa完成: 1
 - rejected: 105
-- skip: 100
+- skip: 101
 
 ## Recent Activity
 
+- 2026-08-03: Google | Analytical Lead Associate, Sales Associate Program (English) | applied
+- 2026-08-03: University of Arizona | Data Analyst, Level I (Institutional Research) | applied
+- 2026-08-03: Garmin | Data Scientist 1 | applied
+- 2026-08-03: Stanford University | Research Data Analyst 1 (Lattice team, CZ CELLxGENE Discover) | skip
 - 2026-08-02: Petco | Analyst, Business Intelligence - Stores | applied
 - 2026-08-02: PWX Solutions | Junior Data Analyst | applied
 - 2026-08-02: Mayo Clinic | Associate Data Science Analyst | applied
 - 2026-08-02: Turner & Townsend | Digital Construction Project Analyst – Graduate Development Program | applied
 - 2026-08-02: Defender Association | Data Analyst | applied
 - 2026-08-02: PWX Solutions (a PubWorX Company) | Junior Data Analyst | applied
-- 2026-08-02: Mayo Clinic | Associate Data Science Analyst - AI & Informatics | applied
-- 2026-08-02: The Defender Association of Philadelphia | Data Analyst - Police Accountability Unit | applied
-- 2026-08-02: SRS Acquiom | Data Imports Analyst | skip
-- 2026-08-02: City of Roseville (CA) | Database Analyst I/II | skip
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-08-02T23:25:46-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 143 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 143 days with no response
-- Google | Software Engineer II, Early Career | 139 days with no response
-- Apple | AIML - Machine Learning Research | 132 days with no response
-- Amazon | Data Engineer II | 130 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 130 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 130 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 130 days with no response
-- Esri | Product Test Engineer II - Feature Server | 130 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 130 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 144 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 144 days with no response
+- Google | Software Engineer II, Early Career | 140 days with no response
+- Apple | AIML - Machine Learning Research | 133 days with no response
+- Amazon | Data Engineer II | 131 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 131 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 131 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 131 days with no response
+- Esri | Product Test Engineer II - Feature Server | 131 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 131 days with no response
