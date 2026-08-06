@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-04T23:30:17-07:00",
+  "refreshed_at": "2026-08-05T23:54:42-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 842,
-    "active_roles": 471,
-    "response_rate_pct": 0.7,
+    "tracked_roles": 862,
+    "active_roles": 483,
+    "response_rate_pct": 0.9,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.4
+    "avg_evaluated_score": 3.39
   },
   "status_counts": {
-    "interview": 4,
-    "applied": 457,
-    "rejected": 105,
+    "interview": 5,
+    "applied": 468,
+    "rejected": 106,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
-    "skip": 108,
+    "skip": 115,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,72 +74,72 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-08-04",
-      "company": "Siemens Industry",
-      "role": "Jr. Data Analyst - Tableau/SQL",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-04",
-      "company": "Protect Democracy (VoteShield)",
-      "role": "Data Scientist",
-      "location": "Remote\u5168\u7f8e; $84.3-94K; deadline 8/28\u4e0d\u7d27\u8feb; \"a relevant bachelor's degree or equivalent experience\"\u5b8c\u5168\u65e0\u5e74\u9650\u95e8\u69db; Python\u6838\u5fc3\u8981\u6c42+CSS\u5b66\u4f4d\u5929\u7136\u5951\u5408civic/public data domain; \"expand and enrich data with external datasets\"\u76f4\u63a5\u5bf9\u5e94JMI; JMI(\u6570\u636e\u6574\u5408)->Olist(\u975e\u6280\u672f\u62a5\u544a)->Math3B; Vocareum B1+B3; CL\u8bda\u5b9e\u8bf4\u660e\u65e0\u9009\u4e3e\u884c\u653f\u80cc\u666f; +CL+3\u9053screening questions\u5df2\u7b54(project impact/excited bullets/mission resonance)",
+      "date_found": "2026-08-05",
+      "company": "PSE",
+      "role": "Associate Load Forecasting Analyst",
+      "location": "Bellevue, WA",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-04",
-      "company": "Darling Consulting Group",
-      "role": "Associate Data Analyst",
+      "date_found": "2026-08-05",
+      "company": "Thorlabs",
+      "role": "Data Analyst I",
+      "location": "Newton, NJ",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-05",
+      "company": "Applied Materials",
+      "role": "Data Scientist - Agentic AI / ML",
+      "location": "Santa Clara,CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-05",
+      "company": "Ol\u00e9 Mexican Foods",
+      "role": "Data Analyst Jr.",
+      "location": "Norcross, GA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-05",
+      "company": "KlariVis",
+      "role": "Junior Data Engineer",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-05",
+      "company": "Puget Sound Energy",
+      "role": "Associate Load Forecasting Analyst",
       "location": "",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-04",
-      "company": "Lansing Building Products",
-      "role": "Junior Business Intelligence Analyst",
+      "date_found": "2026-08-05",
+      "company": "Ol\u00e9 Mexican Foods",
+      "role": "Business Intelligence Analyst (Data Analyst Jr.)",
       "location": "",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-04",
-      "company": "LSEG (FTSE Russell)",
-      "role": "Fixed Income Data Analyst",
+      "date_found": "2026-08-05",
+      "company": "Cursor (Anysphere)",
+      "role": "Data Analyst, User Operations",
+      "location": "Remote US; \"You may be a fit if\"\u6bb5\u843d\u660e\u786e\u5199\"5+ years of experience\"\u85cf\u5728body text\u91cc\u975etitle\u7ea7Senior/Lead\u6807\u6ce8,\u547d\u4e2d\u9ed1\u540d\u5355\u89c4\u5219; \u9700\u8981dbt/\u751f\u4ea7\u7ea7reporting owner\u7ecf\u9a8c,title\u5199Data Analyst\u5b9e\u8d28\u662f\u8d44\u6df1analytics owner\u89d2\u8272",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-08-05",
+      "company": "Everforth Apex (Apex Systems)",
+      "role": "Data Analyst I, Asset Data Management",
       "location": "",
       "status": "skip"
     },
     {
-      "date_found": "2026-08-04",
-      "company": "NYC Department of Transportation",
-      "role": "Data Analyst, Transit Development",
-      "location": "New York NY, Remote\u6700\u591a2\u5929/\u5468; Transit Signal Priority\u9879\u76ee\u6570\u636e\u5206\u6790; \u65e0\u5e74\u9650\u95e8\u69db; \"CAD/Synchro/GIS desirable\"\u70b9\u540dGIS(\u89c4\u5f8b12), B.S. Geographic Information Science\u771f\u5b9e\u52a0\u5206\u9879; JD\u5c3e\u90e8\u6df7\u5165\u4e0d\u76f8\u5173Community Coordinator\u8d44\u683c\u6587\u672c(\u653f\u5e9c\u62db\u8058\u7cfb\u7edf\u6a21\u677f\u62fc\u63a5\u9519\u8bef,\u5df2\u63d0\u9192Xiao); \"new hires must reside in NYC within 2 years\"\u884c\u653f\u89c4\u5b9a\u975evisa\u95ee\u9898; GIS\u672c\u79d1\u8bba\u6587(\u91cd\u65b0\u62ff\u56de)->Olist->JMI; Vocareum\u4ec5B1; +CL, \"message to hiring team\"screening question\u5df2\u7b54",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-03",
-      "company": "Rincon Consultants",
-      "role": "GIS Analyst",
-      "location": "Ventura CA(San Diego office eligible) Hybrid; degree\u76f4\u63a5\u547d\u4e2dB.S. Geographic Information Science\u4f461yr A/E/C\u73af\u5883\u54a8\u8be2\u7ecf\u9a8c\u662f\u771f\u5b9egap; web GIS(ArcGIS Online/Survey123/Field Maps)\u8ddf\u672c\u79d1\u684c\u9762\u7aefArcGIS+\u9065\u611f\u662f\u4e0d\u540c\u5206\u652f; \u6838\u5fc3\u95ee\u9898\u662f\u65b9\u5411\u5012\u9000\u56deGIS/\u73af\u5883\u54a8\u8be2\u800c\u975eDA/DS/AI-native\u65b9\u5411, Xiao\u786e\u8ba4\u9009\u62e9skip",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-03",
-      "company": "Monster Energy",
-      "role": "Analyst, Logistics TMS",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-03",
-      "company": "Freddie Mac",
-      "role": "Single-Family Data Analyst (College Analyst Cohort)",
-      "location": "Remote; \u786c\u6027\u8d44\u683c\u4e0d\u7b26\u2014\u2014\u8981\u6c422026\u5e7412\u6708\u62162027\u5e745\u6708\u6bd5\u4e1a(Xiao\u5df22026\u5e746\u6708\u6bd5\u4e1a), \u8d77\u59cb\u65e5\u671f2027\u5e741/6\u6708, \u8ddfLPL FAR Program\u540c\u7c7b\"\u6bd5\u4e1a\u65f6\u95f4\u7a97\u53e3\u4e0d\u7b26\"\u6848\u4f8b; \u5176\u4f59\u6761\u4ef6(quant\u5b66\u4f4d/statistics/$63-95K)\u672c\u8eab\u4e0d\u9519\u4f46\u8d44\u683c\u7ebf\u5361\u6b7b",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-03",
-      "company": "Salem Five",
-      "role": "Retail Information Analyst I",
+      "date_found": "2026-08-05",
+      "company": "FedPoint",
+      "role": "Associate Data Analyst (FLTCIP BA & QA)",
       "location": "",
       "status": "skip"
     }
