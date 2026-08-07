@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-05T23:54:42-07:00_
+_Last refreshed: 2026-08-06T23:45:30-07:00_
 
 ## Positioning
 
@@ -10,8 +10,8 @@ _Last refreshed: 2026-08-05T23:54:42-07:00_
 
 ## Snapshot
 
-- Tracked roles: 862
-- Active roles: 483
+- Tracked roles: 868
+- Active roles: 485
 - Response rate: 0.9%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
@@ -20,27 +20,27 @@ _Last refreshed: 2026-08-05T23:54:42-07:00_
 
 ## Status Breakdown
 
-- applied: 468
+- applied: 470
 - applied ✅: 1
 - discarded: 5
 - evaluated: 10
 - interview: 5
 - oa完成: 1
 - rejected: 106
-- skip: 115
+- skip: 119
 
 ## Recent Activity
 
+- 2026-08-06: Delta Air Lines | Analyst, Retailing and Reporting - Revenue Management | applied
+- 2026-08-06: UCLA Voting Rights Project | Research Data Analyst 1 | applied
+- 2026-08-06: Western Alliance Bank | Data Analyst (Analytics & Reporting) | skip
+- 2026-08-06: FloMed Infusion | Data Engineer Associate | skip
+- 2026-08-06: Monster Energy | Junior SAP Data Analyst | skip
+- 2026-08-06: R3 Continuum | Data Analyst I | skip
 - 2026-08-05: PSE | Associate Load Forecasting Analyst | applied
 - 2026-08-05: Thorlabs | Data Analyst I | applied
 - 2026-08-05: Applied Materials | Data Scientist - Agentic AI / ML | applied
 - 2026-08-05: Olé Mexican Foods | Data Analyst Jr. | applied
-- 2026-08-05: KlariVis | Junior Data Engineer | applied
-- 2026-08-05: Puget Sound Energy | Associate Load Forecasting Analyst | applied
-- 2026-08-05: Olé Mexican Foods | Business Intelligence Analyst (Data Analyst Jr.) | applied
-- 2026-08-05: Cursor (Anysphere) | Data Analyst, User Operations | skip
-- 2026-08-05: Everforth Apex (Apex Systems) | Data Analyst I, Asset Data Management | skip
-- 2026-08-05: FedPoint | Associate Data Analyst (FLTCIP BA & QA) | skip
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-08-05T23:54:42-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 146 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 146 days with no response
-- Google | Software Engineer II, Early Career | 142 days with no response
-- Apple | AIML - Machine Learning Research | 135 days with no response
-- Amazon | Data Engineer II | 133 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 133 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 133 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 133 days with no response
-- Esri | Product Test Engineer II - Feature Server | 133 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 133 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 147 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 147 days with no response
+- Google | Software Engineer II, Early Career | 143 days with no response
+- Apple | AIML - Machine Learning Research | 136 days with no response
+- Amazon | Data Engineer II | 134 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 134 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 134 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 134 days with no response
+- Esri | Product Test Engineer II - Feature Server | 134 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 134 days with no response

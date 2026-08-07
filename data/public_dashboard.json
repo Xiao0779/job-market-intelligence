@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-05T23:54:42-07:00",
+  "refreshed_at": "2026-08-06T23:45:30-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 862,
-    "active_roles": 483,
+    "tracked_roles": 868,
+    "active_roles": 485,
     "response_rate_pct": 0.9,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,11 +22,11 @@
   },
   "status_counts": {
     "interview": 5,
-    "applied": 468,
+    "applied": 470,
     "rejected": 106,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
-    "skip": 115,
+    "skip": 119,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,6 +74,48 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-08-06",
+      "company": "Delta Air Lines",
+      "role": "Analyst, Retailing and Reporting - Revenue Management",
+      "location": "Atlanta GA; Minimum Qualifications\u4ec5\"0-2 years or internships\"+High School Diploma\u8d77\u70b9,Bachelor's\u53ea\u5728Preferred; SQL/Python/R/Tableau\u5168\u90e8\"basic\"\u7ea7\u522b\u547d\u4e2d; \u822a\u7a7arevenue management domain\u4e0d\u5728Minimum Qualifications\u91cc,\u660e\u786e\"work with senior analysts\"\u5b66\u4e60\u6027\u8d28; Delta\u771f\u5b9e\u77e5\u540d\u822a\u53f8; Olist(SQL+dashboard)->JMI(\u6570\u636e\u6e05\u6d17\u6574\u5408)->Math3B; Vocareum B1+B3; +CL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-06",
+      "company": "UCLA Voting Rights Project",
+      "role": "Research Data Analyst 1",
+      "location": "Los Angeles CA(UCLA); \"Strong skills in R, GIS and data visualization\"\u660e\u786eRequired\u76f4\u63a5\u547d\u4e2d\u672c\u79d1GIS\u5b66\u4f4d+Math3B/Causal\u9879\u76eeR\u7ecf\u9a8c; \u5b66\u5386\u8981\u6c42\"computer science, political science, statistics, data science\"\u51e0\u4e4e\u4e3aCSS\u5b66\u4f4d\u91cf\u8eab\u5b9a\u5236; \u5b8c\u5168\u65e0\u5e74\u9650\u7ecf\u9a8c\u8981\u6c42; causal inference/ML\u662fPreferred\u547c\u5e94Causal Analysis\u9879\u76ee; UCLA\u771f\u5b9e\u5b66\u672f\u7814\u7a76\u4e2d\u5fc3(Matt Barreto/Chad Dunn\u521b\u7acb); GIS\u672c\u79d1\u8bba\u6587(headline)->Math3B(R\u5b9e\u6218)->Causal Analysis(\u6807\u6ce8simulated data); Vocareum B1; +CL, \u8fd9\u6279\u8d28\u91cf\u6700\u9ad8\u5339\u914d\u4e4b\u4e00",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-06",
+      "company": "Western Alliance Bank",
+      "role": "Data Analyst (Analytics & Reporting)",
+      "location": "",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-08-06",
+      "company": "FloMed Infusion",
+      "role": "Data Engineer Associate",
+      "location": "",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-08-06",
+      "company": "Monster Energy",
+      "role": "Junior SAP Data Analyst",
+      "location": "",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-08-06",
+      "company": "R3 Continuum",
+      "role": "Data Analyst I",
+      "location": "Minneapolis MN remote(\u9700\u672c\u5730\u901a\u52e4\u8303\u56f4); Required Skills\u5806\u4e86SSRS\u62a5\u8868\u5f00\u53d1+Power BI\u542bDAX\u548cM language+SharePoint/Power Platform\u4e00\u6574\u5957Microsoft BI\u6280\u672f\u6808,\u5b8c\u5168\u6ca1\u6709Python/R,\u8ddf\u73b0\u6709\u6280\u80fd\u6808\u91cd\u53e0\u4f4e; \u65f6\u85aa$24.83-28.65(\u5e74\u5316\u7ea6$51.6-59.6K)\u504foperational\u5c42\u7ea7\u4fe1\u53f7; \u516c\u53f8\u771f\u5b9e(\u5458\u5de5\u63f4\u52a9/\u5371\u673a\u54cd\u5e94\u670d\u52a1,Best and Brightest\u96c7\u4e3b\u8ba4\u8bc1)",
+      "status": "skip"
+    },
+    {
       "date_found": "2026-08-05",
       "company": "PSE",
       "role": "Associate Load Forecasting Analyst",
@@ -100,48 +142,6 @@
       "role": "Data Analyst Jr.",
       "location": "Norcross, GA",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-08-05",
-      "company": "KlariVis",
-      "role": "Junior Data Engineer",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-05",
-      "company": "Puget Sound Energy",
-      "role": "Associate Load Forecasting Analyst",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-05",
-      "company": "Ol\u00e9 Mexican Foods",
-      "role": "Business Intelligence Analyst (Data Analyst Jr.)",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-05",
-      "company": "Cursor (Anysphere)",
-      "role": "Data Analyst, User Operations",
-      "location": "Remote US; \"You may be a fit if\"\u6bb5\u843d\u660e\u786e\u5199\"5+ years of experience\"\u85cf\u5728body text\u91cc\u975etitle\u7ea7Senior/Lead\u6807\u6ce8,\u547d\u4e2d\u9ed1\u540d\u5355\u89c4\u5219; \u9700\u8981dbt/\u751f\u4ea7\u7ea7reporting owner\u7ecf\u9a8c,title\u5199Data Analyst\u5b9e\u8d28\u662f\u8d44\u6df1analytics owner\u89d2\u8272",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-05",
-      "company": "Everforth Apex (Apex Systems)",
-      "role": "Data Analyst I, Asset Data Management",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-05",
-      "company": "FedPoint",
-      "role": "Associate Data Analyst (FLTCIP BA & QA)",
-      "location": "",
-      "status": "skip"
     }
   ]
 }
