@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-08T23:58:59-07:00_
+_Last refreshed: 2026-08-09T00:00:58-07:00_
 
 ## Positioning
 
@@ -10,7 +10,7 @@ _Last refreshed: 2026-08-08T23:58:59-07:00_
 
 ## Snapshot
 
-- Tracked roles: 875
+- Tracked roles: 876
 - Active roles: 492
 - Response rate: 0.9%
 - LinkedIn outreach sent: 28
@@ -27,20 +27,20 @@ _Last refreshed: 2026-08-08T23:58:59-07:00_
 - interview: 5
 - oa完成: 1
 - rejected: 106
-- skip: 119
+- skip: 120
 
 ## Recent Activity
 
 - 2026-08-08: Ingram Micro | Associate Marketing Data Analyst | applied
 - 2026-08-08: Boston Scientific | Data Scientist I - Quality Engineering (Electrophysiology) | applied
 - 2026-08-08: Allegion | Associate Analytics Engineer | applied
+- 2026-08-08: LA County DPH / Heluna Health | Junior Research Analyst (MCAH) | skip
 - 2026-08-08: JBS USA (JBS Beef USA) | Business Intelligence Analyst | applied
 - 2026-08-07: JBS | Business Intelligence Analyst | applied
 - 2026-08-06: Delta | Analyst, Retailing and Reporting - Revenue Management | applied
 - 2026-08-06: UCLA | Research Data Analyst 1 RP | applied
 - 2026-08-06: Delta Air Lines | Analyst, Retailing and Reporting - Revenue Management | applied
 - 2026-08-06: UCLA Voting Rights Project | Research Data Analyst 1 | applied
-- 2026-08-06: Western Alliance Bank | Data Analyst (Analytics & Reporting) | skip
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-08-08T23:58:59-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 149 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 149 days with no response
-- Google | Software Engineer II, Early Career | 145 days with no response
-- Apple | AIML - Machine Learning Research | 138 days with no response
-- Amazon | Data Engineer II | 136 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 136 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 136 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 136 days with no response
-- Esri | Product Test Engineer II - Feature Server | 136 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 136 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 150 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 150 days with no response
+- Google | Software Engineer II, Early Career | 146 days with no response
+- Apple | AIML - Machine Learning Research | 139 days with no response
+- Amazon | Data Engineer II | 137 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 137 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 137 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 137 days with no response
+- Esri | Product Test Engineer II - Feature Server | 137 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 137 days with no response

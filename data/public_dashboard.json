@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-08T23:58:59-07:00",
+  "refreshed_at": "2026-08-09T00:00:58-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,7 +12,7 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 875,
+    "tracked_roles": 876,
     "active_roles": 492,
     "response_rate_pct": 0.9,
     "linkedin_sent": 28,
@@ -26,7 +26,7 @@
     "rejected": 106,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
-    "skip": 119,
+    "skip": 120,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -96,6 +96,13 @@
     },
     {
       "date_found": "2026-08-08",
+      "company": "LA County DPH / Heluna Health",
+      "role": "Junior Research Analyst (MCAH)",
+      "location": "Los Angeles CA on-site; $30.47/hr; \u6838\u5fc3\u5de5\u5177SAS(Essential Functions\u591a\u6b21\u51fa\u73b0\"utilizing SAS\")+\u516c\u5171\u536b\u751f/\u6bcd\u5a74\u5065\u5eb7domain knowledge\u662fJob Qualifications\u6b63\u6587\u8981\u6c42\u975eDesired,doula\u9879\u76ee\u80cc\u666f\u7ecf\u9a8c\u4e5f\u662f\u771f\u5b9e\u7a7a\u767d; Tableau/CA\u9a7e\u7167\u80fd\u7528\u4e0a; Heluna Health\u662fLA County\u516c\u536b\u9879\u76ee\u5e38\u7528\u6b63\u89c4\u7b2c\u4e09\u65b9\u96c7\u4f63\u673a\u6784; Xiao\u786e\u8ba4skip",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-08-08",
       "company": "JBS USA (JBS Beef USA)",
       "role": "Business Intelligence Analyst",
       "location": "",
@@ -135,13 +142,6 @@
       "role": "Research Data Analyst 1",
       "location": "Los Angeles CA(UCLA); \"Strong skills in R, GIS and data visualization\"\u660e\u786eRequired\u76f4\u63a5\u547d\u4e2d\u672c\u79d1GIS\u5b66\u4f4d+Math3B/Causal\u9879\u76eeR\u7ecf\u9a8c; \u5b66\u5386\u8981\u6c42\"computer science, political science, statistics, data science\"\u51e0\u4e4e\u4e3aCSS\u5b66\u4f4d\u91cf\u8eab\u5b9a\u5236; \u5b8c\u5168\u65e0\u5e74\u9650\u7ecf\u9a8c\u8981\u6c42; causal inference/ML\u662fPreferred\u547c\u5e94Causal Analysis\u9879\u76ee; UCLA\u771f\u5b9e\u5b66\u672f\u7814\u7a76\u4e2d\u5fc3(Matt Barreto/Chad Dunn\u521b\u7acb); GIS\u672c\u79d1\u8bba\u6587(headline)->Math3B(R\u5b9e\u6218)->Causal Analysis(\u6807\u6ce8simulated data); Vocareum B1; +CL, \u8fd9\u6279\u8d28\u91cf\u6700\u9ad8\u5339\u914d\u4e4b\u4e00",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-08-06",
-      "company": "Western Alliance Bank",
-      "role": "Data Analyst (Analytics & Reporting)",
-      "location": "",
-      "status": "skip"
     }
   ]
 }
