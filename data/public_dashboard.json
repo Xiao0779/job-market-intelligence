@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-06T23:45:30-07:00",
+  "refreshed_at": "2026-08-08T23:58:59-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 868,
-    "active_roles": 485,
+    "tracked_roles": 875,
+    "active_roles": 492,
     "response_rate_pct": 0.9,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "interview": 5,
-    "applied": 470,
+    "applied": 477,
     "rejected": 106,
     "oa\u5b8c\u6210": 1,
     "discarded": 5,
@@ -74,6 +74,55 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-08-08",
+      "company": "Ingram Micro",
+      "role": "Associate Marketing Data Analyst",
+      "location": "Irvine, CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-08",
+      "company": "Boston Scientific",
+      "role": "Data Scientist I - Quality Engineering (Electrophysiology)",
+      "location": "Arden Hills, MN",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-08",
+      "company": "Allegion",
+      "role": "Associate Analytics Engineer",
+      "location": "Carmel, IN",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-08",
+      "company": "JBS USA (JBS Beef USA)",
+      "role": "Business Intelligence Analyst",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-07",
+      "company": "JBS",
+      "role": "Business Intelligence Analyst",
+      "location": "Greeley, CO",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-06",
+      "company": "Delta",
+      "role": "Analyst, Retailing and Reporting - Revenue Management",
+      "location": "Atlanta, GA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-06",
+      "company": "UCLA",
+      "role": "Research Data Analyst 1 RP",
+      "location": "Los Angeles",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-08-06",
       "company": "Delta Air Lines",
       "role": "Analyst, Retailing and Reporting - Revenue Management",
@@ -93,55 +142,6 @@
       "role": "Data Analyst (Analytics & Reporting)",
       "location": "",
       "status": "skip"
-    },
-    {
-      "date_found": "2026-08-06",
-      "company": "FloMed Infusion",
-      "role": "Data Engineer Associate",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-06",
-      "company": "Monster Energy",
-      "role": "Junior SAP Data Analyst",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-06",
-      "company": "R3 Continuum",
-      "role": "Data Analyst I",
-      "location": "Minneapolis MN remote(\u9700\u672c\u5730\u901a\u52e4\u8303\u56f4); Required Skills\u5806\u4e86SSRS\u62a5\u8868\u5f00\u53d1+Power BI\u542bDAX\u548cM language+SharePoint/Power Platform\u4e00\u6574\u5957Microsoft BI\u6280\u672f\u6808,\u5b8c\u5168\u6ca1\u6709Python/R,\u8ddf\u73b0\u6709\u6280\u80fd\u6808\u91cd\u53e0\u4f4e; \u65f6\u85aa$24.83-28.65(\u5e74\u5316\u7ea6$51.6-59.6K)\u504foperational\u5c42\u7ea7\u4fe1\u53f7; \u516c\u53f8\u771f\u5b9e(\u5458\u5de5\u63f4\u52a9/\u5371\u673a\u54cd\u5e94\u670d\u52a1,Best and Brightest\u96c7\u4e3b\u8ba4\u8bc1)",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-05",
-      "company": "PSE",
-      "role": "Associate Load Forecasting Analyst",
-      "location": "Bellevue, WA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-05",
-      "company": "Thorlabs",
-      "role": "Data Analyst I",
-      "location": "Newton, NJ",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-05",
-      "company": "Applied Materials",
-      "role": "Data Scientist - Agentic AI / ML",
-      "location": "Santa Clara,CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-05",
-      "company": "Ol\u00e9 Mexican Foods",
-      "role": "Data Analyst Jr.",
-      "location": "Norcross, GA",
-      "status": "applied"
     }
   ]
 }

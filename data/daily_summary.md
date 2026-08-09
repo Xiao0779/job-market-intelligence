@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-06T23:45:30-07:00_
+_Last refreshed: 2026-08-08T23:58:59-07:00_
 
 ## Positioning
 
@@ -10,8 +10,8 @@ _Last refreshed: 2026-08-06T23:45:30-07:00_
 
 ## Snapshot
 
-- Tracked roles: 868
-- Active roles: 485
+- Tracked roles: 875
+- Active roles: 492
 - Response rate: 0.9%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
@@ -20,7 +20,7 @@ _Last refreshed: 2026-08-06T23:45:30-07:00_
 
 ## Status Breakdown
 
-- applied: 470
+- applied: 477
 - applied ✅: 1
 - discarded: 5
 - evaluated: 10
@@ -31,16 +31,16 @@ _Last refreshed: 2026-08-06T23:45:30-07:00_
 
 ## Recent Activity
 
+- 2026-08-08: Ingram Micro | Associate Marketing Data Analyst | applied
+- 2026-08-08: Boston Scientific | Data Scientist I - Quality Engineering (Electrophysiology) | applied
+- 2026-08-08: Allegion | Associate Analytics Engineer | applied
+- 2026-08-08: JBS USA (JBS Beef USA) | Business Intelligence Analyst | applied
+- 2026-08-07: JBS | Business Intelligence Analyst | applied
+- 2026-08-06: Delta | Analyst, Retailing and Reporting - Revenue Management | applied
+- 2026-08-06: UCLA | Research Data Analyst 1 RP | applied
 - 2026-08-06: Delta Air Lines | Analyst, Retailing and Reporting - Revenue Management | applied
 - 2026-08-06: UCLA Voting Rights Project | Research Data Analyst 1 | applied
 - 2026-08-06: Western Alliance Bank | Data Analyst (Analytics & Reporting) | skip
-- 2026-08-06: FloMed Infusion | Data Engineer Associate | skip
-- 2026-08-06: Monster Energy | Junior SAP Data Analyst | skip
-- 2026-08-06: R3 Continuum | Data Analyst I | skip
-- 2026-08-05: PSE | Associate Load Forecasting Analyst | applied
-- 2026-08-05: Thorlabs | Data Analyst I | applied
-- 2026-08-05: Applied Materials | Data Scientist - Agentic AI / ML | applied
-- 2026-08-05: Olé Mexican Foods | Data Analyst Jr. | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-08-06T23:45:30-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 147 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 147 days with no response
-- Google | Software Engineer II, Early Career | 143 days with no response
-- Apple | AIML - Machine Learning Research | 136 days with no response
-- Amazon | Data Engineer II | 134 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 134 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 134 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 134 days with no response
-- Esri | Product Test Engineer II - Feature Server | 134 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 134 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 149 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 149 days with no response
+- Google | Software Engineer II, Early Career | 145 days with no response
+- Apple | AIML - Machine Learning Research | 138 days with no response
+- Amazon | Data Engineer II | 136 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 136 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 136 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 136 days with no response
+- Esri | Product Test Engineer II - Feature Server | 136 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 136 days with no response
