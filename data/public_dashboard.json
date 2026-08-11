@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-09T00:00:58-07:00",
+  "refreshed_at": "2026-08-10T23:54:59-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,21 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 876,
-    "active_roles": 492,
-    "response_rate_pct": 0.9,
+    "tracked_roles": 888,
+    "active_roles": 499,
+    "response_rate_pct": 1.5,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.39
+    "avg_evaluated_score": 3.41
   },
   "status_counts": {
-    "interview": 5,
-    "applied": 477,
-    "rejected": 106,
+    "interview": 9,
+    "applied": 480,
+    "rejected": 108,
     "oa\u5b8c\u6210": 1,
-    "discarded": 5,
-    "skip": 120,
+    "discarded": 6,
+    "skip": 122,
     "evaluated": 10,
     "applied \u2705": 1
   },
@@ -74,73 +74,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-08-08",
-      "company": "Ingram Micro",
-      "role": "Associate Marketing Data Analyst",
-      "location": "Irvine, CA",
+      "date_found": "2026-08-10",
+      "company": "UCSD",
+      "role": "Social Sciences Data Project Researcher",
+      "location": "San Diego",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-08",
-      "company": "Boston Scientific",
-      "role": "Data Scientist I - Quality Engineering (Electrophysiology)",
-      "location": "Arden Hills, MN",
+      "date_found": "2026-08-10",
+      "company": "Fetch",
+      "role": "Data Analyst, User Analytics & Insights",
+      "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-08",
-      "company": "Allegion",
-      "role": "Associate Analytics Engineer",
-      "location": "Carmel, IN",
+      "date_found": "2026-08-10",
+      "company": "Navy Federal Credit Union",
+      "role": "Business Intelligence Analyst",
+      "location": "Vienna, VA",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-08",
-      "company": "LA County DPH / Heluna Health",
-      "role": "Junior Research Analyst (MCAH)",
-      "location": "Los Angeles CA on-site; $30.47/hr; \u6838\u5fc3\u5de5\u5177SAS(Essential Functions\u591a\u6b21\u51fa\u73b0\"utilizing SAS\")+\u516c\u5171\u536b\u751f/\u6bcd\u5a74\u5065\u5eb7domain knowledge\u662fJob Qualifications\u6b63\u6587\u8981\u6c42\u975eDesired,doula\u9879\u76ee\u80cc\u666f\u7ecf\u9a8c\u4e5f\u662f\u771f\u5b9e\u7a7a\u767d; Tableau/CA\u9a7e\u7167\u80fd\u7528\u4e0a; Heluna Health\u662fLA County\u516c\u536b\u9879\u76ee\u5e38\u7528\u6b63\u89c4\u7b2c\u4e09\u65b9\u96c7\u4f63\u673a\u6784; Xiao\u786e\u8ba4skip",
+      "date_found": "2026-08-10",
+      "company": "UCSD Rady School of Management",
+      "role": "Social Sciences Data Project Researcher (Research Data Analyst 2)",
+      "location": "San Diego CA hybrid,1\u5e74limited term; Social Sciences\u5b66\u4f4d\u7cbe\u51c6\u5339\u914dCSS\u7855\u58eb; Causal Analysis(simulated,\u6807\u6ce8)->Math3B->Olist; Vocareum B1+B2; Stata gap\u8bda\u5b9e\u62ab\u9732(R/Python\u80cc\u666f\u53ef\u8fc1\u79fb); +CL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-10",
+      "company": "Fetch Rewards",
+      "role": "Data Analyst, User Analytics & Insights",
+      "location": "Remote US; $92,331-108,625; \"2+ years\"Minimum Qualifications\u771f\u5b9e\u95e8\u69db+\u771f\u5b9eA/B testing\u8bbe\u8ba1\u7ecf\u9a8cgap(\u5982\u5b9e\u672a\u7528Causal Analysis\u9879\u76eeoverclaim); \u7b7e\u8bc1\u6761\u6b3e\u6bd4\u6807\u51c6\u66f4\u4e25(\"current or future sponsorship\")\u672a\u70b9\u540dOPT; Olist(cohort retention)->Churn(segmentation)->JMI; Vocareum B1+B3; \u7b80\u5386only",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-10",
+      "company": "TopDog Law",
+      "role": "Analyst, Underwriting Analytics",
+      "location": "Remote; Excel PowerPivot/DAX\u662fRequired\u771f\u5b9egap+\u6cd5\u5f8b\u6848\u4ef6\u4f30\u503c(underwriting)domain\u5b8c\u5168\u964c\u751f,\u65e0\u53ef\u7c7b\u6bd4\u9879\u76ee; 1-3yr\u7ecf\u9a8c\u8f6f\u95e8\u69db; Xiao\u786e\u8ba4skip",
       "status": "skip"
     },
     {
-      "date_found": "2026-08-08",
-      "company": "JBS USA (JBS Beef USA)",
-      "role": "Business Intelligence Analyst",
+      "date_found": "2026-08-10",
+      "company": "Guardian Fire Protection Services",
+      "role": "Business Intelligence Analyst (Entry Level)",
       "location": "",
+      "status": "discarded"
+    },
+    {
+      "date_found": "2026-08-10",
+      "company": "Mortenson",
+      "role": "Associate Data Scientist - Estimating",
+      "location": "",
+      "status": "skip"
+    },
+    {
+      "date_found": "2026-08-09",
+      "company": "Meta",
+      "role": "Data Engineer, Product Analytics (University Grad)",
+      "location": "San Francisco, CA",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-07",
-      "company": "JBS",
-      "role": "Business Intelligence Analyst",
-      "location": "Greeley, CO",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-06",
-      "company": "Delta",
-      "role": "Analyst, Retailing and Reporting - Revenue Management",
-      "location": "Atlanta, GA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-06",
-      "company": "UCLA",
-      "role": "Research Data Analyst 1 RP",
-      "location": "Los Angeles",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-06",
-      "company": "Delta Air Lines",
-      "role": "Analyst, Retailing and Reporting - Revenue Management",
-      "location": "Atlanta GA; Minimum Qualifications\u4ec5\"0-2 years or internships\"+High School Diploma\u8d77\u70b9,Bachelor's\u53ea\u5728Preferred; SQL/Python/R/Tableau\u5168\u90e8\"basic\"\u7ea7\u522b\u547d\u4e2d; \u822a\u7a7arevenue management domain\u4e0d\u5728Minimum Qualifications\u91cc,\u660e\u786e\"work with senior analysts\"\u5b66\u4e60\u6027\u8d28; Delta\u771f\u5b9e\u77e5\u540d\u822a\u53f8; Olist(SQL+dashboard)->JMI(\u6570\u636e\u6e05\u6d17\u6574\u5408)->Math3B; Vocareum B1+B3; +CL",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-06",
-      "company": "UCLA Voting Rights Project",
-      "role": "Research Data Analyst 1",
-      "location": "Los Angeles CA(UCLA); \"Strong skills in R, GIS and data visualization\"\u660e\u786eRequired\u76f4\u63a5\u547d\u4e2d\u672c\u79d1GIS\u5b66\u4f4d+Math3B/Causal\u9879\u76eeR\u7ecf\u9a8c; \u5b66\u5386\u8981\u6c42\"computer science, political science, statistics, data science\"\u51e0\u4e4e\u4e3aCSS\u5b66\u4f4d\u91cf\u8eab\u5b9a\u5236; \u5b8c\u5168\u65e0\u5e74\u9650\u7ecf\u9a8c\u8981\u6c42; causal inference/ML\u662fPreferred\u547c\u5e94Causal Analysis\u9879\u76ee; UCLA\u771f\u5b9e\u5b66\u672f\u7814\u7a76\u4e2d\u5fc3(Matt Barreto/Chad Dunn\u521b\u7acb); GIS\u672c\u79d1\u8bba\u6587(headline)->Math3B(R\u5b9e\u6218)->Causal Analysis(\u6807\u6ce8simulated data); Vocareum B1; +CL, \u8fd9\u6279\u8d28\u91cf\u6700\u9ad8\u5339\u914d\u4e4b\u4e00",
+      "date_found": "2026-08-09",
+      "company": "Wonder / Grubhub",
+      "role": "Analyst - Restaurant Analytics",
+      "location": "Chicago",
       "status": "applied"
     }
   ]

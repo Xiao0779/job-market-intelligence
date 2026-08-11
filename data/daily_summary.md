@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-09T00:00:58-07:00_
+_Last refreshed: 2026-08-10T23:54:59-07:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-08-09T00:00:58-07:00_
 
 ## Snapshot
 
-- Tracked roles: 876
-- Active roles: 492
-- Response rate: 0.9%
+- Tracked roles: 888
+- Active roles: 499
+- Response rate: 1.5%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 3.39
+- Average evaluated score: 3.41
 
 ## Status Breakdown
 
-- applied: 477
+- applied: 480
 - applied ✅: 1
-- discarded: 5
+- discarded: 6
 - evaluated: 10
-- interview: 5
+- interview: 9
 - oa完成: 1
-- rejected: 106
-- skip: 120
+- rejected: 108
+- skip: 122
 
 ## Recent Activity
 
-- 2026-08-08: Ingram Micro | Associate Marketing Data Analyst | applied
-- 2026-08-08: Boston Scientific | Data Scientist I - Quality Engineering (Electrophysiology) | applied
-- 2026-08-08: Allegion | Associate Analytics Engineer | applied
-- 2026-08-08: LA County DPH / Heluna Health | Junior Research Analyst (MCAH) | skip
-- 2026-08-08: JBS USA (JBS Beef USA) | Business Intelligence Analyst | applied
-- 2026-08-07: JBS | Business Intelligence Analyst | applied
-- 2026-08-06: Delta | Analyst, Retailing and Reporting - Revenue Management | applied
-- 2026-08-06: UCLA | Research Data Analyst 1 RP | applied
-- 2026-08-06: Delta Air Lines | Analyst, Retailing and Reporting - Revenue Management | applied
-- 2026-08-06: UCLA Voting Rights Project | Research Data Analyst 1 | applied
+- 2026-08-10: UCSD | Social Sciences Data Project Researcher | applied
+- 2026-08-10: Fetch | Data Analyst, User Analytics & Insights | applied
+- 2026-08-10: Navy Federal Credit Union | Business Intelligence Analyst | applied
+- 2026-08-10: UCSD Rady School of Management | Social Sciences Data Project Researcher (Research Data Analyst 2) | applied
+- 2026-08-10: Fetch Rewards | Data Analyst, User Analytics & Insights | applied
+- 2026-08-10: TopDog Law | Analyst, Underwriting Analytics | skip
+- 2026-08-10: Guardian Fire Protection Services | Business Intelligence Analyst (Entry Level) | discarded
+- 2026-08-10: Mortenson | Associate Data Scientist - Estimating | skip
+- 2026-08-09: Meta | Data Engineer, Product Analytics (University Grad) | applied
+- 2026-08-09: Wonder / Grubhub | Analyst - Restaurant Analytics | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-08-09T00:00:58-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 150 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 150 days with no response
-- Google | Software Engineer II, Early Career | 146 days with no response
-- Apple | AIML - Machine Learning Research | 139 days with no response
-- Amazon | Data Engineer II | 137 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 137 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 137 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 137 days with no response
-- Esri | Product Test Engineer II - Feature Server | 137 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 137 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 151 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 151 days with no response
+- Google | Software Engineer II, Early Career | 147 days with no response
+- Apple | AIML - Machine Learning Research | 140 days with no response
+- Amazon | Data Engineer II | 138 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 138 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 138 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 138 days with no response
+- Esri | Product Test Engineer II - Feature Server | 138 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 138 days with no response
