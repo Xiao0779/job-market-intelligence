@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-10T23:54:59-07:00",
+  "refreshed_at": "2026-08-10T23:58:54-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -21,13 +21,14 @@
     "avg_evaluated_score": 3.41
   },
   "status_counts": {
-    "interview": 9,
+    "interview": 8,
     "applied": 480,
     "rejected": 108,
     "oa\u5b8c\u6210": 1,
     "discarded": 6,
     "skip": 122,
     "evaluated": 10,
+    "responded": 1,
     "applied \u2705": 1
   },
   "top_companies": [

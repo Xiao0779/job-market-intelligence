@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-10T23:54:59-07:00_
+_Last refreshed: 2026-08-10T23:58:54-07:00_
 
 ## Positioning
 
@@ -24,9 +24,10 @@ _Last refreshed: 2026-08-10T23:54:59-07:00_
 - applied ✅: 1
 - discarded: 6
 - evaluated: 10
-- interview: 9
+- interview: 8
 - oa完成: 1
 - rejected: 108
+- responded: 1
 - skip: 122
 
 ## Recent Activity
