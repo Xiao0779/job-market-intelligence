@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-10T23:58:54-07:00",
+  "refreshed_at": "2026-08-11T23:56:33-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,13 +12,13 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 888,
-    "active_roles": 499,
+    "tracked_roles": 890,
+    "active_roles": 500,
     "response_rate_pct": 1.5,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 3.41
+    "avg_evaluated_score": 7.57
   },
   "status_counts": {
     "interview": 8,
@@ -27,7 +27,8 @@
     "oa\u5b8c\u6210": 1,
     "discarded": 6,
     "skip": 122,
-    "evaluated": 10,
+    "evaluated": 11,
+    "-/5": 1,
     "responded": 1,
     "applied \u2705": 1
   },
@@ -74,6 +75,20 @@
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-08-11",
+      "company": "American Credit Acceptance",
+      "role": "Data Analyst",
+      "location": "",
+      "status": "-/5"
+    },
+    {
+      "date_found": "2026-08-11",
+      "company": "UnitedHealthcare",
+      "role": "Data Analyst I - UHC Cove",
+      "location": "",
+      "status": "evaluated"
+    },
     {
       "date_found": "2026-08-10",
       "company": "UCSD",
@@ -129,20 +144,6 @@
       "role": "Associate Data Scientist - Estimating",
       "location": "",
       "status": "skip"
-    },
-    {
-      "date_found": "2026-08-09",
-      "company": "Meta",
-      "role": "Data Engineer, Product Analytics (University Grad)",
-      "location": "San Francisco, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-09",
-      "company": "Wonder / Grubhub",
-      "role": "Analyst - Restaurant Analytics",
-      "location": "Chicago",
-      "status": "applied"
     }
   ]
 }
