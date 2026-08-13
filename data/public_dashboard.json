@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-11T23:56:33-07:00",
+  "refreshed_at": "2026-08-14T01:10:09-06:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 890,
-    "active_roles": 500,
+    "tracked_roles": 895,
+    "active_roles": 505,
     "response_rate_pct": 1.5,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 7.57
+    "avg_evaluated_score": 7.54
   },
   "status_counts": {
     "interview": 8,
-    "applied": 480,
+    "applied": 485,
     "rejected": 108,
     "oa\u5b8c\u6210": 1,
     "discarded": 6,
@@ -76,6 +76,41 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-08-13",
+      "company": "Enova",
+      "role": "Analytics Analyst - Fraud",
+      "location": "Chicago",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-13",
+      "company": "Evergreen Nephrology",
+      "role": "Healthcare Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-13",
+      "company": "PointClickCare",
+      "role": "Associate Data Scientist (USA)",
+      "location": "Salt Lake City",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-13",
+      "company": "Ibotta",
+      "role": "Associate Decision Scientist",
+      "location": "Denver",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-13",
+      "company": "Enova International",
+      "role": "Analytics Analyst - Fraud",
+      "location": "Chicago IL Hybrid(\u5468\u4e8c\u81f3\u5468\u56db); $63-95K\u8de8level; \u6807\u51c6Type1\u7b7e\u8bc1\u672a\u70b9\u540dOPT; \"prior experience is not required\"+coursework/projects/personal projects\u7b97\u6570; \u6838\u5fc3\u662f\u5206\u7c7b\u6a21\u578b(fraud pattern-recognition)\u76f4\u63a5\u5bf9\u5e94churn-prediction-ml(AUC 0.86); JD\u660e\u786e\"comfort using AI tools\"\u547c\u5e94AI-native\u5b9a\u4f4d; fraud/fintech domain\u662fplus\u975erequired; Churn->Math3B->Olist; Vocareum B1+B2(\u62ff\u6389B3,\u6280\u672f\u5efa\u6a21\u5411\u975e\u4ea7\u54c1\u5206\u6790\u5411); +CL",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-08-11",
       "company": "American Credit Acceptance",
       "role": "Data Analyst",
@@ -109,41 +144,6 @@
       "role": "Business Intelligence Analyst",
       "location": "Vienna, VA",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-08-10",
-      "company": "UCSD Rady School of Management",
-      "role": "Social Sciences Data Project Researcher (Research Data Analyst 2)",
-      "location": "San Diego CA hybrid,1\u5e74limited term; Social Sciences\u5b66\u4f4d\u7cbe\u51c6\u5339\u914dCSS\u7855\u58eb; Causal Analysis(simulated,\u6807\u6ce8)->Math3B->Olist; Vocareum B1+B2; Stata gap\u8bda\u5b9e\u62ab\u9732(R/Python\u80cc\u666f\u53ef\u8fc1\u79fb); +CL",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-10",
-      "company": "Fetch Rewards",
-      "role": "Data Analyst, User Analytics & Insights",
-      "location": "Remote US; $92,331-108,625; \"2+ years\"Minimum Qualifications\u771f\u5b9e\u95e8\u69db+\u771f\u5b9eA/B testing\u8bbe\u8ba1\u7ecf\u9a8cgap(\u5982\u5b9e\u672a\u7528Causal Analysis\u9879\u76eeoverclaim); \u7b7e\u8bc1\u6761\u6b3e\u6bd4\u6807\u51c6\u66f4\u4e25(\"current or future sponsorship\")\u672a\u70b9\u540dOPT; Olist(cohort retention)->Churn(segmentation)->JMI; Vocareum B1+B3; \u7b80\u5386only",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-10",
-      "company": "TopDog Law",
-      "role": "Analyst, Underwriting Analytics",
-      "location": "Remote; Excel PowerPivot/DAX\u662fRequired\u771f\u5b9egap+\u6cd5\u5f8b\u6848\u4ef6\u4f30\u503c(underwriting)domain\u5b8c\u5168\u964c\u751f,\u65e0\u53ef\u7c7b\u6bd4\u9879\u76ee; 1-3yr\u7ecf\u9a8c\u8f6f\u95e8\u69db; Xiao\u786e\u8ba4skip",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-10",
-      "company": "Guardian Fire Protection Services",
-      "role": "Business Intelligence Analyst (Entry Level)",
-      "location": "",
-      "status": "discarded"
-    },
-    {
-      "date_found": "2026-08-10",
-      "company": "Mortenson",
-      "role": "Associate Data Scientist - Estimating",
-      "location": "",
-      "status": "skip"
     }
   ]
 }
