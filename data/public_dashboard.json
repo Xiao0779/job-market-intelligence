@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-14T01:10:09-06:00",
+  "refreshed_at": "2026-08-18T00:56:14-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,24 +12,24 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 895,
-    "active_roles": 505,
-    "response_rate_pct": 1.5,
+    "tracked_roles": 898,
+    "active_roles": 503,
+    "response_rate_pct": 1.7,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
     "avg_evaluated_score": 7.54
   },
   "status_counts": {
-    "interview": 8,
-    "applied": 485,
-    "rejected": 108,
+    "interview": 7,
+    "applied": 482,
+    "rejected": 113,
     "oa\u5b8c\u6210": 1,
     "discarded": 6,
     "skip": 122,
     "evaluated": 11,
+    "responded": 3,
     "-/5": 1,
-    "responded": 1,
     "applied \u2705": 1
   },
   "top_companies": [
@@ -75,6 +75,27 @@
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-08-17",
+      "company": "Protagonist",
+      "role": "Computational Social Scientist",
+      "location": "Washington DC",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-17",
+      "company": "Applied Materials",
+      "role": "Knowledge Management Technical Project Manager New College Graduate",
+      "location": "Santa Clara,CA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-17",
+      "company": "TikTok",
+      "role": "Data Scientist - Multimedia",
+      "location": "San Jose",
+      "status": "applied"
+    },
     {
       "date_found": "2026-08-13",
       "company": "Enova",
@@ -123,27 +144,6 @@
       "role": "Data Analyst I - UHC Cove",
       "location": "",
       "status": "evaluated"
-    },
-    {
-      "date_found": "2026-08-10",
-      "company": "UCSD",
-      "role": "Social Sciences Data Project Researcher",
-      "location": "San Diego",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-10",
-      "company": "Fetch",
-      "role": "Data Analyst, User Analytics & Insights",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-10",
-      "company": "Navy Federal Credit Union",
-      "role": "Business Intelligence Analyst",
-      "location": "Vienna, VA",
-      "status": "applied"
     }
   ]
 }
