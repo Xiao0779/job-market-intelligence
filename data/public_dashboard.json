@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-18T00:56:14-07:00",
+  "refreshed_at": "2026-08-19T02:15:12-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 898,
-    "active_roles": 503,
-    "response_rate_pct": 1.7,
+    "tracked_roles": 900,
+    "active_roles": 505,
+    "response_rate_pct": 1.6,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 7.54
+    "avg_evaluated_score": 7.51
   },
   "status_counts": {
     "interview": 7,
-    "applied": 482,
+    "applied": 484,
     "rejected": 113,
     "oa\u5b8c\u6210": 1,
     "discarded": 6,
@@ -75,6 +75,20 @@
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-08-18",
+      "company": "Radian",
+      "role": "Data Scientist I, MIRS",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-18",
+      "company": "NYCM Insurance",
+      "role": "Associate Data Scientist (Hybrid)",
+      "location": "Edmeston, NY",
+      "status": "applied"
+    },
     {
       "date_found": "2026-08-17",
       "company": "Protagonist",
@@ -130,20 +144,6 @@
       "role": "Analytics Analyst - Fraud",
       "location": "Chicago IL Hybrid(\u5468\u4e8c\u81f3\u5468\u56db); $63-95K\u8de8level; \u6807\u51c6Type1\u7b7e\u8bc1\u672a\u70b9\u540dOPT; \"prior experience is not required\"+coursework/projects/personal projects\u7b97\u6570; \u6838\u5fc3\u662f\u5206\u7c7b\u6a21\u578b(fraud pattern-recognition)\u76f4\u63a5\u5bf9\u5e94churn-prediction-ml(AUC 0.86); JD\u660e\u786e\"comfort using AI tools\"\u547c\u5e94AI-native\u5b9a\u4f4d; fraud/fintech domain\u662fplus\u975erequired; Churn->Math3B->Olist; Vocareum B1+B2(\u62ff\u6389B3,\u6280\u672f\u5efa\u6a21\u5411\u975e\u4ea7\u54c1\u5206\u6790\u5411); +CL",
       "status": "applied"
-    },
-    {
-      "date_found": "2026-08-11",
-      "company": "American Credit Acceptance",
-      "role": "Data Analyst",
-      "location": "",
-      "status": "-/5"
-    },
-    {
-      "date_found": "2026-08-11",
-      "company": "UnitedHealthcare",
-      "role": "Data Analyst I - UHC Cove",
-      "location": "",
-      "status": "evaluated"
     }
   ]
 }
