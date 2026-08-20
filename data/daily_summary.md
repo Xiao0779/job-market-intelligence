@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-20T02:15:11-07:00_
+_Last refreshed: 2026-08-21T01:16:55-07:00_
 
 ## Positioning
 
@@ -10,39 +10,38 @@ _Last refreshed: 2026-08-20T02:15:11-07:00_
 
 ## Snapshot
 
-- Tracked roles: 902
-- Active roles: 507
-- Response rate: 1.6%
+- Tracked roles: 908
+- Active roles: 510
+- Response rate: 1.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.5
+- Average evaluated score: 7.47
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 486
+- applied: 488
 - applied ✅: 1
 - discarded: 6
 - evaluated: 11
-- interview: 7
-- oa完成: 1
-- rejected: 113
-- responded: 3
+- interview: 5
+- rejected: 117
+- responded: 6
 - skip: 122
 
 ## Recent Activity
 
+- 2026-08-20: Gartner | Data Analyst - 2026/2027 graduates | applied
+- 2026-08-20: New York Life | Associate, Insurance Analytics & Business Intelligence | applied
+- 2026-08-20: Walmart | Data Analyst II | applied
+- 2026-08-20: Walmart | (USA) Data Analyst II | applied
+- 2026-08-20: Microsoft | Data Analyst, People Analytics | applied
+- 2026-08-20: VIZIO (Walmart) | (USA) Data Analyst II | applied
 - 2026-08-19: Prosper | Credit Risk Analyst | applied
 - 2026-08-19: Waymark | Data/AI Scientist II | applied
 - 2026-08-18: Radian | Data Scientist I, MIRS | applied
 - 2026-08-18: NYCM Insurance | Associate Data Scientist (Hybrid) | applied
-- 2026-08-17: Protagonist | Computational Social Scientist | applied
-- 2026-08-17: Applied Materials | Knowledge Management Technical Project Manager New College Graduate | applied
-- 2026-08-17: TikTok | Data Scientist - Multimedia | applied
-- 2026-08-13: Enova | Analytics Analyst - Fraud | applied
-- 2026-08-13: Evergreen Nephrology | Healthcare Analyst | applied
-- 2026-08-13: PointClickCare | Associate Data Scientist (USA) | applied
 
 ## Recommended Opportunity Queue
 
@@ -64,13 +63,13 @@ _Last refreshed: 2026-08-20T02:15:11-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 161 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 161 days with no response
-- Google | Software Engineer II, Early Career | 157 days with no response
-- Apple | AIML - Machine Learning Research | 150 days with no response
-- Amazon | Data Engineer II | 148 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 148 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 148 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 148 days with no response
-- Esri | Product Test Engineer II - Feature Server | 148 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 148 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 162 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 162 days with no response
+- Google | Software Engineer II, Early Career | 158 days with no response
+- Apple | AIML - Machine Learning Research | 151 days with no response
+- Amazon | Data Engineer II | 149 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 149 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 149 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 149 days with no response
+- Esri | Product Test Engineer II - Feature Server | 149 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 149 days with no response
