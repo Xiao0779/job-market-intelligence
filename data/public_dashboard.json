@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-19T02:15:12-07:00",
+  "refreshed_at": "2026-08-20T02:15:11-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 900,
-    "active_roles": 505,
+    "tracked_roles": 902,
+    "active_roles": 507,
     "response_rate_pct": 1.6,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 7.51
+    "avg_evaluated_score": 7.5
   },
   "status_counts": {
     "interview": 7,
-    "applied": 484,
+    "applied": 486,
     "rejected": 113,
     "oa\u5b8c\u6210": 1,
     "discarded": 6,
@@ -75,6 +75,20 @@
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-08-19",
+      "company": "Prosper",
+      "role": "Credit Risk Analyst",
+      "location": "US Remote; $102-140K; \"Prosper will consider for employment qualified applicants who are non-US citizens and will provide green card sponsorship\"\u5168\u573a\u5bf9\u56fd\u9645\u751f\u6700\u53cb\u597d\u7684\u4e00\u6b21; \"2+ years with Bachelors (or less with Masters)\"+\"we will also consider candidates who don't have financial services experience\"\u4e24\u6761\u4e3b\u52a8\u8f6f\u5316\u95e8\u69db; Churn(\u98ce\u9669\u7b56\u7565)->Causal Analysis(simulated,A/B\u6d4b\u8bd5\u65b9\u6cd5\u8bba)->Math3B; Vocareum B1+B3; \u7b80\u5386only\u65e0CL; \u9762\u8bd5\u6d41\u7a0b\u542bTechnical Interview(coding)\u5df2\u63d0\u9192Xiao\u63d0\u524d\u51c6\u5907",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-19",
+      "company": "Waymark",
+      "role": "Data/AI Scientist II",
+      "location": "US Remote; \u5206\u7ea7\u85aa\u8d44(San Diego\u5c42$108-144K); Medicaid healthcare tech\u771f\u5b9e\u4f7f\u547d\u9a71\u52a8\u516c\u53f8; \u771f\u5b9egap\u662f\"3+ years hands-on Python\"(Minimum Qualifications\u660e\u786e\u5199including academic and project work,\u8f6f\u5316); healthcare/claims/EHR\u7ecf\u9a8c\u6ca1\u6709\u4f46Preferred\u975erequired; Subliminal(LLM\u52a8\u624b\u6df1\u5ea6)->Churn(\u98ce\u9669\u5efa\u6a21)->Math3B; Vocareum B1+B2; +CL",
+      "status": "applied"
+    },
     {
       "date_found": "2026-08-18",
       "company": "Radian",
@@ -129,20 +143,6 @@
       "company": "PointClickCare",
       "role": "Associate Data Scientist (USA)",
       "location": "Salt Lake City",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-13",
-      "company": "Ibotta",
-      "role": "Associate Decision Scientist",
-      "location": "Denver",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-13",
-      "company": "Enova International",
-      "role": "Analytics Analyst - Fraud",
-      "location": "Chicago IL Hybrid(\u5468\u4e8c\u81f3\u5468\u56db); $63-95K\u8de8level; \u6807\u51c6Type1\u7b7e\u8bc1\u672a\u70b9\u540dOPT; \"prior experience is not required\"+coursework/projects/personal projects\u7b97\u6570; \u6838\u5fc3\u662f\u5206\u7c7b\u6a21\u578b(fraud pattern-recognition)\u76f4\u63a5\u5bf9\u5e94churn-prediction-ml(AUC 0.86); JD\u660e\u786e\"comfort using AI tools\"\u547c\u5e94AI-native\u5b9a\u4f4d; fraud/fintech domain\u662fplus\u975erequired; Churn->Math3B->Olist; Vocareum B1+B2(\u62ff\u6389B3,\u6280\u672f\u5efa\u6a21\u5411\u975e\u4ea7\u54c1\u5206\u6790\u5411); +CL",
       "status": "applied"
     }
   ]
