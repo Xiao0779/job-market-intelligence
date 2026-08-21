@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-21T01:16:55-07:00_
+_Last refreshed: 2026-08-21T23:50:46-07:00_
 
 ## Positioning
 
@@ -10,18 +10,18 @@ _Last refreshed: 2026-08-21T01:16:55-07:00_
 
 ## Snapshot
 
-- Tracked roles: 908
-- Active roles: 510
+- Tracked roles: 916
+- Active roles: 518
 - Response rate: 1.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.47
+- Average evaluated score: 7.42
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 488
+- applied: 496
 - applied ✅: 1
 - discarded: 6
 - evaluated: 11
@@ -32,16 +32,16 @@ _Last refreshed: 2026-08-21T01:16:55-07:00_
 
 ## Recent Activity
 
+- 2026-08-22: CLA (CliftonLarsonAllen) | Data Analyst Associate | applied
+- 2026-08-21: Abercrombie & Fitch Co | Assistant Analyst, Customer & Digital Insight & Analytics - A&F Co. | applied
+- 2026-08-21: Wpromote | Junior Data Scientist | applied
+- 2026-08-21: Mulligan Funding | Data Scientist I - Management Trainee | applied
+- 2026-08-21: CLA | Data Analyst Associate | applied
+- 2026-08-21: IBM | Associate Data Scientist 2027 - AI & Data Analytics | applied
+- 2026-08-21: Abercrombie & Fitch (A&F Co.) | Assistant Analyst, Customer & Digital Insight & Analytics | applied
+- 2026-08-21: 携程集团 (Trip.com Group) | 高级数据分析(火车票业务) | applied
 - 2026-08-20: Gartner | Data Analyst - 2026/2027 graduates | applied
 - 2026-08-20: New York Life | Associate, Insurance Analytics & Business Intelligence | applied
-- 2026-08-20: Walmart | Data Analyst II | applied
-- 2026-08-20: Walmart | (USA) Data Analyst II | applied
-- 2026-08-20: Microsoft | Data Analyst, People Analytics | applied
-- 2026-08-20: VIZIO (Walmart) | (USA) Data Analyst II | applied
-- 2026-08-19: Prosper | Credit Risk Analyst | applied
-- 2026-08-19: Waymark | Data/AI Scientist II | applied
-- 2026-08-18: Radian | Data Scientist I, MIRS | applied
-- 2026-08-18: NYCM Insurance | Associate Data Scientist (Hybrid) | applied
 
 ## Recommended Opportunity Queue
 

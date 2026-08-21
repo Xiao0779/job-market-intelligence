@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-21T01:16:55-07:00",
+  "refreshed_at": "2026-08-21T23:50:46-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 908,
-    "active_roles": 510,
+    "tracked_roles": 916,
+    "active_roles": 518,
     "response_rate_pct": 1.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 7.47
+    "avg_evaluated_score": 7.42
   },
   "status_counts": {
     "responded": 6,
-    "applied": 488,
+    "applied": 496,
     "rejected": 117,
     "interview": 5,
     "discarded": 6,
@@ -75,6 +75,62 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-08-22",
+      "company": "CLA (CliftonLarsonAllen)",
+      "role": "Data Analyst Associate",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-21",
+      "company": "Abercrombie & Fitch Co",
+      "role": "Assistant Analyst, Customer & Digital Insight & Analytics - A&F Co.",
+      "location": "Columbus, OH",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-21",
+      "company": "Wpromote",
+      "role": "Junior Data Scientist",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-21",
+      "company": "Mulligan Funding",
+      "role": "Data Scientist I - Management Trainee",
+      "location": "San Diego",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-21",
+      "company": "CLA",
+      "role": "Data Analyst Associate",
+      "location": "St Louis, MO",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-21",
+      "company": "IBM",
+      "role": "Associate Data Scientist 2027 - AI & Data Analytics",
+      "location": "Chicago",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-21",
+      "company": "Abercrombie & Fitch (A&F Co.)",
+      "role": "Assistant Analyst, Customer & Digital Insight & Analytics",
+      "location": "Columbus OH; \"remote work across the U.S.\"; Bachelor's or equivalent experience\uff0ccoursework/internship/co-op\u7ecf\u9a8c\u7b97\u6570\uff0c\u65e0\u786c\u6027\u5e74\u9650\u95e8\u69db; SQL+Power BI+Excel+dashboard(Power BI\u8ddfTableau\u540c\u7c7b\u4e0d\u7b97gap); Olist->JMI->Math3B; Vocareum B1+B3; \u7b80\u5386only\u65e0CL; \u6295\u9012\u8fc7\u7a0b\u4e2dWorkday\u649e\u4e0a\u8ba1\u5212\u5185\u7ef4\u62a4(8/21 9PM-8/22 12AM PDT)\uff0c\u7ef4\u62a4\u7ed3\u675f\u540e\u786e\u8ba4\u5df2\u6295",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-21",
+      "company": "\u643a\u7a0b\u96c6\u56e2 (Trip.com Group)",
+      "role": "\u9ad8\u7ea7\u6570\u636e\u5206\u6790(\u706b\u8f66\u7968\u4e1a\u52a1)",
+      "location": "",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-08-20",
       "company": "Gartner",
       "role": "Data Analyst - 2026/2027 graduates",
@@ -86,62 +142,6 @@
       "company": "New York Life",
       "role": "Associate, Insurance Analytics & Business Intelligence",
       "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-20",
-      "company": "Walmart",
-      "role": "Data Analyst II",
-      "location": "Bentonville, AR",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-20",
-      "company": "Walmart",
-      "role": "(USA) Data Analyst II",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-20",
-      "company": "Microsoft",
-      "role": "Data Analyst, People Analytics",
-      "location": "Redmond, WA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-20",
-      "company": "VIZIO (Walmart)",
-      "role": "(USA) Data Analyst II",
-      "location": "New York NY; VIZIO Inscape TV\u6570\u636e\u90e8\u95e8(\u5e7f\u544a/\u5a92\u4f53\u5206\u6790); Minimum Qual\u540cWalmart Bentonville\u90a3\u6761,Bachelor's\u76f8\u5173\u9886\u57df\u5b66\u4f4d\u5373\u53ef\u65e0\u5e74\u9650; SQL/NoSQL/Python/Tableau-PowerBI; Olist->JMI->Math3B; Vocareum B1+B3; +CL",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-19",
-      "company": "Prosper",
-      "role": "Credit Risk Analyst",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-19",
-      "company": "Waymark",
-      "role": "Data/AI Scientist II",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-18",
-      "company": "Radian",
-      "role": "Data Scientist I, MIRS",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-18",
-      "company": "NYCM Insurance",
-      "role": "Associate Data Scientist (Hybrid)",
-      "location": "Edmeston, NY",
       "status": "applied"
     }
   ]
