@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-21T23:50:46-07:00_
+_Last refreshed: 2026-08-23T01:36:20-07:00_
 
 ## Positioning
 
@@ -10,18 +10,18 @@ _Last refreshed: 2026-08-21T23:50:46-07:00_
 
 ## Snapshot
 
-- Tracked roles: 916
-- Active roles: 518
-- Response rate: 1.8%
+- Tracked roles: 922
+- Active roles: 524
+- Response rate: 1.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.42
+- Average evaluated score: 7.39
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 496
+- applied: 502
 - applied ✅: 1
 - discarded: 6
 - evaluated: 11
@@ -32,16 +32,16 @@ _Last refreshed: 2026-08-21T23:50:46-07:00_
 
 ## Recent Activity
 
+- 2026-08-23: Qualcomm | Business Process Analyst (IP Operations) | applied
+- 2026-08-23: WHOOP | Business Analyst I (Growth Marketing) | applied
+- 2026-08-23: Pape-Dawson Engineers | GIS Analyst I | applied
+- 2026-08-23: Robinhood | Business Analyst (New Grad) | applied
+- 2026-08-23: CVS Health | Data Science Analyst (Caremark/Data and Analytics) | applied
+- 2026-08-22: Morgan Stanley | Junior Data Analyst (NFR Data & Analytics) | applied
 - 2026-08-22: CLA (CliftonLarsonAllen) | Data Analyst Associate | applied
 - 2026-08-21: Abercrombie & Fitch Co | Assistant Analyst, Customer & Digital Insight & Analytics - A&F Co. | applied
 - 2026-08-21: Wpromote | Junior Data Scientist | applied
 - 2026-08-21: Mulligan Funding | Data Scientist I - Management Trainee | applied
-- 2026-08-21: CLA | Data Analyst Associate | applied
-- 2026-08-21: IBM | Associate Data Scientist 2027 - AI & Data Analytics | applied
-- 2026-08-21: Abercrombie & Fitch (A&F Co.) | Assistant Analyst, Customer & Digital Insight & Analytics | applied
-- 2026-08-21: 携程集团 (Trip.com Group) | 高级数据分析(火车票业务) | applied
-- 2026-08-20: Gartner | Data Analyst - 2026/2027 graduates | applied
-- 2026-08-20: New York Life | Associate, Insurance Analytics & Business Intelligence | applied
 
 ## Recommended Opportunity Queue
 
@@ -63,13 +63,13 @@ _Last refreshed: 2026-08-21T23:50:46-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 162 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 162 days with no response
-- Google | Software Engineer II, Early Career | 158 days with no response
-- Apple | AIML - Machine Learning Research | 151 days with no response
-- Amazon | Data Engineer II | 149 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 149 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 149 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 149 days with no response
-- Esri | Product Test Engineer II - Feature Server | 149 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 149 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 164 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 164 days with no response
+- Google | Software Engineer II, Early Career | 160 days with no response
+- Apple | AIML - Machine Learning Research | 153 days with no response
+- Amazon | Data Engineer II | 151 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 151 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 151 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 151 days with no response
+- Esri | Product Test Engineer II - Feature Server | 151 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 151 days with no response
