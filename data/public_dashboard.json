@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-23T01:36:20-07:00",
+  "refreshed_at": "2026-08-24T04:24:37-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 922,
-    "active_roles": 524,
+    "tracked_roles": 930,
+    "active_roles": 530,
     "response_rate_pct": 1.7,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 7.39
+    "avg_evaluated_score": 7.37
   },
   "status_counts": {
     "responded": 6,
-    "applied": 502,
-    "rejected": 117,
+    "applied": 508,
+    "rejected": 119,
     "interview": 5,
     "discarded": 6,
     "skip": 122,
@@ -37,12 +37,12 @@
       "count": 22
     },
     {
-      "company": "Anthropic",
+      "company": "Amazon",
       "count": 15
     },
     {
-      "company": "Amazon",
-      "count": 14
+      "company": "Anthropic",
+      "count": 15
     },
     {
       "company": "Scale AI",
@@ -76,6 +76,34 @@
   "recent_roles": [
     {
       "date_found": "2026-08-23",
+      "company": "Micron",
+      "role": "New College Grad - Business Analyst, Digital Workplace",
+      "location": "Boise, ID",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-23",
+      "company": "Analytic Partners",
+      "role": "Marketing Science Analyst",
+      "location": "Denver, CO",
+      "status": "rejected"
+    },
+    {
+      "date_found": "2026-08-23",
+      "company": "Amazon",
+      "role": "Business Intelligence Engineer, North America Transportation Services",
+      "location": "Bellevue, WA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-23",
+      "company": "Micron Technology",
+      "role": "New College Grad - Business Analyst, Digital Workplace",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-23",
       "company": "Qualcomm",
       "role": "Business Process Analyst (IP Operations)",
       "location": "San Diego CA (100% on-site 5\u5929/\u5468\uff0c\u672c\u5730\u65e0\u9700\u642c\u5bb6)\uff1bJob ID 3092910\uff1b\u672c\u79d1\u5b66\u5386\u5373\u53ef\u65e0\u786c\u6027\u5e74\u9650(\"3+ years\"\u662fpreferred\u975erequired)\uff1bKPI\u642d\u5efa+\u591a\u6e90\u6570\u636e\u5206\u6790+dashboard\u5f00\u53d1\uff0cPreferred\u70b9\u540dTableau/Power BI/QlikView+\"AI\u6280\u672f\u719f\u6089\u5ea6/willingness to adopt AI-assisted solutions\"\u7cbe\u51c6\u5339\u914d\uff1b\"not eligible for immigration sponsorship\"\u662f\u6807\u51c6Type1\u8868\u8ff0\u672a\u70b9\u540dOPT\u975e\u786cSKIP\uff1b\u771f\u5b9e\u8f6f\u6027gap\u662fIP/\u4e13\u5229\u8fd0\u8425domain(\u975erequired)\uff1b$70.6-106K\uff1b\u540c\u6279\u67e5\u5230\u7684\"Program Analyst\"(HS diploma\u95e8\u69db,\u7eaf\u9879\u76ee\u534f\u8c03\u975e\u6570\u636e\u5206\u6790)\u5224\u65ad\u5927\u6750\u5c0f\u7528\u672a\u6295\uff1bOlist->JMI->Math3B\u987a\u5e8f\uff0cVocareum B1+B3\uff1b\u65e0CL\uff0cXiao\u81ea\u884c\u6295\u9012",
@@ -83,23 +111,9 @@
     },
     {
       "date_found": "2026-08-23",
-      "company": "WHOOP",
-      "role": "Business Analyst I (Growth Marketing)",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-23",
       "company": "Pape-Dawson Engineers",
       "role": "GIS Analyst I",
       "location": "Plano/San Antonio/Austin TX\uff1b\u6280\u80fd\u5339\u914d\u6781\u9ad8(\u672c\u79d1GIS\u4e13\u4e1a\u5bf9\u53e3\uff0c\"0-3\u5e74\u7ecf\u9a8c\u542bacademic projects\"\u76f4\u63a5\u547d\u4e2d\u672c\u79d1\u6bd5\u4e1a\u8bba\u6587Landsat/ENVI/GEE/ArcGIS)\uff0c\u4f46\u6218\u7565\u65b9\u5411\u8ddf\u4e3b\u653bDA/DS/AI-native\u4e0d\u7b26\uff0c\u8bc4\u5206\u53cd\u6620\"\u6280\u80fd\u62c9\u6ee1\u4f46\u65b9\u5411\u4e0d\u7b26\"\uff1bXiao\u51b3\u5b9a\"\u6295\u7740\u73a9\u73a9\"\u5f53backup\uff1b\u65e0sponsorship\u6761\u6b3e\uff1b\u7b80\u5386Research\u90e8\u5206(\u672c\u79d1\u8bba\u6587)\u63d0\u5230Work Experience\u524d\uff0cGIS\u6280\u80fd\u533a\u6253\u5934\u9635\uff1b\u65e0CL\uff0cXiao\u81ea\u884c\u6295\u9012",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-23",
-      "company": "Robinhood",
-      "role": "Business Analyst (New Grad)",
-      "location": "Washington DC (in-office 3\u5929/\u5468)\uff1btitle\u76f4\u63a5\u6807\"New Grad\"\uff1b18\u4e2a\u6708\u8f6e\u5c97\u9879\u76ee(Credit\u4ea7\u54c1\u7ebf\uff0c~5\u8f6e\uff0cMoney and Growth org)\uff1b\u4efb\u804c\u8d44\u683c\"business analysis/strategy/consulting/financial services/quantitative analytical role\"\u4efb\u4e00\u5373\u53ef(\u975e\u552f\u4e00\u786c\u6027\u54a8\u8be2\u80cc\u666f)\uff0cSQL+quantitative modeling\u76f4\u63a5\u547d\u4e2d\uff0c\"Fluency with AI tools\"\u7cbe\u51c6\u5339\u914dAI-native\u5b9a\u4f4d\uff1bBachelor's\u5373\u53ef\u65e0\u9700\u7855\u58eb\uff1b$110K flat(Zone 1)\uff1b\u65e0sponsorship\u6761\u6b3e\uff1bOlist->Churn(\u91cd\u65b0\u6846\u6210Risk & Segmentation)->Causal Analysis\u987a\u5e8f\uff0cVocareum B1+B3(\u8de8\u90e8\u95e8\u534f\u8c03\u547c\u5e94\u8f6e\u5c97\u8981\u6c42)\uff1b\u6709CL\uff0cXiao\u81ea\u884c\u6295\u9012",
       "status": "applied"
     },
     {
@@ -112,36 +126,22 @@
     {
       "date_found": "2026-08-22",
       "company": "Morgan Stanley",
-      "role": "Junior Data Analyst (NFR Data & Analytics)",
-      "location": "",
+      "role": "Junior Data Analyst",
+      "location": "Dallas, TX",
       "status": "applied"
     },
     {
       "date_found": "2026-08-22",
-      "company": "CLA (CliftonLarsonAllen)",
-      "role": "Data Analyst Associate",
-      "location": "",
+      "company": "CVS Health",
+      "role": "Data Science Analyst",
+      "location": "New York",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-21",
-      "company": "Abercrombie & Fitch Co",
-      "role": "Assistant Analyst, Customer & Digital Insight & Analytics - A&F Co.",
-      "location": "Columbus, OH",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-21",
-      "company": "Wpromote",
-      "role": "Junior Data Scientist",
-      "location": "Remote",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-21",
-      "company": "Mulligan Funding",
-      "role": "Data Scientist I - Management Trainee",
-      "location": "San Diego",
+      "date_found": "2026-08-22",
+      "company": "Robinhood",
+      "role": "Business Analyst (New Grad)",
+      "location": "Washington, DC",
       "status": "applied"
     }
   ]
