@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-25T03:08:09-07:00_
+_Last refreshed: 2026-08-26T05:39:55-07:00_
 
 ## Positioning
 
@@ -10,38 +10,40 @@ _Last refreshed: 2026-08-25T03:08:09-07:00_
 
 ## Snapshot
 
-- Tracked roles: 936
-- Active roles: 532
+- Tracked roles: 942
+- Active roles: 536
 - Response rate: 1.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.34
+- Average evaluated score: 7.31
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 510
+- applied: 514
 - applied ✅: 1
 - discarded: 6
 - evaluated: 11
 - interview: 5
+- pending: 1
+- referral pending: 1
 - rejected: 123
 - responded: 6
 - skip: 122
 
 ## Recent Activity
 
+- 2026-08-25: Garner | Data Analyst I | applied
+- 2026-08-25: HR&A | Analyst, Real Estate | applied
+- 2026-08-25: HR&A Advisors | Research Analyst, Real Estate | applied
+- 2026-08-25: 荣耀终端股份有限公司 | AI数据工程师（流程IT与运营部） | pending
+- 2026-08-25: Tesla | Data Analyst, People Products | referral pending
+- 2026-08-25: Garner Health | AI-Native Data Analyst I | applied
 - 2026-08-25: Carrot Fertility | Business Intelligence Analyst | applied
 - 2026-08-25: Intel | AI Software Development Engineer (JR0286123) | applied
 - 2026-08-25: Intel | Data center SW Engineering / Cloud Application Development Engineer (JR0286403) | applied
 - 2026-08-25: Intel | AI Framework Engineer - QA & Benchmarking (JR0286411) | applied
-- 2026-08-25: Intel | Software Development Engineer (JR0285592) | applied
-- 2026-08-24: Carrot | Business Intelligence Analyst | applied
-- 2026-08-23: Micron | New College Grad - Business Analyst, Digital Workplace | applied
-- 2026-08-23: Analytic Partners | Marketing Science Analyst | rejected
-- 2026-08-23: Amazon | Business Intelligence Engineer, North America Transportation Services | applied
-- 2026-08-23: Micron Technology | New College Grad - Business Analyst, Digital Workplace | applied
 
 ## Recommended Opportunity Queue
 
@@ -63,13 +65,13 @@ _Last refreshed: 2026-08-25T03:08:09-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 166 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 166 days with no response
-- Google | Software Engineer II, Early Career | 162 days with no response
-- Apple | AIML - Machine Learning Research | 155 days with no response
-- Amazon | Data Engineer II | 153 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 153 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 153 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 153 days with no response
-- Esri | Product Test Engineer II - Feature Server | 153 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 153 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 167 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 167 days with no response
+- Google | Software Engineer II, Early Career | 163 days with no response
+- Apple | AIML - Machine Learning Research | 156 days with no response
+- Amazon | Data Engineer II | 154 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 154 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 154 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 154 days with no response
+- Esri | Product Test Engineer II - Feature Server | 154 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 154 days with no response
