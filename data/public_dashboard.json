@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-24T04:24:37-07:00",
+  "refreshed_at": "2026-08-25T03:08:09-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,18 +12,18 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 930,
-    "active_roles": 530,
+    "tracked_roles": 936,
+    "active_roles": 532,
     "response_rate_pct": 1.7,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 7.37
+    "avg_evaluated_score": 7.34
   },
   "status_counts": {
     "responded": 6,
-    "applied": 508,
-    "rejected": 119,
+    "applied": 510,
+    "rejected": 123,
     "interview": 5,
     "discarded": 6,
     "skip": 122,
@@ -75,6 +75,48 @@
   ],
   "recent_roles": [
     {
+      "date_found": "2026-08-25",
+      "company": "Carrot Fertility",
+      "role": "Business Intelligence Analyst",
+      "location": "Remote; \u5168\u7403\u9886\u5148\u751f\u80b2/\u5bb6\u5ead\u5065\u5eb7\u798f\u5229\u5e73\u53f0\uff0c\u5a92\u4f53\u62a5\u9053\u591a(Fast Company/Bloomberg/WSJ/HBR)\uff0c\u975e\u7a7a\u58f3\uff1b\"About You\"\u5b8c\u5168\u65e0\u786c\u6027\u5e74\u9650\u8981\u6c42\uff0c\u53ea\u5199\"A Bachelor's Degree\"+\u6280\u80fd\u5217\u8868\uff1bSQL(joins/CTEs/window&analytic functions)\u9010\u5b57\u5bf9\u5e94Olist\u9879\u76ee(LAG/NTILE/RANK/DATE_TRUNC)\uff1bdata viz(Tableau/Looker/DOMO/Power BI)\u547d\u4e2dTableau Public\u5df2\u53d1\u5e03dashboard\uff1bbasic statistics(experiment design/hypothesis testing/significance/distributions)\u5bf9\u5e94Math3B(OLS+lme4)\uff1bdbt/healthcare domain\u662fNice to Have\u975erequired\u771f\u5b9egap\u672aoverclaim\uff1b\u65e0sponsorship\u6761\u6b3e(\u5168\u7bc7\u672a\u63d0\u53ca)\uff1b\u9762\u8bd5\u6d41\u7a0bRecruiter screen+HM+Panel+Performance Task(60min,\u5927\u6982\u7387SQL/dashboard\u4efb\u52a1)\uff0c\u65e0LeetCode\u7ea2\u65d7\uff1b$98-125K\uff1bOlist(headline)->JMI->Math3B\u89d2\u5ea6\uff0cVocareum B1+B3(stakeholder\u9700\u6c42\u7ffb\u8bd1\u5bf9\u5e94JD\"translate BI needs into technical execution\")\uff1b\u7b80\u5386`xiao_long_resume_carrot`+CL(mission-driven\u516c\u53f8\u503c\u5f97\u5199)`xiao_long_cl_carrot`",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-25",
+      "company": "Intel",
+      "role": "AI Software Development Engineer (JR0286123)",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-25",
+      "company": "Intel",
+      "role": "Data center SW Engineering / Cloud Application Development Engineer (JR0286403)",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-25",
+      "company": "Intel",
+      "role": "AI Framework Engineer - QA & Benchmarking (JR0286411)",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-25",
+      "company": "Intel",
+      "role": "Software Development Engineer (JR0285592)",
+      "location": "PRC Chengdu + Malaysia Kulim; College Grad; \u5b98\u7f51\u5168\u7403Workday\u7cfb\u7edf(intel.wd1.myworkdayjobs.com)\u975e\u4e2d\u56fd\u4e13\u5c5e\u6821\u62dbportal(\u641c\u7d22\u76f2\u533a\uff0cGPT\u53d1\u73b0)\uff1bMaster's in Statistics/ML/CS/relevant field required\uff1bpredictive modeling/pattern recognition/clustering/dimensionality reduction/anomaly detection/time series\u5168\u90e8\u547d\u4e2dMath3B+Churn\u9879\u76ee\uff1bSQL/Hadoop/Spark\u548c\u534a\u5bfc\u4f53\u7ecf\u9a8conly a plus\u975erequired\uff1b\u5b9e\u4e3a\"Manufacturing Data Scientist/Applied ML\"\uff0ctitle\u6302SDE\uff1b\u82f1\u6587\u7b80\u5386(\u5168\u7403Workday\u7cfb\u7edf\uff0c\u975e\u56fd\u5185\u6821\u62db\u4e2d\u6587\u6d41\u7a0b)\uff1bMath3B->Churn->JMI\u89d2\u5ea6\uff0cVocareum B1+B2(\u53bb\u6389B3\uff0c\u5236\u9020\u573a\u666f\u975eproduct analytics)\uff0c\u53bb\u6389F-1 OPT\u7ebf(\u4e2d\u56fd\u5883\u5185\u5c97\u4f4d\u4e0d\u9002\u7528)\uff1b\u7b80\u5386`xiao_long_resume_intel_sde_chengdu`\uff1b\u540c\u6279\u67e5\u4e86PRC\u5168\u90e830\u4e2a\u5728\u62db\u5c97\u4f4d(Beijing/Chengdu/Hainan/Shanghai/Shenzhen\u00d7Regular/Contract/Student-Intern)\uff0c\u53e6\u59163\u4e2a\u5019\u9009(JR0286411 AI Framework QA&Benchmarking/JR0286403 Data center SW Engineering/JR0286123 AI Software Development Engineer)\u5df2\u6838\u5b9e\u771f\u5b9e\u4f46\u5c1a\u672a\u6295\u9012\uff0c\u5176\u4f59\u6392\u9664(\u63a8\u7406\u7cfb\u7edf/AI infra/\u786c\u4ef6/PM/\u9500\u552e/EHS/\u9700\u5728\u8bfb\u5b66\u751f\u8eab\u4efd\u7b49)\u8be6\u89c1\u8bc4\u4f30\u8bb0\u5f55",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-24",
+      "company": "Carrot",
+      "role": "Business Intelligence Analyst",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
       "date_found": "2026-08-23",
       "company": "Micron",
       "role": "New College Grad - Business Analyst, Digital Workplace",
@@ -100,48 +142,6 @@
       "company": "Micron Technology",
       "role": "New College Grad - Business Analyst, Digital Workplace",
       "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-23",
-      "company": "Qualcomm",
-      "role": "Business Process Analyst (IP Operations)",
-      "location": "San Diego CA (100% on-site 5\u5929/\u5468\uff0c\u672c\u5730\u65e0\u9700\u642c\u5bb6)\uff1bJob ID 3092910\uff1b\u672c\u79d1\u5b66\u5386\u5373\u53ef\u65e0\u786c\u6027\u5e74\u9650(\"3+ years\"\u662fpreferred\u975erequired)\uff1bKPI\u642d\u5efa+\u591a\u6e90\u6570\u636e\u5206\u6790+dashboard\u5f00\u53d1\uff0cPreferred\u70b9\u540dTableau/Power BI/QlikView+\"AI\u6280\u672f\u719f\u6089\u5ea6/willingness to adopt AI-assisted solutions\"\u7cbe\u51c6\u5339\u914d\uff1b\"not eligible for immigration sponsorship\"\u662f\u6807\u51c6Type1\u8868\u8ff0\u672a\u70b9\u540dOPT\u975e\u786cSKIP\uff1b\u771f\u5b9e\u8f6f\u6027gap\u662fIP/\u4e13\u5229\u8fd0\u8425domain(\u975erequired)\uff1b$70.6-106K\uff1b\u540c\u6279\u67e5\u5230\u7684\"Program Analyst\"(HS diploma\u95e8\u69db,\u7eaf\u9879\u76ee\u534f\u8c03\u975e\u6570\u636e\u5206\u6790)\u5224\u65ad\u5927\u6750\u5c0f\u7528\u672a\u6295\uff1bOlist->JMI->Math3B\u987a\u5e8f\uff0cVocareum B1+B3\uff1b\u65e0CL\uff0cXiao\u81ea\u884c\u6295\u9012",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-23",
-      "company": "Pape-Dawson Engineers",
-      "role": "GIS Analyst I",
-      "location": "Plano/San Antonio/Austin TX\uff1b\u6280\u80fd\u5339\u914d\u6781\u9ad8(\u672c\u79d1GIS\u4e13\u4e1a\u5bf9\u53e3\uff0c\"0-3\u5e74\u7ecf\u9a8c\u542bacademic projects\"\u76f4\u63a5\u547d\u4e2d\u672c\u79d1\u6bd5\u4e1a\u8bba\u6587Landsat/ENVI/GEE/ArcGIS)\uff0c\u4f46\u6218\u7565\u65b9\u5411\u8ddf\u4e3b\u653bDA/DS/AI-native\u4e0d\u7b26\uff0c\u8bc4\u5206\u53cd\u6620\"\u6280\u80fd\u62c9\u6ee1\u4f46\u65b9\u5411\u4e0d\u7b26\"\uff1bXiao\u51b3\u5b9a\"\u6295\u7740\u73a9\u73a9\"\u5f53backup\uff1b\u65e0sponsorship\u6761\u6b3e\uff1b\u7b80\u5386Research\u90e8\u5206(\u672c\u79d1\u8bba\u6587)\u63d0\u5230Work Experience\u524d\uff0cGIS\u6280\u80fd\u533a\u6253\u5934\u9635\uff1b\u65e0CL\uff0cXiao\u81ea\u884c\u6295\u9012",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-23",
-      "company": "CVS Health",
-      "role": "Data Science Analyst (Caremark/Data and Analytics)",
-      "location": "New York NY (Hybrid, 161 Avenue of the Americas); Job ID R0993501\uff1bBachelor's preferred(\u975erequired)+\"0-2 years\"\u660e\u786eentry-level\u533a\u95f4\uff1b\u804c\u8d23\u6db5\u76d6data mining/modeling/NLP/ML+dashboard+KPI\uff0chealthcare domain\u662f\u8f6f\u6027gap\u975e\u786c\u95e8\u69db\uff1b$74.2-148.3K\uff1b\u26a0\ufe0f\u7533\u8bf7\u7a97\u53e38/27\u622a\u6b62\uff1bMath3B->Olist->JMI\u987a\u5e8f\uff0cVocareum B1+B2\uff1b\u65e0CL\uff0cXiao\u81ea\u884c\u6295\u9012\uff1b\u540c\u6279\u67e5\u5230CVS\u53e6\u4e00\u4e2a\"Data Scientist(Caremark)\"\u5c97\u4f4dR1011940\u7591\u4f3cPERM\u7eff\u5361\u5e7f\u544a(\u9010\u9879\u5de5\u5177\u6e05\u5355+Master's+1\u5e74in job offered\u63aa\u8f9e)\u5df2\u6392\u9664\u672a\u6295\uff1bUber\"Data Scientist I, Tech\"\u67e5\u5230\u65f6posting\u5df2\u5173\u95ed(Job removed)",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-22",
-      "company": "Morgan Stanley",
-      "role": "Junior Data Analyst",
-      "location": "Dallas, TX",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-22",
-      "company": "CVS Health",
-      "role": "Data Science Analyst",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-22",
-      "company": "Robinhood",
-      "role": "Business Analyst (New Grad)",
-      "location": "Washington, DC",
       "status": "applied"
     }
   ]
