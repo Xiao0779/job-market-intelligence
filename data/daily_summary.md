@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-26T05:39:55-07:00_
+_Last refreshed: 2026-08-27T04:52:54-07:00_
 
 ## Positioning
 
@@ -10,40 +10,40 @@ _Last refreshed: 2026-08-26T05:39:55-07:00_
 
 ## Snapshot
 
-- Tracked roles: 942
-- Active roles: 536
+- Tracked roles: 949
+- Active roles: 539
 - Response rate: 1.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.31
+- Average evaluated score: 7.26
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 514
+- applied: 515
 - applied ✅: 1
 - discarded: 6
-- evaluated: 11
+- evaluated: 13
 - interview: 5
 - pending: 1
-- referral pending: 1
+- referral pending: 4
 - rejected: 123
 - responded: 6
-- skip: 122
+- skip: 123
 
 ## Recent Activity
 
+- 2026-08-26: LinkedIn | Associate, Strategic Finance - Online Subscriptions | evaluated
+- 2026-08-26: LinkedIn | Insights Associate Program Manager | evaluated
+- 2026-08-26: SHEIN | Database Engineer | skip
+- 2026-08-26: SanMar | Data Analyst, MH&P | applied
+- 2026-08-26: Tesla | Data Analyst, Supply Chain | referral pending
+- 2026-08-26: Tesla | Analyst, FP&A Business Operations | referral pending
+- 2026-08-26: Tesla | Business Intelligence Analyst | referral pending
 - 2026-08-25: Garner | Data Analyst I | applied
 - 2026-08-25: HR&A | Analyst, Real Estate | applied
 - 2026-08-25: HR&A Advisors | Research Analyst, Real Estate | applied
-- 2026-08-25: 荣耀终端股份有限公司 | AI数据工程师（流程IT与运营部） | pending
-- 2026-08-25: Tesla | Data Analyst, People Products | referral pending
-- 2026-08-25: Garner Health | AI-Native Data Analyst I | applied
-- 2026-08-25: Carrot Fertility | Business Intelligence Analyst | applied
-- 2026-08-25: Intel | AI Software Development Engineer (JR0286123) | applied
-- 2026-08-25: Intel | Data center SW Engineering / Cloud Application Development Engineer (JR0286403) | applied
-- 2026-08-25: Intel | AI Framework Engineer - QA & Benchmarking (JR0286411) | applied
 
 ## Recommended Opportunity Queue
 
@@ -65,13 +65,13 @@ _Last refreshed: 2026-08-26T05:39:55-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 167 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 167 days with no response
-- Google | Software Engineer II, Early Career | 163 days with no response
-- Apple | AIML - Machine Learning Research | 156 days with no response
-- Amazon | Data Engineer II | 154 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 154 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 154 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 154 days with no response
-- Esri | Product Test Engineer II - Feature Server | 154 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 154 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 168 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 168 days with no response
+- Google | Software Engineer II, Early Career | 164 days with no response
+- Apple | AIML - Machine Learning Research | 157 days with no response
+- Amazon | Data Engineer II | 155 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 155 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 155 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 155 days with no response
+- Esri | Product Test Engineer II - Feature Server | 155 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 155 days with no response
