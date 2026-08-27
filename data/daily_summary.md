@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-27T04:52:54-07:00_
+_Last refreshed: 2026-08-28T05:45:02-07:00_
 
 ## Positioning
 
@@ -10,40 +10,40 @@ _Last refreshed: 2026-08-27T04:52:54-07:00_
 
 ## Snapshot
 
-- Tracked roles: 949
-- Active roles: 539
+- Tracked roles: 952
+- Active roles: 537
 - Response rate: 1.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.26
+- Average evaluated score: 7.25
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 515
+- applied: 514
 - applied ✅: 1
-- discarded: 6
-- evaluated: 13
+- discarded: 7
+- evaluated: 12
 - interview: 5
 - pending: 1
 - referral pending: 4
-- rejected: 123
+- rejected: 127
 - responded: 6
 - skip: 123
 
 ## Recent Activity
 
-- 2026-08-26: LinkedIn | Associate, Strategic Finance - Online Subscriptions | evaluated
-- 2026-08-26: LinkedIn | Insights Associate Program Manager | evaluated
-- 2026-08-26: SHEIN | Database Engineer | skip
-- 2026-08-26: SanMar | Data Analyst, MH&P | applied
-- 2026-08-26: Tesla | Data Analyst, Supply Chain | referral pending
-- 2026-08-26: Tesla | Analyst, FP&A Business Operations | referral pending
+- 2026-08-27: Security Mutual Life | Associate Data Analyst | applied
+- 2026-08-27: 淘天集团 | 数据分析/数据科学专家-平台策略 | applied
+- 2026-08-27: 淘天集团 | 高级商业分析师-AI产品 | applied
+- 2026-08-26: Tesla | Data Analyst, People Products | referral pending
 - 2026-08-26: Tesla | Business Intelligence Analyst | referral pending
-- 2026-08-25: Garner | Data Analyst I | applied
-- 2026-08-25: HR&A | Analyst, Real Estate | applied
-- 2026-08-25: HR&A Advisors | Research Analyst, Real Estate | applied
+- 2026-08-26: Tesla | Analyst, FP&A Business Operations | referral pending
+- 2026-08-26: Tesla | Data Analyst, Supply Chain | referral pending
+- 2026-08-26: SanMar | Data Analyst, MH&P | applied
+- 2026-08-26: LinkedIn | Associate, Strategic Finance - Online Subscriptions | evaluated
+- 2026-08-26: LinkedIn | Insights Associate Program Manager | discarded
 
 ## Recommended Opportunity Queue
 
@@ -65,13 +65,13 @@ _Last refreshed: 2026-08-27T04:52:54-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 168 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 168 days with no response
-- Google | Software Engineer II, Early Career | 164 days with no response
-- Apple | AIML - Machine Learning Research | 157 days with no response
-- Amazon | Data Engineer II | 155 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 155 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 155 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 155 days with no response
-- Esri | Product Test Engineer II - Feature Server | 155 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 155 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 169 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 169 days with no response
+- Google | Software Engineer II, Early Career | 165 days with no response
+- Apple | AIML - Machine Learning Research | 158 days with no response
+- Amazon | Data Engineer II | 156 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 156 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 156 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 156 days with no response
+- Esri | Product Test Engineer II - Feature Server | 156 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 156 days with no response
