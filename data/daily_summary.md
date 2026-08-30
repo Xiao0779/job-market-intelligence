@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-29T04:13:50-07:00_
+_Last refreshed: 2026-08-30T18:04:32-07:00_
 
 ## Positioning
 
@@ -10,40 +10,40 @@ _Last refreshed: 2026-08-29T04:13:50-07:00_
 
 ## Snapshot
 
-- Tracked roles: 956
-- Active roles: 541
+- Tracked roles: 964
+- Active roles: 544
 - Response rate: 1.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.22
+- Average evaluated score: 7.18
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 515
+- applied: 517
 - applied ✅: 1
 - discarded: 7
-- evaluated: 15
+- evaluated: 16
 - interview: 5
 - pending: 1
 - referral pending: 4
-- rejected: 127
+- rejected: 130
 - responded: 6
-- skip: 123
+- skip: 125
 
 ## Recent Activity
 
+- 2026-08-30: Mercor | Mercor Research Fellowship — APEX | applied
+- 2026-08-30: Mercor | Research Fellowship - APEX | applied
+- 2026-08-29: Dexcom | Data Scientist 2 (Product Intelligence) | applied
+- 2026-08-29: Dexcom | Business Intelligence Analyst (L2) Pilot Operations/Pre-Commercial | applied
+- 2026-08-29: Avis Budget Group | Product Analyst | applied
+- 2026-08-29: 美团 | AI产品经理(NoCode&CatPaw系列产品) | evaluated
+- 2026-08-29: 美团 | AI产品经理(Builder方向/内容营销增长) | evaluated
+- 2026-08-29: Mastercard | Data Scientist I | skip
+- 2026-08-29: Visa | Product Management Analyst | skip
 - 2026-08-28: Milwaukee Bucks | Business Intelligence Analyst | applied
-- 2026-08-28: Dexcom | Data Scientist 2 (Product Intelligence) | evaluated
-- 2026-08-27: Security Mutual Life | Associate Data Analyst | applied
-- 2026-08-27: 科大讯飞 | 大模型数据项目经理(J13404) | evaluated
-- 2026-08-27: 科大讯飞 | AI产品经理(J13348) | evaluated
-- 2026-08-27: 淘天集团 | 数据分析/数据科学专家-平台策略 | applied
-- 2026-08-27: 淘天集团 | 高级商业分析师-AI产品 | applied
-- 2026-08-26: Tesla | Data Analyst, People Products | referral pending
-- 2026-08-26: Tesla | Business Intelligence Analyst | referral pending
-- 2026-08-26: Tesla | Analyst, FP&A Business Operations | referral pending
 
 ## Recommended Opportunity Queue
 
@@ -65,13 +65,13 @@ _Last refreshed: 2026-08-29T04:13:50-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 170 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 170 days with no response
-- Google | Software Engineer II, Early Career | 166 days with no response
-- Apple | AIML - Machine Learning Research | 159 days with no response
-- Amazon | Data Engineer II | 157 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 157 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 157 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 157 days with no response
-- Esri | Product Test Engineer II - Feature Server | 157 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 157 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 171 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 171 days with no response
+- Google | Software Engineer II, Early Career | 167 days with no response
+- Apple | AIML - Machine Learning Research | 160 days with no response
+- Amazon | Data Engineer II | 158 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 158 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 158 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 158 days with no response
+- Esri | Product Test Engineer II - Feature Server | 158 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 158 days with no response
