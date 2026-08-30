@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-30T18:04:32-07:00_
+_Last refreshed: 2026-08-31T04:16:50-07:00_
 
 ## Positioning
 
@@ -10,18 +10,18 @@ _Last refreshed: 2026-08-30T18:04:32-07:00_
 
 ## Snapshot
 
-- Tracked roles: 964
-- Active roles: 544
+- Tracked roles: 971
+- Active roles: 551
 - Response rate: 1.7%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.18
+- Average evaluated score: 7.16
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 517
+- applied: 524
 - applied ✅: 1
 - discarded: 7
 - evaluated: 16
@@ -35,15 +35,15 @@ _Last refreshed: 2026-08-30T18:04:32-07:00_
 ## Recent Activity
 
 - 2026-08-30: Mercor | Mercor Research Fellowship — APEX | applied
+- 2026-08-30: Gartner | Associate Data Scientist | applied
+- 2026-08-30: AEP | Data Scientist Associate - Data Scientist Sr. | applied
+- 2026-08-30: University of Rochester | Data Analyst I | applied
+- 2026-08-30: 360 | AI产品专员（文库方向，J12294） | applied
+- 2026-08-30: University of Rochester | Data Analyst I/II (Public Health Sciences, HEEL Lab) | applied
+- 2026-08-30: American Electric Power | Data Scientist Associate - Data Scientist Sr. (banded SG06-08) | applied
+- 2026-08-30: Gartner | Associate Data Scientist (Marketing Technology/GSSO) | applied
 - 2026-08-30: Mercor | Research Fellowship - APEX | applied
 - 2026-08-29: Dexcom | Data Scientist 2 (Product Intelligence) | applied
-- 2026-08-29: Dexcom | Business Intelligence Analyst (L2) Pilot Operations/Pre-Commercial | applied
-- 2026-08-29: Avis Budget Group | Product Analyst | applied
-- 2026-08-29: 美团 | AI产品经理(NoCode&CatPaw系列产品) | evaluated
-- 2026-08-29: 美团 | AI产品经理(Builder方向/内容营销增长) | evaluated
-- 2026-08-29: Mastercard | Data Scientist I | skip
-- 2026-08-29: Visa | Product Management Analyst | skip
-- 2026-08-28: Milwaukee Bucks | Business Intelligence Analyst | applied
 
 ## Recommended Opportunity Queue
 
@@ -65,13 +65,13 @@ _Last refreshed: 2026-08-30T18:04:32-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 171 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 171 days with no response
-- Google | Software Engineer II, Early Career | 167 days with no response
-- Apple | AIML - Machine Learning Research | 160 days with no response
-- Amazon | Data Engineer II | 158 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 158 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 158 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 158 days with no response
-- Esri | Product Test Engineer II - Feature Server | 158 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 158 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 172 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 172 days with no response
+- Google | Software Engineer II, Early Career | 168 days with no response
+- Apple | AIML - Machine Learning Research | 161 days with no response
+- Amazon | Data Engineer II | 159 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 159 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 159 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 159 days with no response
+- Esri | Product Test Engineer II - Feature Server | 159 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 159 days with no response

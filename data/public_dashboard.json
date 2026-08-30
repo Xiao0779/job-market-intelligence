@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-30T18:04:32-07:00",
+  "refreshed_at": "2026-08-31T04:16:50-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,17 +12,17 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 964,
-    "active_roles": 544,
+    "tracked_roles": 971,
+    "active_roles": 551,
     "response_rate_pct": 1.7,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 7.18
+    "avg_evaluated_score": 7.16
   },
   "status_counts": {
     "responded": 6,
-    "applied": 517,
+    "applied": 524,
     "rejected": 130,
     "interview": 5,
     "discarded": 7,
@@ -85,6 +85,55 @@
     },
     {
       "date_found": "2026-08-30",
+      "company": "Gartner",
+      "role": "Associate Data Scientist",
+      "location": "Fort Myers, FL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-30",
+      "company": "AEP",
+      "role": "Data Scientist Associate - Data Scientist Sr.",
+      "location": "Wayne, IN",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-30",
+      "company": "University of Rochester",
+      "role": "Data Analyst I",
+      "location": "New York",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-30",
+      "company": "360",
+      "role": "AI\u4ea7\u54c1\u4e13\u5458\uff08\u6587\u5e93\u65b9\u5411\uff0cJ12294\uff09",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-30",
+      "company": "University of Rochester",
+      "role": "Data Analyst I/II (Public Health Sciences, HEEL Lab)",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-30",
+      "company": "American Electric Power",
+      "role": "Data Scientist Associate - Data Scientist Sr. (banded SG06-08)",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-30",
+      "company": "Gartner",
+      "role": "Associate Data Scientist (Marketing Technology/GSSO)",
+      "location": "",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-08-30",
       "company": "Mercor",
       "role": "Research Fellowship - APEX",
       "location": "\u5b9a\u5236\u7b80\u5386+\u4e00\u9875\u7814\u7a76\u63d0\u6848(pitch)\uff1brubric design/human-model grading agreement\u65b9\u5411\uff0c\u57fa\u4e8e\u771f\u5b9eACII 2026\u6807\u6ce8\u534f\u8bae\u91cd\u8bbe\u8ba1\u7ecf\u9a8c(\u4e8c\u5143\u5224\u65ad\u2192\u56db\u9009\u4e00\u6392\u5e8f)+Math3B mixed-effects\u5efa\u6a21\uff1bSF/London/NYC remote\u53ef\u9009\uff1b3-6\u4e2a\u6708stipend $40-80K\uff1b\u7533\u8bf7\u5efa\u8bae6\u4e2a\u6708\u5468\u671f\uff1b\u7b80\u5386`xiao_long_resume_mercor_fellowship`\uff0cpitch\u6587\u4ef6`Mercor Fellowship/xiao_long_mercor_apex_proposal.pdf`\uff1bdeadline 2026-09-25\uff1b\u26a0\ufe0f\u975eW-2 stipend\u5f62\u5f0f\uff0cOPT\u5408\u89c4\u6027\u5f85\u6b63\u5f0foffer\u540e\u8ddfUCSD ISEO\u786e\u8ba4",
@@ -95,55 +144,6 @@
       "company": "Dexcom",
       "role": "Data Scientist 2 (Product Intelligence)",
       "location": "San Diego",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-29",
-      "company": "Dexcom",
-      "role": "Business Intelligence Analyst (L2) Pilot Operations/Pre-Commercial",
-      "location": "San Diego",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-29",
-      "company": "Avis Budget Group",
-      "role": "Product Analyst",
-      "location": "Parsippany",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-29",
-      "company": "\u7f8e\u56e2",
-      "role": "AI\u4ea7\u54c1\u7ecf\u7406(NoCode&CatPaw\u7cfb\u5217\u4ea7\u54c1)",
-      "location": "",
-      "status": "evaluated"
-    },
-    {
-      "date_found": "2026-08-29",
-      "company": "\u7f8e\u56e2",
-      "role": "AI\u4ea7\u54c1\u7ecf\u7406(Builder\u65b9\u5411/\u5185\u5bb9\u8425\u9500\u589e\u957f)",
-      "location": "",
-      "status": "evaluated"
-    },
-    {
-      "date_found": "2026-08-29",
-      "company": "Mastercard",
-      "role": "Data Scientist I",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-29",
-      "company": "Visa",
-      "role": "Product Management Analyst",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-08-28",
-      "company": "Milwaukee Bucks",
-      "role": "Business Intelligence Analyst",
-      "location": "Milwaukee, WI",
       "status": "applied"
     }
   ]
