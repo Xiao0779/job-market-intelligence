@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-31T04:16:50-07:00",
+  "refreshed_at": "2026-09-05T02:18:12-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,19 +12,19 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 971,
-    "active_roles": 551,
-    "response_rate_pct": 1.7,
+    "tracked_roles": 989,
+    "active_roles": 554,
+    "response_rate_pct": 1.5,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 7.16
+    "avg_evaluated_score": 7.09
   },
   "status_counts": {
     "responded": 6,
-    "applied": 524,
-    "rejected": 130,
-    "interview": 5,
+    "applied": 528,
+    "rejected": 145,
+    "interview": 4,
     "discarded": 7,
     "skip": 125,
     "evaluated": 16,
@@ -77,73 +77,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-08-30",
-      "company": "Mercor",
-      "role": "Mercor Research Fellowship \u2014 APEX",
+      "date_found": "2026-09-05",
+      "company": "Terex (Genie)",
+      "role": "[2027] Genie Leadership Development Program (GLDP)",
+      "location": "US-WA Bothell/Redmond/Moses Lake(\u8f6e\u5c97\u5168\u7f8e\u642c\u5bb6); REQ-13727; \u4e09\u5e74\u8f6e\u5c97Production Supervisor(\u5236\u9020\u8fd0\u8425)->Associate Sales Manager(\u9500\u552e/\u5ba2\u6237\u5173\u7cfb)->Associate Product Manager(\u4ea7\u54c1\u7b56\u7565+P&L)\uff1b\"Bachelor's degree(any major)\"\u4e0d\u5361\u4e13\u4e1a+\"graduation by June 2027 or within the past two years\"\u8986\u76d6Xiao 2026.6\u6bd5\u4e1a\uff1bTerex\u5b98\u7f51Leadership Programs\u603b\u89c8\u9875\u663e\u793a\u53e6\u6709TLDP(IT\u65b9\u5411)/FLDP(\u8d22\u52a1\u65b9\u5411)\u6807\u6ce8\"2026 applications open Jan 2026\"\u4f46\u9875\u9762\u7591\u4f3c\u672a\u66f4\u65b0(\u5df2\u8fc7Jan 2026)\uff0c\u5efa\u8bae\u540e\u7eed\u76f4\u63a5\u67e5\u5b98\u7f51\u6838\u5b9e\u662f\u5426\u5df2\u5f00\u653e\uff1b\u26a0\ufe0f2027\u5e746\u6708\u5f00\u59cb\uff0c\u53c2\u7167Databricks APM(#704)\"\u7533\u8bf7\u662f\u73b0\u5728\u5165\u804c\u662f\u660e\u5e74\"\u5148\u4f8b\u975eSKIP\u7406\u7531\uff1b\u4e52\u4e53\u7403\u534f\u4f1a\u4e3b\u5e2d\u7ecf\u5386(\u56e2\u961f\u7ba1\u7406/\u9884\u7b97/\u8d5e\u52a9\u5546\u5173\u7cfb)\u9996\u6b21\u4f5c\u4e3a\u6b63\u5f0fLeadership\u677f\u5757\u9996\u4f4d\u4f7f\u7528\uff0c\u76f4\u63a5\u5bf9\u5e94Sales Manager\u8f6e\u5c97\uff1b$81K(\u56fa\u5b9a\uff0c\u7533\u8bf7\u8868\u586b\u5199desired compensation\u5df2\u6309\u6b64\u6570\u5b57\u56de\u7b54)\uff1bJD\u672a\u63d0sponsorship\u6761\u6b3e\uff1b\u540c\u6279\u7b5b\u6389\u4e24\u4e2a\uff1aELDP(#REQ-13729,\u786c\u6027ABET\u5de5\u7a0b\u5b66\u4f4d\u4e0d\u7b26,SKIP)+NPD Program Manager Watertown SD(#REQ-13909,3-5\u5e74\u7ecf\u9a8c\u786c\u6027\u8981\u6c42\u975e\u65b0grad\u5c97,SKIP)\uff1b\u7b80\u5386`xiao_long_resume_terex_gldp`\u91cd\u65b0\u8bbe\u8ba1\u4e3a\u901a\u7528\u7ba1\u7406generalist\u53d9\u4e8b(Leadership & Team Management/Data-Driven Decision Making/Business Acumen)\uff0c\u65e0CL\uff1bXiao\u81ea\u5df1\u6295\u9012",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-09-05",
+      "company": "Handshake AI",
+      "role": "Strategic Projects Associate",
+      "location": "San Francisco on-site 5\u5929/\u5468; HAI Delivery Ops\u90e8\u95e8; $120K+equity+bonus\uff1b\u26a0\ufe0f\u975e\u91cd\u590d(\u4e4b\u524d\u6295\u8fc7Handshake\u4e24\u6b21#55/#163\u5747\u4e3aML Engineer\u65b9\u5411\uff0c\u8fd9\u6b21\u662f\u5b8c\u5168\u4e0d\u540c\u7684HAI Delivery Ops\u90e8\u95e8)\uff1bHandshake\u8f6c\u578b\u505a\u7684Handshake AI\u4eba\u7c7b\u6807\u6ce8\u6570\u636e\u4e1a\u52a1\u771f\u5b9e\u5feb\u901f\u589e\u957f(\u6708\u4ed86000\u4e07\u7f8e\u5143\u7ed93\u4e07+\u6807\u6ce8\u8005)\uff1b\u6838\u5fc3\u4eae\u70b9\u2014\u2014Xiao\u7684RLHF\u6807\u6ce8\u534f\u8bae\u8bbe\u8ba1\u7ecf\u5386(\u8ddfShuangquan Feng\u5408\u4f5c\u628a\u8bc4\u4f30\u534f\u8bae\u4ece\u4e8c\u5143\u5224\u65ad\u6539\u6210pairwise ranking,\u5df2\u4fc3\u6210ACII 2026\u8bba\u6587\u63a5\u6536)\u8ddfJD\u539f\u6587\"translate customer needs into well-structured data sets\"\u9ad8\u5ea6\u91cd\u5408\uff0c\u662f\u8fd9\u6279\u91cc\u5177\u4f53\u7ecf\u5386\u4e0e\u516c\u53f8\u6838\u5fc3\u4e1a\u52a1\u91cd\u5408\u5ea6\u6700\u9ad8\u7684\u4e00\u6b21\uff1b\"recent graduate or graduating soon\"\u8986\u76d6\u5df2\u6bd5\u4e1a\uff1b\u771f\u5b9egap\u662f\"internships in tech/consulting/banking/financial services/startups\"\u53ea\u80fd\u9760Sobot(startup)\u90e8\u5206\u8986\u76d6\uff0c\u975e\u6295\u884c\u54a8\u8be2\u5c65\u5386\uff1b\"manage globally distributed teams of contributors\"\u65e0\u6b63\u5f0f\u7ba1\u7406\u7ecf\u9a8c\uff1bJD\u672a\u63d0sponsorship\u6761\u6b3e\uff1b\u7b80\u5386`xiao_long_resume_handshakeai_strategicprojects`+CL`xiao_long_cl_handshakeai_strategicprojects`\u628aRLHF\u6807\u6ce8\u534f\u8bae\u8bbe\u8ba1(B2)\u63d0\u5230headline\uff0cSobot\u6539\u5199\u4e3a\"fast-moving AI startup\"\u547c\u5e94startup\u5b9e\u4e60\u8981\u6c42\uff0cSkills\u65b0\u589e\"Human Data & Annotation\"\uff1bXiao\u81ea\u5df1\u6295\u9012",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-09-04",
+      "company": "Handshake",
+      "role": "Strategic Projects Associate",
       "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-30",
-      "company": "Gartner",
+      "date_found": "2026-09-04",
+      "company": "Canvas Medical",
+      "role": "Solutions Consultant",
+      "location": "Remote",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-09-04",
+      "company": "Terex",
+      "role": "2027 Genie Leadership Development Program",
+      "location": "Redmond, WA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-09-04",
+      "company": "Henry Ford Health",
       "role": "Associate Data Scientist",
-      "location": "Fort Myers, FL",
+      "location": "Detroit, Michigan",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-30",
-      "company": "AEP",
-      "role": "Data Scientist Associate - Data Scientist Sr.",
-      "location": "Wayne, IN",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-30",
-      "company": "University of Rochester",
-      "role": "Data Analyst I",
-      "location": "New York",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-30",
-      "company": "360",
-      "role": "AI\u4ea7\u54c1\u4e13\u5458\uff08\u6587\u5e93\u65b9\u5411\uff0cJ12294\uff09",
+      "date_found": "2026-09-04",
+      "company": "Vermeer Corporation",
+      "role": "Data Analyst I - Operations",
       "location": "",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-30",
-      "company": "University of Rochester",
-      "role": "Data Analyst I/II (Public Health Sciences, HEEL Lab)",
-      "location": "",
+      "date_found": "2026-09-04",
+      "company": "Roblox",
+      "role": "[2027] Associate Product Manager, Early Career",
+      "location": "San Mateo CA(\u79bbSan Bruno\u8fd1); ID 41298; 21\u4e2a\u6708\u8f6e\u5c97\u9879\u76ee\uff0c\u8ddfIXL APM(#699)\u540carchetype; \"pursuing or possessing\"\u5b66\u4f4d\u8986\u76d6\u5df2\u6bd5\u4e1aMaster's\uff1b\u4e0d\u5361\u5e74\u9650\uff1b$143K flat\uff1b\u26a0\ufe0f\u7b7e\u8bc1\u6761\u6b3e\"may not be able to employ candidates who have US work authorization related to certain visa categories\"\u8ddf7\u6708SKIP\u6389\u7684Roblox Data Scientist(#328)\u51e0\u4e4e\u4e00\u5b57\u4e0d\u5dee\uff0c\u7591\u4f3c\u540c\u4e00\u5185\u90e8\u653f\u7b56\u975e\u6807\u51c6type1\u6761\u6b3e\uff0c\u98ce\u9669\u9ad8\u4e8e\u666e\u901ano-sponsorship\u4f46\u672a\u8fbe\u660e\u786e\u70b9\u540dOPT\u7684100%\u786e\u5b9a\u786cSKIP\uff0cXiao\u77e5\u60c5\u540e\u4ecd\u51b3\u5b9a\u6295\uff1b\u7b80\u5386`xiao_long_resume_roblox_apm`+CL`xiao_long_cl_roblox_apm`\u57fa\u4e8eIXL APM\u540c\u6846\u67b6(B3\u4ea7\u54c1UX\u6545\u4e8b+B1\u6570\u636e\u53d1\u73b0\u6545\u4e8b)\u5fae\u8c03\u4e52\u4e53\u7403\u534f\u4f1a\u4e3b\u5e2dbullet\u547c\u5e94\"connecting people at scale\"\uff1b\u7533\u8bf7\u8868screening question(\u57fa\u4e8e\u67e5\u8bc1Roblox Newsroom\u6700\u65b0\u5e74\u9f84\u5206\u5c42\u8d26\u53f7\u4f53\u7cfbKids/Select\u771f\u5b9e\u529f\u80fd\u63d0\u51fa\"graduated account transition onboarding\"\u4ea7\u54c1\u5efa\u8bae\uff0c\u672a\u51ed\u7a7a\u7f16\u9020)\u5df2\u4f5c\u7b54\uff0c\u7ea6240\u5b57\u5728250\u5b57\u9650\u5185\uff1bXiao\u81ea\u5df1\u6295\u9012",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-30",
-      "company": "American Electric Power",
-      "role": "Data Scientist Associate - Data Scientist Sr. (banded SG06-08)",
-      "location": "",
+      "date_found": "2026-09-03",
+      "company": "Amgen",
+      "role": "Data Scientist",
+      "location": "Thousand Oaks, CA",
       "status": "applied"
     },
     {
-      "date_found": "2026-08-30",
-      "company": "Gartner",
-      "role": "Associate Data Scientist (Marketing Technology/GSSO)",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-30",
-      "company": "Mercor",
-      "role": "Research Fellowship - APEX",
-      "location": "\u5b9a\u5236\u7b80\u5386+\u4e00\u9875\u7814\u7a76\u63d0\u6848(pitch)\uff1brubric design/human-model grading agreement\u65b9\u5411\uff0c\u57fa\u4e8e\u771f\u5b9eACII 2026\u6807\u6ce8\u534f\u8bae\u91cd\u8bbe\u8ba1\u7ecf\u9a8c(\u4e8c\u5143\u5224\u65ad\u2192\u56db\u9009\u4e00\u6392\u5e8f)+Math3B mixed-effects\u5efa\u6a21\uff1bSF/London/NYC remote\u53ef\u9009\uff1b3-6\u4e2a\u6708stipend $40-80K\uff1b\u7533\u8bf7\u5efa\u8bae6\u4e2a\u6708\u5468\u671f\uff1b\u7b80\u5386`xiao_long_resume_mercor_fellowship`\uff0cpitch\u6587\u4ef6`Mercor Fellowship/xiao_long_mercor_apex_proposal.pdf`\uff1bdeadline 2026-09-25\uff1b\u26a0\ufe0f\u975eW-2 stipend\u5f62\u5f0f\uff0cOPT\u5408\u89c4\u6027\u5f85\u6b63\u5f0foffer\u540e\u8ddfUCSD ISEO\u786e\u8ba4",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-08-29",
-      "company": "Dexcom",
-      "role": "Data Scientist 2 (Product Intelligence)",
-      "location": "San Diego",
+      "date_found": "2026-09-03",
+      "company": "IXL Learning",
+      "role": "Associate Product Manager, New Grad",
+      "location": "San Mateo, CA",
       "status": "applied"
     }
   ]

@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-08-31T04:16:50-07:00_
+_Last refreshed: 2026-09-05T02:18:12-07:00_
 
 ## Positioning
 
@@ -10,40 +10,40 @@ _Last refreshed: 2026-08-31T04:16:50-07:00_
 
 ## Snapshot
 
-- Tracked roles: 971
-- Active roles: 551
-- Response rate: 1.7%
+- Tracked roles: 989
+- Active roles: 554
+- Response rate: 1.5%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.16
+- Average evaluated score: 7.09
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 524
+- applied: 528
 - applied ✅: 1
 - discarded: 7
 - evaluated: 16
-- interview: 5
+- interview: 4
 - pending: 1
 - referral pending: 4
-- rejected: 130
+- rejected: 145
 - responded: 6
 - skip: 125
 
 ## Recent Activity
 
-- 2026-08-30: Mercor | Mercor Research Fellowship — APEX | applied
-- 2026-08-30: Gartner | Associate Data Scientist | applied
-- 2026-08-30: AEP | Data Scientist Associate - Data Scientist Sr. | applied
-- 2026-08-30: University of Rochester | Data Analyst I | applied
-- 2026-08-30: 360 | AI产品专员（文库方向，J12294） | applied
-- 2026-08-30: University of Rochester | Data Analyst I/II (Public Health Sciences, HEEL Lab) | applied
-- 2026-08-30: American Electric Power | Data Scientist Associate - Data Scientist Sr. (banded SG06-08) | applied
-- 2026-08-30: Gartner | Associate Data Scientist (Marketing Technology/GSSO) | applied
-- 2026-08-30: Mercor | Research Fellowship - APEX | applied
-- 2026-08-29: Dexcom | Data Scientist 2 (Product Intelligence) | applied
+- 2026-09-05: Terex (Genie) | [2027] Genie Leadership Development Program (GLDP) | applied
+- 2026-09-05: Handshake AI | Strategic Projects Associate | applied
+- 2026-09-04: Handshake | Strategic Projects Associate | applied
+- 2026-09-04: Canvas Medical | Solutions Consultant | applied
+- 2026-09-04: Terex | 2027 Genie Leadership Development Program | applied
+- 2026-09-04: Henry Ford Health | Associate Data Scientist | applied
+- 2026-09-04: Vermeer Corporation | Data Analyst I - Operations | applied
+- 2026-09-04: Roblox | [2027] Associate Product Manager, Early Career | applied
+- 2026-09-03: Amgen | Data Scientist | applied
+- 2026-09-03: IXL Learning | Associate Product Manager, New Grad | applied
 
 ## Recommended Opportunity Queue
 
@@ -65,13 +65,13 @@ _Last refreshed: 2026-08-31T04:16:50-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 172 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 172 days with no response
-- Google | Software Engineer II, Early Career | 168 days with no response
-- Apple | AIML - Machine Learning Research | 161 days with no response
-- Amazon | Data Engineer II | 159 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 159 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 159 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 159 days with no response
-- Esri | Product Test Engineer II - Feature Server | 159 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 159 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 177 days with no response
+- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 177 days with no response
+- Google | Software Engineer II, Early Career | 173 days with no response
+- Apple | AIML - Machine Learning Research | 166 days with no response
+- Amazon | Data Engineer II | 164 days with no response
+- Amazon | Software Development Engineer – Amazon Leo (US) | 164 days with no response
+- Amazon | Software Development Engineer - 2026 (US) | 164 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 164 days with no response
+- Esri | Product Test Engineer II - Feature Server | 164 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 164 days with no response
