@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-05T02:18:12-07:00",
+  "refreshed_at": "2026-09-12T16:36:56-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,8 +12,8 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 989,
-    "active_roles": 554,
+    "tracked_roles": 990,
+    "active_roles": 555,
     "response_rate_pct": 1.5,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,7 +22,7 @@
   },
   "status_counts": {
     "responded": 6,
-    "applied": 528,
+    "applied": 529,
     "rejected": 145,
     "interview": 4,
     "discarded": 7,
@@ -76,6 +76,13 @@
     }
   ],
   "recent_roles": [
+    {
+      "date_found": "2026-09-09",
+      "company": "Tencent",
+      "role": "AI Business Analyst Intern (108039, IEG Strategy & Investment)",
+      "location": "Palo Alto CA(\u79bbSan Bruno\u4e0d\u8fdc); Level Infinite\u6e38\u620f\u53d1\u884c\u54c1\u724c; \u5168\u573a39\u4e2a\u7f8e\u56fd\u5728\u62db\u5c97\u4f4d\u91cc\u5c11\u89c1\u7684\u4e0d\u5361\"currently enrolled\"\u8eab\u4efd\u7684\u4e00\u6761(\u591a\u6570\u5176\u4ed6\u5b9e\u4e60\u5c97\u5199Final-year/currently a student\u6392\u9664\u5df2\u6bd5\u4e1a)\uff1bCS/Math/related field+business acumen\u8986\u76d6CSS\uff1b\u5206\u6790Game AI\u5e94\u7528\u573a\u666f+\u5e02\u573a\u8c03\u7814\u62a5\u544a\uff0c\u65b9\u5411\u662f\u7814\u7a76/\u62a5\u544a\u975e\u7eafBI\uff1b$24.81-$42.70/hr\uff1b\u26a0\ufe0f\"no guaranteed full-time headcount upon completion\"\u5982\u5b9e\u544a\u77e5\u975e\u7559\u7528\u627f\u8bfa\uff0c\u4f46\u4f5c\u4e3a\u771f\u5b9e\u6709\u507f\u5b9e\u4e60\u672c\u8eab\u53ef\u4ee5\u505c90\u5929\u5931\u4e1a\u5012\u8ba1\u65f6\uff1bIEG Strategy & Investment\u56e2\u961f\u542b\u9ad8\u542b\u91d1\u91cf\u5c65\u5386(\u9876\u7ea7\u54a8\u8be2/\u6295\u884c\u80cc\u666f\u540c\u4e8b)\uff1b\u771f\u5b9egap\u662fGame AI\u5782\u76f4\u9886\u57df\u5b8c\u5168\u65b0\u9886\u57df\uff0c\u4f46JD\u672c\u8eab\u5b9a\u4f4d\u662f\u5165\u95e8\u5206\u6790\u652f\u6301\u6027\u8d28\uff1b\u7b80\u5386`xiao_long_resume_tencent_aibusinessanalyst`\u89d2\u5ea6Subliminal Learning Experiments(headline,\u77e5\u8bc6\u84b8\u998f/token entanglement\u7814\u7a76\u76f4\u63a5\u5bf9\u5e94\"emerging AI technology\")->NLP pipeline->Math3B\uff0cVocareum B1(\u6570\u636e\u53d1\u73b0\u5199\u6210report)+B2(RLHF\u6807\u6ce8\u7814\u7a76\u4fc3\u6210ACII2026\u8bba\u6587)\uff0cSkills\u65b0\u589eAI & ML Research/Research & Reporting\u4e24\u5757\uff1b\u65e0CL\uff1bXiao\u81ea\u5df1\u6295\u9012",
+      "status": "applied"
+    },
     {
       "date_found": "2026-09-05",
       "company": "Terex (Genie)",
@@ -137,13 +144,6 @@
       "company": "Amgen",
       "role": "Data Scientist",
       "location": "Thousand Oaks, CA",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-09-03",
-      "company": "IXL Learning",
-      "role": "Associate Product Manager, New Grad",
-      "location": "San Mateo, CA",
       "status": "applied"
     }
   ]
