@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-20T16:17:01-07:00",
+  "refreshed_at": "2026-10-20T16:20:34-07:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -13,7 +13,7 @@
   ],
   "metrics": {
     "tracked_roles": 1004,
-    "active_roles": 427,
+    "active_roles": 426,
     "response_rate_pct": 0.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
@@ -22,10 +22,9 @@
   },
   "status_counts": {
     "responded": 6,
-    "applied": 413,
-    "rejected": 289,
-    "skip": 125,
-    "referral pending": 4,
+    "applied": 412,
+    "rejected": 293,
+    "skip": 126,
     "evaluated": 8,
     "discarded": 6,
     "pending": 1,
@@ -76,13 +75,6 @@
   "recent_roles": [
     {
       "date_found": "2026-10-20",
-      "company": "HappyRobot",
-      "role": "Product Engineer Intern",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-10-20",
       "company": "Fulcrum",
       "role": "Generalist",
       "location": "San Francisco",
@@ -115,6 +107,13 @@
       "role": "Generalist (Strategic Ops & Product)",
       "location": "",
       "status": "applied"
+    },
+    {
+      "date_found": "2026-10-20",
+      "company": "HappyRobot",
+      "role": "Product Engineer Intern",
+      "location": "",
+      "status": "skip"
     },
     {
       "date_found": "2026-10-19",

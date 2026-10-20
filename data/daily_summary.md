@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-10-20T16:17:01-07:00_
+_Last refreshed: 2026-10-20T16:20:34-07:00_
 
 ## Positioning
 
@@ -11,7 +11,7 @@ _Last refreshed: 2026-10-20T16:17:01-07:00_
 ## Snapshot
 
 - Tracked roles: 1004
-- Active roles: 427
+- Active roles: 426
 - Response rate: 0.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
@@ -21,23 +21,22 @@ _Last refreshed: 2026-10-20T16:17:01-07:00_
 ## Status Breakdown
 
 - -/5: 1
-- applied: 413
+- applied: 412
 - discarded: 6
 - evaluated: 8
 - pending: 1
-- referral pending: 4
-- rejected: 289
+- rejected: 293
 - responded: 6
-- skip: 125
+- skip: 126
 
 ## Recent Activity
 
-- 2026-10-20: HappyRobot | Product Engineer Intern | applied
 - 2026-10-20: Fulcrum | Generalist | applied
 - 2026-10-20: Clipboard | Revenue Strategy & Growth Associate | applied
 - 2026-10-20: Figma | Early Career, Associate Product Manager (2027) | applied
 - 2026-10-20: Clipboard Health | Revenue Strategy & Growth Associate | applied
 - 2026-10-20: Fulcrum Research | Generalist (Strategic Ops & Product) | applied
+- 2026-10-20: HappyRobot | Product Engineer Intern | skip
 - 2026-10-19: Spectral Labs | Engineer, New Grad | applied
 - 2026-10-19: Mercor | Delivery Engineer, Frontier Data Products | applied
 - 2026-10-19: Mercor | Strategic Project Associate | rejected
