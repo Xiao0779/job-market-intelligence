@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-09-12T16:36:56-07:00_
+_Last refreshed: 2026-10-20T16:17:01-07:00_
 
 ## Positioning
 
@@ -10,40 +10,38 @@ _Last refreshed: 2026-09-12T16:36:56-07:00_
 
 ## Snapshot
 
-- Tracked roles: 990
-- Active roles: 555
-- Response rate: 1.5%
+- Tracked roles: 1004
+- Active roles: 427
+- Response rate: 0.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.09
+- Average evaluated score: 7.03
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 529
-- applied ✅: 1
-- discarded: 7
-- evaluated: 16
-- interview: 4
+- applied: 413
+- discarded: 6
+- evaluated: 8
 - pending: 1
 - referral pending: 4
-- rejected: 145
+- rejected: 289
 - responded: 6
 - skip: 125
 
 ## Recent Activity
 
-- 2026-09-09: Tencent | AI Business Analyst Intern (108039, IEG Strategy & Investment) | applied
-- 2026-09-05: Terex (Genie) | [2027] Genie Leadership Development Program (GLDP) | applied
-- 2026-09-05: Handshake AI | Strategic Projects Associate | applied
-- 2026-09-04: Handshake | Strategic Projects Associate | applied
-- 2026-09-04: Canvas Medical | Solutions Consultant | applied
-- 2026-09-04: Terex | 2027 Genie Leadership Development Program | applied
-- 2026-09-04: Henry Ford Health | Associate Data Scientist | applied
-- 2026-09-04: Vermeer Corporation | Data Analyst I - Operations | applied
-- 2026-09-04: Roblox | [2027] Associate Product Manager, Early Career | applied
-- 2026-09-03: Amgen | Data Scientist | applied
+- 2026-10-20: HappyRobot | Product Engineer Intern | applied
+- 2026-10-20: Fulcrum | Generalist | applied
+- 2026-10-20: Clipboard | Revenue Strategy & Growth Associate | applied
+- 2026-10-20: Figma | Early Career, Associate Product Manager (2027) | applied
+- 2026-10-20: Clipboard Health | Revenue Strategy & Growth Associate | applied
+- 2026-10-20: Fulcrum Research | Generalist (Strategic Ops & Product) | applied
+- 2026-10-19: Spectral Labs | Engineer, New Grad | applied
+- 2026-10-19: Mercor | Delivery Engineer, Frontier Data Products | applied
+- 2026-10-19: Mercor | Strategic Project Associate | rejected
+- 2026-10-10: Google | Customer Growth Associate, Google Customer Solutions, University Graduate, 2027 Start (English) | applied
 
 ## Recommended Opportunity Queue
 
@@ -65,13 +63,13 @@ _Last refreshed: 2026-09-12T16:36:56-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 184 days with no response
-- Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 | 184 days with no response
-- Google | Software Engineer II, Early Career | 180 days with no response
-- Apple | AIML - Machine Learning Research | 173 days with no response
-- Amazon | Data Engineer II | 171 days with no response
-- Amazon | Software Development Engineer – Amazon Leo (US) | 171 days with no response
-- Amazon | Software Development Engineer - 2026 (US) | 171 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 171 days with no response
-- Esri | Product Test Engineer II - Feature Server | 171 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 171 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 222 days with no response
+- Google | Software Engineer II, Early Career | 218 days with no response
+- Apple | AIML - Machine Learning Research | 211 days with no response
+- Amazon | Data Engineer II | 209 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 209 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 209 days with no response
+- Uber | Software Engineer II - Machine Learning | 207 days with no response
+- GumGum | Data Scientist I | 205 days with no response
+- IEHP | Data Scientist I | 197 days with no response
+- Apple | Data Scientist | 196 days with no response
