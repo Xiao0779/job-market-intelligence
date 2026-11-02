@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-10-20T16:20:34-07:00_
+_Last refreshed: 2026-11-02T23:57:22-08:00_
 
 ## Positioning
 
@@ -10,37 +10,37 @@ _Last refreshed: 2026-10-20T16:20:34-07:00_
 
 ## Snapshot
 
-- Tracked roles: 1004
-- Active roles: 426
+- Tracked roles: 1039
+- Active roles: 441
 - Response rate: 0.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 7.03
+- Average evaluated score: 6.88
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 412
+- applied: 428
 - discarded: 6
-- evaluated: 8
+- evaluated: 7
 - pending: 1
-- rejected: 293
+- rejected: 305
 - responded: 6
-- skip: 126
+- skip: 134
 
 ## Recent Activity
 
-- 2026-10-20: Fulcrum | Generalist | applied
-- 2026-10-20: Clipboard | Revenue Strategy & Growth Associate | applied
-- 2026-10-20: Figma | Early Career, Associate Product Manager (2027) | applied
-- 2026-10-20: Clipboard Health | Revenue Strategy & Growth Associate | applied
-- 2026-10-20: Fulcrum Research | Generalist (Strategic Ops & Product) | applied
-- 2026-10-20: HappyRobot | Product Engineer Intern | skip
-- 2026-10-19: Spectral Labs | Engineer, New Grad | applied
-- 2026-10-19: Mercor | Delivery Engineer, Frontier Data Products | applied
-- 2026-10-19: Mercor | Strategic Project Associate | rejected
-- 2026-10-10: Google | Customer Growth Associate, Google Customer Solutions, University Graduate, 2027 Start (English) | applied
+- 2026-11-02: Shopify | Apprentice Product Manager - Spring 2027 | applied
+- 2026-11-02: Pinterest | Master's University Grad Data Scientist (USA) | applied
+- 2026-11-02: Astera Labs | Applied AI NCG (Non Silicon) | applied
+- 2026-11-02: Astera Labs | Data Analyst NCG | applied
+- 2026-11-02: Astera Labs | Sales Operation Analyst NCG | applied
+- 2026-11-02: Recidiviz | Data Analyst (Entry-Level) | applied
+- 2026-11-02: Salesforce | AI Labs Rotational Fellowship, Emerging Talent | applied
+- 2026-11-02: Deploy | Product Analyst - Sports, Media, & Marketing | applied
+- 2026-11-02: Deploy | Data Operations Analyst | applied
+- 2026-11-02: T-Mobile | Associate Product Manager - App | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +62,13 @@ _Last refreshed: 2026-10-20T16:20:34-07:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 222 days with no response
-- Google | Software Engineer II, Early Career | 218 days with no response
-- Apple | AIML - Machine Learning Research | 211 days with no response
-- Amazon | Data Engineer II | 209 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 209 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 209 days with no response
-- Uber | Software Engineer II - Machine Learning | 207 days with no response
-- GumGum | Data Scientist I | 205 days with no response
-- IEHP | Data Scientist I | 197 days with no response
-- Apple | Data Scientist | 196 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 235 days with no response
+- Apple | AIML - Machine Learning Research | 224 days with no response
+- Amazon | Data Engineer II | 222 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 222 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 222 days with no response
+- Uber | Software Engineer II - Machine Learning | 220 days with no response
+- GumGum | Data Scientist I | 218 days with no response
+- IEHP | Data Scientist I | 210 days with no response
+- Apple | Data Scientist | 209 days with no response
+- Nvidia | Deep Learning Software Engineer | 208 days with no response

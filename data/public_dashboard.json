@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-20T16:20:34-07:00",
+  "refreshed_at": "2026-11-02T23:57:22-08:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,20 +12,20 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 1004,
-    "active_roles": 426,
+    "tracked_roles": 1039,
+    "active_roles": 441,
     "response_rate_pct": 0.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 7.03
+    "avg_evaluated_score": 6.88
   },
   "status_counts": {
     "responded": 6,
-    "applied": 412,
-    "rejected": 293,
-    "skip": 126,
-    "evaluated": 8,
+    "applied": 428,
+    "rejected": 305,
+    "skip": 134,
+    "evaluated": 7,
     "discarded": 6,
     "pending": 1,
     "-/5": 1
@@ -33,7 +33,7 @@
   "top_companies": [
     {
       "company": "Pinterest",
-      "count": 22
+      "count": 23
     },
     {
       "company": "Amazon",
@@ -68,79 +68,79 @@
       "count": 9
     },
     {
-      "company": "Brex",
-      "count": 7
+      "company": "Applied Materials",
+      "count": 8
     }
   ],
   "recent_roles": [
     {
-      "date_found": "2026-10-20",
-      "company": "Fulcrum",
-      "role": "Generalist",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-10-20",
-      "company": "Clipboard",
-      "role": "Revenue Strategy & Growth Associate",
+      "date_found": "2026-11-02",
+      "company": "Shopify",
+      "role": "Apprentice Product Manager - Spring 2027",
       "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-10-20",
-      "company": "Figma",
-      "role": "Early Career, Associate Product Manager (2027)",
+      "date_found": "2026-11-02",
+      "company": "Pinterest",
+      "role": "Master's University Grad Data Scientist (USA)",
+      "location": "Palo Alto",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-11-02",
+      "company": "Astera Labs",
+      "role": "Applied AI NCG (Non Silicon)",
+      "location": "San Jose",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-11-02",
+      "company": "Astera Labs",
+      "role": "Data Analyst NCG",
+      "location": "San Jose",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-11-02",
+      "company": "Astera Labs",
+      "role": "Sales Operation Analyst NCG",
+      "location": "San Jose",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-11-02",
+      "company": "Recidiviz",
+      "role": "Data Analyst (Entry-Level)",
+      "location": "Oakland",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-11-02",
+      "company": "Salesforce",
+      "role": "AI Labs Rotational Fellowship, Emerging Talent",
       "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-10-20",
-      "company": "Clipboard Health",
-      "role": "Revenue Strategy & Growth Associate",
-      "location": "US Remote; $80-120K base+bonus; YC\u660e\u661f\u516c\u53f82016\u6210\u7acb/2022\u8d77\u76c8\u5229/1000+\u4eba\u8fdc\u7a0b\u4f18\u5148,\u533b\u7597\u4eba\u5458\u6d3e\u73ed\u5e73\u53f0(Xiao\u662fClipboard\u6b63\u5f0f\u5458\u5de5,\u975e\u52b3\u52a1\u6d3e\u9063); \"0-2 years\"\u660e\u5199; \u5168\u80fd\u5206\u6790\u5c97framing\u2192delivery; \u7b80\u5386xiao_long_resume_clipboard_revenue(Olist/Churn/JMI,\u6bcf\u9879\u843d\u5230\u5efa\u8bae); \u540c\u516c\u53f8Sales Operations Analyst(\u65e0\u5e74\u9650,AI-native)\u5f85\u6295",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-10-20",
-      "company": "Fulcrum Research",
-      "role": "Generalist (Strategic Ops & Product)",
-      "location": "",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-10-20",
-      "company": "HappyRobot",
-      "role": "Product Engineer Intern",
-      "location": "",
-      "status": "skip"
-    },
-    {
-      "date_found": "2026-10-19",
-      "company": "Spectral Labs",
-      "role": "Engineer, New Grad",
+      "date_found": "2026-11-02",
+      "company": "Deploy",
+      "role": "Product Analyst - Sports, Media, & Marketing",
       "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-10-19",
-      "company": "Mercor",
-      "role": "Delivery Engineer, Frontier Data Products",
+      "date_found": "2026-11-02",
+      "company": "Deploy",
+      "role": "Data Operations Analyst",
       "location": "San Francisco",
       "status": "applied"
     },
     {
-      "date_found": "2026-10-19",
-      "company": "Mercor",
-      "role": "Strategic Project Associate",
-      "location": "San Francisco",
-      "status": "rejected"
-    },
-    {
-      "date_found": "2026-10-10",
-      "company": "Google",
-      "role": "Customer Growth Associate, Google Customer Solutions, University Graduate, 2027 Start (English)",
-      "location": "San Francisco",
+      "date_found": "2026-11-02",
+      "company": "T-Mobile",
+      "role": "Associate Product Manager - App",
+      "location": "Bellevue",
       "status": "applied"
     }
   ]
