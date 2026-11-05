@@ -1,6 +1,6 @@
 # Daily Job Search Summary
 
-_Last refreshed: 2026-11-02T23:57:22-08:00_
+_Last refreshed: 2026-11-05T15:16:05-08:00_
 
 ## Positioning
 
@@ -10,37 +10,36 @@ _Last refreshed: 2026-11-02T23:57:22-08:00_
 
 ## Snapshot
 
-- Tracked roles: 1039
-- Active roles: 441
+- Tracked roles: 1064
+- Active roles: 456
 - Response rate: 0.8%
 - LinkedIn outreach sent: 28
 - Pending pipeline items: 155
 - Recommended pipeline items: 36
-- Average evaluated score: 6.88
+- Average evaluated score: 6.78
 
 ## Status Breakdown
 
 - -/5: 1
-- applied: 428
+- applied: 447
 - discarded: 6
-- evaluated: 7
-- pending: 1
-- rejected: 305
+- evaluated: 3
+- rejected: 311
 - responded: 6
-- skip: 134
+- skip: 139
 
 ## Recent Activity
 
-- 2026-11-02: Shopify | Apprentice Product Manager - Spring 2027 | applied
-- 2026-11-02: Pinterest | Master's University Grad Data Scientist (USA) | applied
-- 2026-11-02: Astera Labs | Applied AI NCG (Non Silicon) | applied
-- 2026-11-02: Astera Labs | Data Analyst NCG | applied
-- 2026-11-02: Astera Labs | Sales Operation Analyst NCG | applied
-- 2026-11-02: Recidiviz | Data Analyst (Entry-Level) | applied
-- 2026-11-02: Salesforce | AI Labs Rotational Fellowship, Emerging Talent | applied
-- 2026-11-02: Deploy | Product Analyst - Sports, Media, & Marketing | applied
-- 2026-11-02: Deploy | Data Operations Analyst | applied
-- 2026-11-02: T-Mobile | Associate Product Manager - App | applied
+- 2026-11-05: Perpay | Junior Strategic Analyst | applied
+- 2026-11-05: Vivid Seats | Data Analyst II | applied
+- 2026-11-05: Splash | Operations Data Analyst | applied
+- 2026-11-05: Fetch | Business Intelligence Analyst | applied
+- 2026-11-05: CentralReach | Technical Product Analyst | applied
+- 2026-11-05: StubHub | Strategy & Operations Associate - Global Customer Success | applied
+- 2026-11-05: iSpot | Associate Data Analyst | applied
+- 2026-11-05: iSpot | Associate Data Analyst (Client Data Science) | applied
+- 2026-11-05: Perpay | Super Day - Business Operations Associate (Rotational Program) | skip
+- 2026-11-05: Fetch (pet insurance) | Business Intelligence Analyst | applied
 
 ## Recommended Opportunity Queue
 
@@ -62,13 +61,13 @@ _Last refreshed: 2026-11-02T23:57:22-08:00_
 
 ## Needs Attention
 
-- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 235 days with no response
-- Apple | AIML - Machine Learning Research | 224 days with no response
-- Amazon | Data Engineer II | 222 days with no response
-- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 222 days with no response
-- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 222 days with no response
-- Uber | Software Engineer II - Machine Learning | 220 days with no response
-- GumGum | Data Scientist I | 218 days with no response
-- IEHP | Data Scientist I | 210 days with no response
-- Apple | Data Scientist | 209 days with no response
-- Nvidia | Deep Learning Software Engineer | 208 days with no response
+- Microsoft | Applied Scientist: Microsoft AI Development Acceleration Program | 238 days with no response
+- Apple | AIML - Machine Learning Research | 227 days with no response
+- Amazon | Data Engineer II | 225 days with no response
+- Amazon | 软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years) | 225 days with no response
+- Esri | Product Engineer II - ArcGIS Enterprise Sharing API | 225 days with no response
+- Uber | Software Engineer II - Machine Learning | 223 days with no response
+- GumGum | Data Scientist I | 221 days with no response
+- IEHP | Data Scientist I | 213 days with no response
+- Apple | Data Scientist | 212 days with no response
+- Nvidia | Deep Learning Software Engineer | 211 days with no response

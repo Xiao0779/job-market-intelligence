@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-02T23:57:22-08:00",
+  "refreshed_at": "2026-11-05T15:16:05-08:00",
   "headline": "Data scientist and ML researcher graduating UCSD June 2026, bridging rigorous analysis with applied AI",
   "primary_roles": [
     "Data Analyst",
@@ -12,22 +12,21 @@
     "AI Research Engineer (New Grad)"
   ],
   "metrics": {
-    "tracked_roles": 1039,
-    "active_roles": 441,
+    "tracked_roles": 1064,
+    "active_roles": 456,
     "response_rate_pct": 0.8,
     "linkedin_sent": 28,
     "pending_pipeline": 155,
     "recommended_pipeline": 36,
-    "avg_evaluated_score": 6.88
+    "avg_evaluated_score": 6.78
   },
   "status_counts": {
     "responded": 6,
-    "applied": 428,
-    "rejected": 305,
-    "skip": 134,
-    "evaluated": 7,
+    "applied": 447,
+    "rejected": 311,
+    "skip": 139,
+    "evaluated": 3,
     "discarded": 6,
-    "pending": 1,
     "-/5": 1
   },
   "top_companies": [
@@ -74,73 +73,73 @@
   ],
   "recent_roles": [
     {
-      "date_found": "2026-11-02",
-      "company": "Shopify",
-      "role": "Apprentice Product Manager - Spring 2027",
+      "date_found": "2026-11-05",
+      "company": "Perpay",
+      "role": "Junior Strategic Analyst",
+      "location": "Philadelphia, PA",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-11-05",
+      "company": "Vivid Seats",
+      "role": "Data Analyst II",
+      "location": "Chicago, IL",
+      "status": "applied"
+    },
+    {
+      "date_found": "2026-11-05",
+      "company": "Splash",
+      "role": "Operations Data Analyst",
       "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-11-02",
-      "company": "Pinterest",
-      "role": "Master's University Grad Data Scientist (USA)",
-      "location": "Palo Alto",
+      "date_found": "2026-11-05",
+      "company": "Fetch",
+      "role": "Business Intelligence Analyst",
+      "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-11-02",
-      "company": "Astera Labs",
-      "role": "Applied AI NCG (Non Silicon)",
-      "location": "San Jose",
+      "date_found": "2026-11-05",
+      "company": "CentralReach",
+      "role": "Technical Product Analyst",
+      "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-11-02",
-      "company": "Astera Labs",
-      "role": "Data Analyst NCG",
-      "location": "San Jose",
+      "date_found": "2026-11-05",
+      "company": "StubHub",
+      "role": "Strategy & Operations Associate - Global Customer Success",
+      "location": "Atlanta",
       "status": "applied"
     },
     {
-      "date_found": "2026-11-02",
-      "company": "Astera Labs",
-      "role": "Sales Operation Analyst NCG",
-      "location": "San Jose",
+      "date_found": "2026-11-05",
+      "company": "iSpot",
+      "role": "Associate Data Analyst",
+      "location": "Remote",
       "status": "applied"
     },
     {
-      "date_found": "2026-11-02",
-      "company": "Recidiviz",
-      "role": "Data Analyst (Entry-Level)",
-      "location": "Oakland",
+      "date_found": "2026-11-05",
+      "company": "iSpot",
+      "role": "Associate Data Analyst (Client Data Science)",
+      "location": "Remote (Bellevue/NYC hybrid if local); $76.8-92.9K cash + options; Greenhouse ispot 4742654005 (posted 10/16); 95% hands-on R/Python/SQL reporting + ML/stats; bachelor quant OR social science; 1+ yr SQL/Python; AI coding tools; AWS S3 preferred; no sponsorship now or transfer (current authorization required, OPT not named); earlier #251 Research DS 1 (May, no response); gaps: ad tech/TV measurement, Snowflake/Databricks/JIRA; resume xiao_long_resume_ispot_ada + CL",
       "status": "applied"
     },
     {
-      "date_found": "2026-11-02",
-      "company": "Salesforce",
-      "role": "AI Labs Rotational Fellowship, Emerging Talent",
-      "location": "San Francisco",
-      "status": "applied"
+      "date_found": "2026-11-05",
+      "company": "Perpay",
+      "role": "Super Day - Business Operations Associate (Rotational Program)",
+      "location": "",
+      "status": "skip"
     },
     {
-      "date_found": "2026-11-02",
-      "company": "Deploy",
-      "role": "Product Analyst - Sports, Media, & Marketing",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-11-02",
-      "company": "Deploy",
-      "role": "Data Operations Analyst",
-      "location": "San Francisco",
-      "status": "applied"
-    },
-    {
-      "date_found": "2026-11-02",
-      "company": "T-Mobile",
-      "role": "Associate Product Manager - App",
-      "location": "Bellevue",
+      "date_found": "2026-11-05",
+      "company": "Fetch (pet insurance)",
+      "role": "Business Intelligence Analyst",
+      "location": "Remote US, NYC hybrid preferred; $70-75K + bonus; Greenhouse fetch 4433775009 (posted 10/05); not Fetch Rewards (#616); SSAS Tabular models, SQL procedures/views/scheduled jobs, Power BI/Tableau, Excel; shelter/breeder/sales channel reporting + compensation models; regulatory reporting (Bordereaux/MCAS/NAPHIA); AI enablement, Claude named as preferred; 1-3 yrs; more BI dev/reporting than analysis; gaps: SSAS, Power BI, stored procedures, insurance; extra application (low cost); resume xiao_long_resume_fetch_bi + CL",
       "status": "applied"
     }
   ]
